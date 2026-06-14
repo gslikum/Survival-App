@@ -31,7 +31,9 @@ else
             <div class="article-text-content">
                 @foreach (var paragraph in Article.TextSections)
                 {
-                    <p class="article-paragraph">@paragraph</p>
+                    <div class="article-paragraph-markdown">
+                        @((MarkupString)Markdig.Markdown.ToHtml(paragraph))
+                    </div>
                 }
             </div>
 
