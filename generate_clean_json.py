@@ -1049,33 +1049,213 @@ The human body uses its own stored vitamins and minerals to digest the lean prot
         "description": "Constructing emergency shelters, starting campfires, and mastering survival knots.",
         "articles": [
             {
-                "title": "Building Shelters",
-                "subtitle": "Selecting camp sites and building lean-tos and debris huts.",
+                "title": "Shelter & Making Camp",
+                "subtitle": "Mindset for camp site selection, weather considerations, and choosing locations.",
                 "imageName": "campcraft.jpg",
                 "textSections": [
-                    "A shelter keeps you dry, protects you from wind, and conserves body heat. Before building, select a site that is flat, dry, free of overhead hazards (like dead tree limbs or rockfalls), and close to water but high enough to avoid flash floods.",
-                    "The Lean-To is a quick shelter built by securing a horizontal ridgepole between two trees, leaning poles against it at a 45-degree angle, and covering them with pine branches, leaves, or a tarp. The Debris Hut is a highly insulated A-frame shelter constructed around a single long ridgepole supported by a tripod.",
-                    "Insulation from the ground is critical. The cold earth will pull heat from your body much faster than the surrounding air. Build a sleeping mattress inside your shelter by stacking at least 6 inches of dry leaves, pine needles, or ferns to insulate your sleeping bag or body."
+                    """### Shelter & Making Camp
+
+Shelter is necessary to give shade, to repel wind and rain and to keep in warmth. Sleep and adequate rest are essential and the time and effort you put into making your shelter comfortable will make them easier to get. If you are the victim of a plane crash or a vehicle that has let you down, it may provide a shelter or materials from which one can be built - but if there is fire or the threat of fuel tanks exploding, wait until it has burned out before attempting salvage.
+
+If you are the unequipped victim of an accident, are trapped by unexpected mist or caught by nightfall in terrain where it is not safe to proceed, or if exhaustion or injury prevents you going further, you may have to make do with any natural shelter that you can find for the night, or until you can more fully assess the situation. In this case, virtually any protection from wind, rain and cold will be welcome. If movement down a slope seems risky, traversing even a short way along the contour may bring you out of the wind. If no cave or crevice is available to give shelter, make use of any hollow in the ground. Add to its height, if you can, by piling up rocks - but make sure that any structure is stable and use a back-pack, if you have one, to increase the windshield before settling down on the leeward side.
+
+If there is still daylight to see by, you have no injuries to handicap you and are not isolated by unnegotiable cliffs or other barriers, it will be worth seeking possible better places in the vicinity. For a long-term camp you should find a secure site with convenient access to your major needs.""",
+                    """### Where to Camp
+
+If you are on high exposed ground go lower down to find a sheltered spot, but on low, wet ground you will need to climb higher to find somewhere securely dry. Look for somewhere sheltered from the wind, on rising ground that has no risk of flooding and is safe from rock falls or avalanches.
+
+Hot air rises, cold air sinks, so valley bottoms will often contain pockets of colder air and, in cold weather, be susceptible to frost and damp mist. In areas that get plenty of rainfall, terraces across a slope will often be damper than the steeper ground above and below them, for water collects there before flowing further downward.
+
+Ideally you should be near water, with a plentiful supply of wood near at hand. Pitching camp too close to water, however, may lead you to be troubled by insects, and the sound of running water can hide other noises which might indicate danger, or the sound of search or rescue parties.
+
+On river banks look for the high water mark: in mountain regions streams can become torrents in minutes, rising as much as 5m (17ft) in an hour! Even on plains keep out of old watercourses, no matter how dry they are. Heavy rainfall in nearby hills can easily send water rushing down them in flash floods, with practically no warning.
+
+Choose ground that is reasonably flat and free of rocks and make sure that you have space to layout signals and that you can be easily spotted by rescue parties.
+
+Check above your head for bees' or hornets' nests and for dead wood in trees that could come crashing down in the next storm or high wind. Keep away from solitary trees, which attract lightning, and in forest areas keep to the edges, where you can see what is going on around you. Don't camp across a game trail - you don't want marauding animals as unwelcome guests or to find your bivouac flattened by a herd of animals on their way to a waterhole - but stay near to any obvious human tracks."""
                 ]
             },
             {
-                "title": "Fire Lighting Techniques",
-                "subtitle": "Firewood selection, structures, and primitive ignition.",
+                "title": "Types of Shelters",
+                "subtitle": "Hasty covers, bough/root shelters, saplings, and sheet setups.",
                 "imageName": "campcraft.jpg",
                 "textSections": [
-                    "Fire provides heat, cooks food, purifies water, keeps predators away, and boosts morale. To build a fire, gather wood in three distinct sizes:\n1. Tinder: Fine, dry, fibrous materials that catch sparks easily (birch bark, dry grass, pine resin, char-cloth).\n2. Kindling: Small twigs and split wood that ignite easily from the tinder.\n3. Fuel: Thick logs that burn hot and slow for long periods.",
-                    "Arrange your tinder bundle in the center of your fire pit, and build a teepee or log-cabin structure of kindling over it. This allows oxygen to enter the base and feed the rising flames. Have a large stack of kindling and fuel ready before you light your tinder.",
-                    "When matches are unavailable, strike a ferrocerium rod at a 45-degree angle close to your tinder to throw hot sparks. Alternatively, focus sunlight through a magnifying glass, or use a bow drill to create an ember through wood friction."
+                    """### Hasty & Bough Shelters
+
+The type of shelter you build will depend upon local conditions and the materials available - and upon how long you expect to need it. For immediate protection from the elements, rig up a makeshift shelter while you construct something better and more permanent. If you decide to stay put and wait for rescue, a more long-term shelter can be built and improved on as time and energy permit.
+
+*   **Hasty Shelters**: If no materials are available for constructing a shelter, make use of any cover and protection that is available: cliff overhangs, gradients and so forth, which will help shield you from wind or rain. Incorporate natural windbreaks. In completely open plains, sit with your back to the wind and pile any equipment behind you as a windbreak.
+*   **Bough Shelters**: Make use of branches that sweep down to the ground or boughs that have partly broken from the tree to give basic protection from the wind - but make sure that they are not so broken that they could come down on your head! Weave in other twigs to make the cover more dense. Conifers are more suited to this technique than broad-leaved trees, as they require less weaving-in to keep out rain.
+*   **Root Shelter**: The spreading roots and trapped earth at the base of a fallen tree make a good wind and storm barrier, if they are at the right angle to the wind. Filling in the sides between the extended roots will usually make the shelter much more effective, and provide a good support for building a more elaborate shelter from other materials.""",
+                    """### Natural Hollows, Fallen Trunks & Barriers
+
+*   **Natural Hollows**: Even a shallow depression in the ground will provide some protection from wind and can reduce the effort in constructing a shelter. However, take measures to deflect the downhill flow of water around it, especially if it is a hollow on a slope, or you could find yourself lying in a pool. Make a roof to keep the rain off and the warmth in. A few strong branches placed across the hollow can support a light log laid over them, against which shorter boughs and sticks can be stacked to give pitch to the roof and so allow water to run off. Consolidate with turf or with twigs and leaves.
+*   **Fallen Trunks**: A log or fallen tree trunk makes a useful windbreak on its own, if it is at the right angle to the wind. With a small trunk, scoop out a hollow in the ground on the leeward side. A log also makes an excellent support for a lean-to roof of boughs.
+*   **Stone Barriers**: A shelter is more comfortable if you can sit rather than lie in it, so increase its height by building a low wall of stones around your chosen hollow or shallow excavation. Caulk between the stones (especially the lowest layer) with turf and foliage mixed with mud.
+*   **Sapling Shelter**: If suitable sapling growth is available, select two lines of saplings, clear the ground between them of any obstructions and lash their tops together to form a support frame for sheeting. Weigh down the bottom edges of the sheeting with rocks or timber.""",
+                    """### Shelter Sheets & Covered Lean-Tos
+
+*   **Shelter Sheet**: With a waterproof poncho, groundsheet or a piece of plastic sheeting or canvas, you can quickly and easily make a number of different shelters. Make a triangular shelter with the apex pointing into the wind. Stake or weigh down edges. If it is long enough, curl the sheeting below you - running downhill so that it keeps out surface water. Use dry grass or bracken as bedding. Do not lie on cold or damp ground.
+*   **Tepees**: The quickest type to erect has three or more angled support poles, tied where they cross to make a cone. They can be tied on the ground and lifted into place before covering with hides, birch bark panels or sheeting. Leave an opening at the top for ventilation.
+*   **Coverings**: Make wattle and woven coverings for roofs or walls from springy saplings, plant stems, grasses and long leaves. Overlap large leaves like tiles to keep out rain.
+*   **Open Lean-To Shelter**: Erect a horizontal cross-piece between trees or on simple supports. On the windward side lean a panel of wattle, or tie or lean saplings at 45 degrees to make a roof. Site your fire on the leeward side. Add side pieces and build a reflector on the other side of the fire to make sure that you get the full benefit of the warmth. You can take this to its logical conclusion by adding a canopy to the front supported by vertical poles."""
                 ]
             },
             {
-                "title": "Essential Knots",
-                "subtitle": "Mastering the five most versatile knots for camp construction.",
+                "title": "Tropical & Bamboo Shelter",
+                "subtitle": "Raised jungle beds, Atap thatch weaving, and using bamboo.",
                 "imageName": "campcraft.jpg",
                 "textSections": [
-                    "Knots are essential for securing shelters, hanging gear, and rescue operations. You must practice them until you can tie them in the dark with cold hands:\n1. The Bowline: Creates a secure, fixed loop at the end of a rope that will not slip or jam under tension. Often called the king of knots, it is ideal for rescue lines.",
-                    "2. The Clove Hitch: A quick knot used to secure a rope to a post or tree trunk, commonly used to start lashings for shelter poles.\n3. The Square Knot (Reef Knot): A simple knot used to join two ropes of equal thickness. It is easy to tie and untie.\n4. The Sheet Bend: Used to join two ropes of unequal thickness, ensuring a secure connection even with mismatched cordage.",
-                    "5. The Taut-Line Hitch: A friction hitch that allows you to easily adjust the tension of a line. It is excellent for securing tent and tarp guy-lines. Keep all ropes dry and inspect them regularly for fraying or wear."
+                    """### Tropical Raised Bed & Atap Thatching
+
+In rain forests and tropical jungle the ground is damp and likely to be crawling with insect life, leeches and other undesirables. Instead of bedding down on the ground you will be better in a raised bed. Consequently you may want to make higher shelters.
+
+Unless you are at an altitude high enough to make the nights cold, you will be less concerned with protection from the wind than with keeping reasonably dry. A thatching of palm, banana and other large leaves makes the best roofs and walls.
+
+*   **ATAP (Wait-a-while vine)**: Atap is especially useful, despite the barbs at each leaf tip which make careful handling necessary. Atap is best used horizontally, splitting each leaf into two from the tip then tearing it into two clean halves down its length. Closely layer halves of atap on your roof frame. You can let it be a little less dense on walls. Woven atap can be particularly effective for the sides of a shelter.
+*   **Interweaving Leaflets**: Fold the leaflets on one side across to the other and interweave them. Three-lobed leaves can be locked over a thatching frame without any other fixing being necessary to hold them in place. Palm and other long-stemmed leaves can be secured by carrying the stem around the batten and over the front of the leaf, where it is held in place by the next leaf. Leaves must overlap those below on the outside of the shelter.""",
+                    """### Working with Bamboo
+
+Bamboo, a large-stemmed grass, is a very versatile building material and can be used for pole supports, flooring, roofing and walls.
+
+*   **Roofing & Guttering**: Split bamboo vertically to make roofing and guttering to collect rainwater. The split stems, laid alternately to interlock with one another, form efficient and waterproof pantiles.
+*   **Flooring & Walls**: Flatten split bamboo for smooth walls, floors or shelving by cutting vertically through the joints every 1.25cm (1/2in) or so around the circumference. It can then be smoothed out.
+
+> [!WARNING]
+> Take great care when collecting bamboo. It grows in clumps that are often a tangled mass. Some stems are under tension and when cut fly forcefully and dangerously apart, exploding into sharp slivers.
+> Split bamboo can be razor-sharp and cause serious injury. The husks at the base of bamboo stems carry small stinging hairs which cause severe skin irritations."""
+                ]
+            },
+            {
+                "title": "Arctic & Snow Shelter",
+                "subtitle": "Snow caves, trenches, igloos (spiral/circular), and ventilation safety.",
+                "imageName": "campcraft.jpg",
+                "textSections": [
+                    """### Polar Bivouacs & Snow Trenches
+
+In polar areas simple shelters will be those already waiting for you in natural caves and hollows. If you carry some kind of bivouac, you can erect it and increase its protection by piling up loose snow around and over it. To build in hard snow, you need some kind of implement like spades or ice saws to cut it into blocks.
+
+*   **Conifer Spaces**: A medium-sized tree in northern forests may have a natural space right around the trunk beneath the spreading boughs. Try digging under any tree with spreading branches on the lee side.
+*   **Snow Trench**: A quick shelter suitable for one person for short-term use. Mark out an area the size of a sleeping bag and cut out blocks. Dig down at least 60cm (2ft). Along the top of the sides cut a ledge 15cm (6in) wide and deep. Rest the snow bricks on each side of the ledge and lean them in against each other to form a roof. Block the windward end with a block or piled snow, and use a removable block as a door downwind. Fill gaps with loose snow.""",
+                    """### Snow Caves & Igloos
+
+*   **Snow Cave**: Dig into a drift of firm snow. Create three levels inside: build a fire on the highest, sleep on the center one, and keep off the lower level which will trap the cold air. Drive a hole through the roof for smoke and another for ventilation. Use a loose-fitting block on the inside as a door so it won't freeze up and jam. Smooth the inside surfaces to discourage melt drips and make a perimeter channel to carry moisture away.
+*   **Igloo (Circular Method)**: Mark a circle about 4m (13ft) in diameter and tramp it down. Cut and lay a circle of blocks (45 x 50cm and 10-20cm thick). Center new blocks over the previous vertical joints. Place each layer halfway over the lower tier so it tapers dome-shaped. Make ventilation holes near the top and bottom. Smooth the inside to remove drip-points.
+*   **Igloo (Spiral Method)**: Lay the first course of blocks and shape them to the required spiral. Angle the top edge slightly down towards the center. Shape top and bottom faces of subsequent courses to lean inwards. Cut the final block to fit.""",
+                    """### Inside the Snow Shelter & Safety Tips
+
+*   **Temperature**: No matter how low the external temperature, inside a well-constructed snow house the temperature will not drop lower than -10°C (14°F). Just burning a candle will raise it by about four degrees.
+*   **Dryness**: Do not carry loose snow into the shelter; knock it off boots and clothing before entering.
+*   **Tools**: Keep shovels and tools inside the shelter - you may have to dig yourself out.
+*   **Igloo Drips**: Drips can be stopped by placing a piece of snow on the source.
+
+> [!IMPORTANT]
+> All shelters MUST be adequately ventilated to prevent carbon monoxide poisoning and allow moisture to escape. Two holes are needed - one near the top and one near the entrance. Regularly check holes to ensure they have not become blocked by snow or ice."""
+                ]
+            },
+            {
+                "title": "Long-Term Cabins & Caves",
+                "subtitle": "Constructing log cabins, jointing corners, rock shelters, and sanitation.",
+                "imageName": "campcraft.jpg",
+                "textSections": [
+                    """### Using Caves
+
+Caves are the most ready-made of shelters. Even a shallow rock shelter offers an excellent temporary shelter, and a larger cave can make an excellent permanent home.
+*   **Wind Screen**: If the cave faces into the wind, build a screen out from both sides, one slightly behind the other, overlapping them to provide a baffled entrance.
+*   **Fire Placement**: Build the fire at the back of the cave. Smoke will go up to the roof, leaving clear air nearer the floor. A fire near the mouth will pull smoke inwards.
+
+> [!WARNING]
+> Check for the possibility of a rock fall inside or outside the cave. Ensure any structure is stable. Animals may occupy the cave; a good fire will usually make them leave. Allow them an escape route.""",
+                    """### Building a Log Cabin
+
+A log cabin provides a highly durable permanent home. Scale your cabin to the number it is to house. A 2.5m (8ft) square is a sensible small size.
+*   **Corner Joints**: Lay down your first layer of logs in the shape of your hut. Joint the corners by notching them to fit on top of each other. Center new logs to lock the walls. Place logs alternately top-to-bottom to counter natural wood tapering.
+*   **Doorway & Ventilation**: Leave space for a doorway on the side away from the prevailing wind. Wedge a sturdy door frame in place. The doorway provides sufficient ventilation; windows are unnecessary.
+*   **Roofing**: Build up the front higher than the back to give pitch to the roof. Lay a roof of logs or light timber frame, notch them, and cover with saplings, mud, and turf. Bark from the logs makes an excellent top covering if laid as tiles.
+*   **Caulking**: Caulk between logs with mud, wood chips, grass, and moss. Use a sharpened stick to force it into the seams.
+
+### Sanitation & Clean Water
+*   **Ablutions**: All washing, cleaning, and waste disposal must be carried out **downstream** of your camp to ensure your drinking water supply upstream remains uncontaminated."""
+                ]
+            },
+            {
+                "title": "Fire Lighting & Fuel",
+                "subtitle": "Fireplace preparation, tinder/kindling, temple fires, and alternate fuels.",
+                "imageName": "campcraft.jpg",
+                "textSections": [
+                    """### Fireplace Preparation & Design
+
+Fire is essential to survival. It provides warmth, protection, signals, and purifies water.
+*   **Clearance**: Scrape away leaves, twigs, moss, and dry grass from a circle at least 2m (6ft) across down to bare earth. Except for signals or to warm a temporary bough shelter, do not light a fire at the base of a tree or stump.
+*   **Platform (Wet Ground)**: On wet ground or snow, build the fire on a platform of green logs covered with earth or stones.
+*   **Temple Fire**: On swampy land or deep snow, raise a hearth platform on green timber. Four uprights support cross-pieces in their forks, supporting a layer of green logs covered with several inches of earth.
+*   **Windy Design**: In strong winds, dig a trench and light the fire inside. Encircle the fire with rocks to retain heat.
+
+> [!WARNING]
+> Avoid placing wet or porous rocks near fires (especially river-submerged rocks) as they contain moisture that expands rapidly when heated, causing them to explode and throw dangerous fragments.""",
+                    """### Sourcing Tinder, Kindling & Fuel
+
+*   **Tinder**: Material that takes the minimum heat to catch alight (birch bark, dried grass, fine wood shavings, bird down, charred cotton, bat droppings). *Must be kept dry in a waterproof container.*
+*   **Kindling**: Dry twigs and softwoods that flare up quickly to raise the flames. Sourced from standing deadwood rather than the damp ground. Shave sticks with shallow cuts to "feather" them.
+*   **Fuel**: Heavy woods (hickory, oak, beech) burn hot and slow, forming long-lasting coals. Softwoods (cedar, alder, hemlock, pine) burn too fast and throw sparks. Keep green logs drying next to the fire, but not so close that they ignite.
+
+### Alternate Fuel Sources
+*   **Animal Droppings**: Dry thoroughly for a smokeless fire.
+*   **Peat**: Fibrous black peat from moors dries quickly when stacked with air gaps.
+*   **Oils & Fats**: Burn petroleum, anti-freeze, or engine oils using a wick. Mix petrol with sand in a container as a stove. Animal blubber can be burned by placing a network of bones over a starter flame to support the fat.
+*   **Oil & Water Mixture**: One of the hottest fires. Drip 2-3 drops of water to 1 drop of oil onto a hot metal plate heated by a small starter fire below."""
+                ]
+            },
+            {
+                "title": "Ignition & Cooking Utilities",
+                "subtitle": "Matches, lenses, battery sparks, wild cooking, and meat preservation.",
+                "imageName": "campcraft.jpg",
+                "textSections": [
+                    """### Methods of Ignition
+
+*   **Matches**: The easiest way. Carry "strike anywhere" matches in a waterproof container. Waterproof them by dipping heads in paraffin wax. Whenever you strike a match, **light a candle** first; you can then light many things from the candle and conserve matches.
+*   **Lens Focus**: Focus strong direct sunlight through a magnifying glass, camera lens, or telescope lens onto your tinder.
+*   **Ammunition Powder**: Pour gunpowder from a cartridge onto tinder, or stuff a cloth plug into a half-emptied casing and fire it into the ground to retrieve a smouldering ember.
+*   **Flint & Steel**: Strike a steel blade or wire saw against flint to throw sparks. Scrape magnesium shavings onto tinder first for hot ignition.
+*   **Battery Spark**: Attach two wires to a battery's terminals. Touch the bare ends together over tinder (such as a petrol-soaked cloth) to jump a spark.
+*   **Fire Bow**: Rotate a hardwood spindle on a softwood base using a bow string under tension to generate friction embers.""",
+                    """### Wilderness Cooking & Preservation
+
+Cooking makes food safe, digestible, and boosts morale.
+*   **Useful Utensils**: Improvise pots from clay, metal wreckage, or hollow green bamboo. You can boil water in a paper cup or large leaf by placing it directly over coals—the water prevents the container from burning.
+*   **Food Preservation**:
+    *   **Smoking**: Hang strips of meat or fish inside a teepee structure over a slow, smoky fire (using green hardwoods like oak or maple). Avoid pine/conifers as they deposit bitter resin.
+    *   **Drying**: Slice meat thin (6mm) and hang in the wind and hot sun away from flies.
+    *   **Salting**: Rub salt into the meat to dehydrate and preserve the flesh.
+*   **Cooking Tips**: Boil wild game thoroughly to kill parasites. Cook wild pork (boar) completely to avoid trichinosis. Roast roots in hot ashes to break down insoluble starches."""
+                ]
+            },
+            {
+                "title": "Ropes, Lines & Knots",
+                "subtitle": "Rope making from fibers, simple/joining knots, loops, and hitches.",
+                "imageName": "campcraft.jpg",
+                "textSections": [
+                    """### Making Ropes & Cordage
+
+If you lack manufactured rope, you can spin sturdy cordage from wild plant fibers, inner tree bark, nettles, or animal hide.
+*   **Fiber Sourcing**: Gather nettle stems, inner bark of cedar or elm, or fibrous roots. Soak tough bark in water to separate fibers.
+*   **Spinning Ropes**: Split the fibers into thin threads. Twist two strands tightly in a clockwise direction, then cross them over each other counter-clockwise (or vice versa). This reverse-twist lock prevents the rope from unraveling. Feed in new fibers continuously to build length.""",
+                    """### Essential Knots & Lashings
+
+Knots must be practiced until you can tie them in the dark with cold, numb hands. Keep all ropes dry and check regularly for fraying.
+*   **Simple Knots**:
+    *   **Overhand Knot**: The simplest stopper knot.
+    *   **Figure-of-Eight**: A reliable stopper knot that is easier to untie after holding a load.
+*   **Joining Ropes**:
+    *   **Square Knot (Reef Knot)**: Used to join two ropes of equal thickness. *Not for critical safety.*
+    *   **Sheet Bend**: Used to join two ropes of unequal thickness, ensuring a secure connection.
+*   **Loop-Making**:
+    *   **Bowline**: Creates a secure, fixed loop at the end of a rope that will not slip or jam. The "king of knots," ideal for rescue cradles and anchors.
+    *   **Bowline-on-the-Bight**: Creates two secure loops in the middle of a rope for hauling casualties.
+*   **Hitches**:
+    *   **Clove Hitch**: Secures a rope to a post or tree trunk, commonly used to start shelter lashings.
+    *   **Taut-Line Hitch**: A friction hitch allowing easy adjustment of line tension, perfect for tarp guy-lines.
+*   **Lashings**: Use square lashings to join poles at right angles, and shear lashings to form tripod supports for A-frame structures and tepees."""
                 ]
             }
         ]
