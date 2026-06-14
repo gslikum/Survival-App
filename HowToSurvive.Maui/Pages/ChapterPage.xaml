@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HowToSurvive.Maui.Pages.ChapterPage"
+             Title="{Binding ChapterTitle}"
+             BackgroundColor="{StaticResource Gray950}">
+
+    <Grid RowDefinitions="Auto, *">
+        <!-- Chapter Header -->
+        <Frame Grid.Row="0" Margin="15,15,15,5" Padding="15" BackgroundColor="{StaticResource Gray900}" BorderColor="{StaticResource Gray600}">
+            <VerticalStackLayout Spacing="5">
+                <Label x:Name="ChapterTitleLabel" Text="{Binding ChapterTitle}" FontSize="24" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+                <Label x:Name="ChapterDescriptionLabel" Text="Loading description..." FontSize="14" TextColor="{StaticResource Gray300}"/>
+            </VerticalStackLayout>
+        </Frame>
+
+        <!-- Articles Collection -->
+        <CollectionView Grid.Row="1" x:Name="ArticlesCollectionView" SelectionMode="Single" SelectionChanged="OnArticleSelected" Margin="15,5,15,15">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="0,5">
+                        <Frame Padding="10" BackgroundColor="{StaticResource OffBlack}" BorderColor="{StaticResource Gray600}">
+                            <Grid ColumnDefinitions="*, Auto" ColumnSpacing="10">
+                                <VerticalStackLayout Grid.Column="0" VerticalOptions="Center">
+                                    <Label Text="{Binding Title}" FontSize="18" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+                                    <Label Text="{Binding Subtitle}" FontSize="12" TextColor="{StaticResource Gray400}" MaxLines="1" LineBreakMode="TailTruncation"/>
+                                </VerticalStackLayout>
+                                <Image Grid.Column="1" Source="dotnet_bot.png" WidthRequest="24" HeightRequest="24" VerticalOptions="Center"/>
+                            </Grid>
+                        </Frame>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

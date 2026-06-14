@@ -1,0 +1,86 @@
+.navbar-brand {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: #ffffff !important;
+    letter-spacing: 1px;
+}
+
+.manual-icon {
+    color: #ff6b00;
+    margin-right: 5px;
+}
+
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    display: none;
+}
+
+.nav-icon {
+    font-size: 1.15rem;
+    margin-right: 10px;
+    width: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.nav-section-header {
+    font-size: 0.75rem;
+    font-weight: 800;
+    color: #5c6d65;
+    letter-spacing: 2px;
+    padding-top: 1.8rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #1c2420;
+    margin-bottom: 0.5rem;
+}
+
+::deep .nav-link {
+    color: #a1b2aa !important;
+    background: transparent;
+    padding: 0.6rem 1rem;
+    border-radius: 4px;
+    margin: 2px 0;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+}
+
+::deep .nav-link:hover {
+    color: #ffffff !important;
+    background-color: #181e1b;
+}
+
+::deep .nav-link.active {
+    color: #ffffff !important;
+    background-color: #2e4230 !important;
+    border-left: 4px solid #ff6b00;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+/* Emergency first aid styling */
+::deep .nav-link.nav-emergency {
+    background-color: rgba(255, 59, 48, 0.15);
+    color: #ff3b30 !important;
+    border: 1px solid rgba(255, 59, 48, 0.3);
+}
+
+::deep .nav-link.nav-emergency:hover {
+    background-color: #ff3b30;
+    color: #ffffff !important;
+}
+
+::deep .nav-link.nav-emergency.active {
+    background-color: #ff3b30 !important;
+    color: #ffffff !important;
+    border-left: 4px solid #ffffff;
+}
+
+@media (max-width: 640.98px) {
+    .navbar-toggler {
+        display: block;
+    }
+}

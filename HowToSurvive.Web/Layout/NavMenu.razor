@@ -1,0 +1,68 @@
+@inject SurvivalService SurvivalService
+
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">
+            <span class="manual-icon">★</span> SAS SURVIVAL
+        </a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').checked = false">
+    <nav class="flex-column">
+        <!-- Main Dashboard -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="nav-icon" aria-hidden="true">☷</span> Dashboard
+            </NavLink>
+        </div>
+
+        <!-- Emergency First Aid -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link nav-emergency" href="firstaid">
+                <span class="nav-icon" aria-hidden="true">✚</span> EMERGENCY AID
+            </NavLink>
+        </div>
+
+        <!-- Checklists -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="checklists">
+                <span class="nav-icon" aria-hidden="true">☑</span> Checklists
+            </NavLink>
+        </div>
+
+        <!-- Rescue Signaler -->
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="signaler">
+                <span class="nav-icon" aria-hidden="true">⚑</span> Rescue Signaler
+            </NavLink>
+        </div>
+
+        <!-- Chapters Header separator -->
+        <div class="nav-section-header px-3">
+            <span>HANDBOOK CHAPTERS</span>
+        </div>
+
+        <!-- Dynamically Load Chapters -->
+        @foreach (var chapter in Chapters)
+        {
+            var targetUrl = $"chapter/{Uri.EscapeDataString(chapter.Title)}";
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="@targetUrl">
+                    <span class="nav-icon" aria-hidden="true">🕮</span> @chapter.Title
+                </NavLink>
+            </div>
+        }
+    </nav>
+</div>
+
+@code {
+    private List<SurvivalChapter> Chapters = new();
+
+    protected override void OnInitialized()
+    {
+        Chapters = SurvivalService.GetChapters();
+    }
+}

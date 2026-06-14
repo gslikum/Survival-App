@@ -1,0 +1,54 @@
+@page "/firstaid"
+@inject SurvivalService SurvivalService
+
+<div class="first-aid-container">
+    <div class="first-aid-header">
+        <div class="red-cross">+</div>
+        <h1 class="wizard-title">EMERGENCY FIRST AID</h1>
+        <p class="wizard-subtitle">OFFLINE DIAGNOSTIC PROCEDURES</p>
+    </div>
+
+    <div class="wizard-panel">
+        @if (CurrentNode != null)
+        {
+            <div class="node-content">
+                <p class="node-text">@(CurrentNode.IsDecision ? CurrentNode.QuestionText : CurrentNode.AdviceText)</p>
+            </div>
+
+            <div class="node-actions">
+                @if (CurrentNode.IsDecision)
+                {
+                    <button class="action-btn btn-no" @onclick='() => AdvanceNode(false)'>NO</button>
+                    <button class="action-btn btn-yes" @onclick='() => AdvanceNode(true)'>YES</button>
+                }
+                else
+                {
+                    <button class="action-btn btn-restart" @onclick="RestartWizard">RESTART DIAGNOSTIC</button>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<FlowchartNode> Nodes = new();
+    private FlowchartNode? CurrentNode;
+
+    protected override void OnInitialized()
+    {
+        Nodes = SurvivalService.GetFirstAidFlowchart();
+        RestartWizard();
+    }
+
+    private void RestartWizard()
+    {
+        CurrentNode = Nodes.FirstOrDefault(n => n.Id == "root");
+    }
+
+    private void AdvanceNode(bool choice)
+    {
+        if (CurrentNode == null) return;
+        var nextId = choice ? CurrentNode.YesNodeId : CurrentNode.NoNodeId;
+        CurrentNode = Nodes.FirstOrDefault(n => n.Id == nextId);
+    }
+}

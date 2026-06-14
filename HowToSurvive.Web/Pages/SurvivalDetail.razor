@@ -1,0 +1,75 @@
+@page "/article/{ChapterTitle}/{ArticleTitle}"
+@inject SurvivalService SurvivalService
+@inject NavigationManager NavigationManager
+
+@if (Article == null)
+{
+    <div class="error-container">
+        <h2>Article Not Found</h2>
+        <p>The requested survival guide does not exist or has not been loaded.</p>
+        <a href="" class="btn btn-secondary">Return to Dashboard</a>
+    </div>
+}
+else
+{
+    <div class="article-container">
+        <!-- Back Link -->
+        <a href="chapter/@Uri.EscapeDataString(ChapterTitle)" class="back-link">← Return to Chapter</a>
+
+        <div class="article-body">
+            <h1 class="article-title">@Article.Title</h1>
+            <p class="article-subtitle">@Article.Subtitle</p>
+            
+            <hr class="divider" />
+
+            <!-- Real Survival Photo -->
+            <div class="article-image-container">
+                <img src="images/@Article.ImageName" alt="@Article.Title" class="article-image" />
+            </div>
+
+            <!-- Content Paragraphs -->
+            <div class="article-text-content">
+                @foreach (var paragraph in Article.TextSections)
+                {
+                    <p class="article-paragraph">@paragraph</p>
+                }
+            </div>
+
+            @if (Article.Items != null && Article.Items.Any())
+            {
+                <h2 class="items-header">Visual Inventory & Specifications</h2>
+                <div class="items-grid">
+                    @foreach (var item in Article.Items)
+                    {
+                        <div class="item-card">
+                            <div class="item-image-container">
+                                <img src="images/@item.ImageName" alt="@item.Name" class="item-card-image" />
+                            </div>
+                            <div class="item-info">
+                                <h3 class="item-name">@item.Name</h3>
+                                <p class="item-description">@item.Description</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string ChapterTitle { get; set; } = string.Empty;
+
+    [Parameter]
+    public string ArticleTitle { get; set; } = string.Empty;
+
+    private SurvivalArticle? Article;
+
+    protected override void OnParametersSet()
+    {
+        var decodedChapter = Uri.UnescapeDataString(ChapterTitle);
+        var decodedArticle = Uri.UnescapeDataString(ArticleTitle);
+        Article = SurvivalService.GetArticle(decodedChapter, decodedArticle);
+    }
+}

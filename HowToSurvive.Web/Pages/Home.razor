@@ -1,0 +1,119 @@
+@page "/"
+@inject SurvivalService SurvivalService
+@inject NavigationManager NavigationManager
+
+<div class="dashboard-container">
+    <div class="dashboard-header">
+        <h1 class="dashboard-title">SAS SURVIVAL DIRECTORY</h1>
+        <p class="dashboard-subtitle">OFFLINE TECHNICAL FIELD MANUAL FOR ANY ENVIRONMENT</p>
+    </div>
+
+    <!-- Offline Search Box -->
+    <div class="search-section">
+        <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Search entire handbook offline..." @bind="SearchQuery" @bind:event="oninput" class="search-input" />
+            @if (!string.IsNullOrEmpty(SearchQuery))
+            {
+                <button class="clear-btn" @onclick="ClearSearch">CLEAR</button>
+            }
+        </div>
+    </div>
+
+    <!-- Search Results Stack -->
+    @if (!string.IsNullOrEmpty(SearchQuery))
+    {
+        <div class="search-results-section">
+            <h2 class="section-title">SEARCH RESULTS</h2>
+            @if (SearchResults.Count == 0)
+            {
+                <p class="no-results-msg">No articles found matching "@SearchQuery". Try another term.</p>
+            }
+            else
+            {
+                <div class="search-results-grid">
+                    @foreach (var result in SearchResults)
+                    {
+                        var targetUrl = $"article/{Uri.EscapeDataString(result.Chapter.Title)}/{Uri.EscapeDataString(result.Article.Title)}";
+                        <div class="search-result-card" @onclick="() => NavigateTo(targetUrl)">
+                            <div class="result-details">
+                                <h3 class="result-title">@result.Article.Title</h3>
+                                <span class="result-chapter">CHAPTER: @result.Chapter.Title</span>
+                            </div>
+                            <span class="card-arrow">→</span>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <!-- Chapters Grid -->
+        <div class="chapters-section">
+            <h2 class="section-title">HANDBOOK CHAPTERS</h2>
+            <div class="chapters-grid">
+                @foreach (var chapter in Chapters)
+                {
+                    var firstArticle = chapter.Articles.FirstOrDefault();
+                    var imageUrl = $"images/{firstArticle?.ImageName ?? "essentials.jpg"}";
+                    var targetUrl = $"chapter/{Uri.EscapeDataString(chapter.Title)}";
+                    
+                    <div class="chapter-card" @onclick="() => NavigateTo(targetUrl)">
+                        <div class="chapter-card-bg" style="background-image: url('@imageUrl')"></div>
+                        <div class="chapter-card-overlay"></div>
+                        <div class="chapter-card-content">
+                            <h3 class="chapter-card-title">@chapter.Title.ToUpperInvariant()</h3>
+                            <span class="chapter-card-action">BROWSE GUIDES →</span>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <!-- Emergency Quick Actions -->
+        <div class="quick-actions-section">
+            <h2 class="section-title">EMERGENCY UTILITIES</h2>
+            <div class="actions-grid">
+                <div class="action-card emergency-aid" @onclick='() => NavigateTo("firstaid")'>
+                    <div class="action-icon">✚</div>
+                    <div class="action-details">
+                        <h3>EMERGENCY FIRST AID</h3>
+                        <p>Step-by-step off-grid medical diagnostic flowcharts.</p>
+                    </div>
+                </div>
+
+                <div class="action-card signaler-aid" @onclick='() => NavigateTo("signaler")'>
+                    <div class="action-icon">⚑</div>
+                    <div class="action-details">
+                        <h3>RESCUE SIGNALER</h3>
+                        <p>SOS visual screen flasher and distress codes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    private List<SurvivalChapter> Chapters = new();
+    private string SearchQuery = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        Chapters = SurvivalService.GetChapters();
+    }
+
+    private List<(SurvivalChapter Chapter, SurvivalArticle Article)> SearchResults => 
+        SurvivalService.SearchArticles(SearchQuery);
+
+    private void ClearSearch()
+    {
+        SearchQuery = string.Empty;
+    }
+
+    private void NavigateTo(string url)
+    {
+        NavigationManager.NavigateTo(url);
+    }
+}

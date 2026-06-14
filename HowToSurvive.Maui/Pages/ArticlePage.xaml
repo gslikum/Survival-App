@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HowToSurvive.Maui.Pages.ArticlePage"
+             Title="Survival Guide"
+             BackgroundColor="{StaticResource Gray950}">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <!-- Article Header -->
+            <Label x:Name="ArticleTitleLabel" Text="Article Title" FontSize="26" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+            <Label x:Name="ArticleSubtitleLabel" Text="Subtitle" FontSize="14" TextColor="{StaticResource Gray400}"/>
+            
+            <BoxView HeightRequest="1" Color="{StaticResource Gray600}" HorizontalOptions="Fill"/>
+
+            <!-- Real Survival Photo -->
+            <Frame Padding="0" CornerRadius="8" IsClippedToBounds="True" BorderColor="{StaticResource Gray600}" BackgroundColor="Transparent" HeightRequest="220" HorizontalOptions="Fill">
+                <Image x:Name="ArticleImage" Source="essentials.jpg" Aspect="AspectFill"/>
+            </Frame>
+
+            <!-- Text Sections -->
+            <VerticalStackLayout x:Name="TextSectionsStack" Spacing="12" Margin="0,10,0,0">
+                <!-- Labels will be added dynamically in code-behind or via BindableLayout -->
+            </VerticalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

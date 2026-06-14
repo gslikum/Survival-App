@@ -1,0 +1,63 @@
+@page "/checklists"
+@inject SurvivalService SurvivalService
+@inject IJSRuntime JS
+
+<div class="checklist-page-container">
+    <div class="checklist-header">
+        <h1 class="checklist-title">PREPAREDNESS CHECKLISTS</h1>
+        <p class="checklist-subtitle">Saved locally inside your browser storage for offline access.</p>
+    </div>
+
+    <!-- Tab Options -->
+    <div class="tabs-container">
+        <button class="tab-btn @(CurrentCategory == "Bug-Out Bag" ? "active" : "")" @onclick='() => SetTab("Bug-Out Bag")'>BUG-OUT BAG</button>
+        <button class="tab-btn @(CurrentCategory == "Survival Tin" ? "active" : "")" @onclick='() => SetTab("Survival Tin")'>SURVIVAL TIN</button>
+        <button class="tab-btn @(CurrentCategory == "Camp Setup" ? "active" : "")" @onclick='() => SetTab("Camp Setup")'>CAMP SETUP</button>
+    </div>
+
+    <!-- Checklist Listing -->
+    <div class="checklist-items">
+        @foreach (var item in FilteredItems)
+        {
+            <div class="checklist-item-row @(item.IsCompleted ? "completed" : "")">
+                <label class="checkbox-container">
+                    <input type="checkbox" checked="@item.IsCompleted" @onchange='(e) => ToggleItem(item, e)' />
+                    <span class="checkmark"></span>
+                    <span class="item-name">@item.Name</span>
+                </label>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<ChecklistItem> AllItems = new();
+    private string CurrentCategory = "Bug-Out Bag";
+
+    protected override async Task OnInitializedAsync()
+    {
+        AllItems = SurvivalService.GetDefaultChecklistItems();
+        
+        // Restore state from local storage
+        foreach (var item in AllItems)
+        {
+            var saved = await JS.InvokeAsync<string>("localStorage.getItem", $"chk_{item.Id}");
+            item.IsCompleted = saved == "true";
+        }
+    }
+
+    private List<ChecklistItem> FilteredItems => 
+        AllItems.Where(i => i.Category == CurrentCategory).ToList();
+
+    private void SetTab(string category)
+    {
+        CurrentCategory = category;
+    }
+
+    private async Task ToggleItem(ChecklistItem item, ChangeEventArgs e)
+    {
+        var isChecked = (bool)(e.Value ?? false);
+        item.IsCompleted = isChecked;
+        await JS.InvokeVoidAsync("localStorage.setItem", $"chk_{item.Id}", isChecked ? "true" : "false");
+    }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HowToSurvive.Maui.Pages.SignalerPage"
+             Title="Rescue Signaler"
+             BackgroundColor="{StaticResource Gray950}">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <!-- Header -->
+            <VerticalStackLayout Spacing="2">
+                <Label Text="RESCUE &amp; SIGNALING UTILITIES" FontSize="18" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+                <Label Text="Visual rescue tools and code charts for emergency situations." FontSize="12" TextColor="{StaticResource Gray400}"/>
+            </VerticalStackLayout>
+
+            <!-- Visual Flash Box -->
+            <Frame BackgroundColor="{StaticResource OffBlack}" BorderColor="{StaticResource Gray600}" Padding="15">
+                <VerticalStackLayout Spacing="15">
+                    <Label Text="Visual SOS Flasher" FontSize="16" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+                    <Label Text="Flashes the screen in the Morse code SOS pattern (... --- ...)" FontSize="13" TextColor="{StaticResource Gray400}"/>
+
+                    <!-- Visual Indicator Box -->
+                    <Frame x:Name="FlashIndicatorFrame" HeightRequest="100" BackgroundColor="{StaticResource Gray950}" BorderColor="{StaticResource Gray600}" CornerRadius="8">
+                        <Label x:Name="FlashStatusLabel" Text="SIGNAL INACTIVE" TextColor="{StaticResource Gray500}" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    </Frame>
+
+                    <Button x:Name="ToggleFlashBtn" Text="START SOS TRANSMISSION" Clicked="OnToggleFlashClicked" BackgroundColor="{StaticResource Secondary}" TextColor="White" FontAttributes="Bold" HeightRequest="50" CornerRadius="6"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Ground-to-Air Signals Code Chart -->
+            <Frame BackgroundColor="{StaticResource OffBlack}" BorderColor="{StaticResource Gray600}" Padding="15">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Ground-to-Air Search Codes" FontSize="16" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+                    <Label Text="Mark these symbols in open clearings (min. 10 feet / 3 meters tall) using logs, rocks, or dug trenches so aircraft can read them." FontSize="13" TextColor="{StaticResource Gray400}"/>
+                    
+                    <BoxView HeightRequest="1" Color="{StaticResource Gray600}" Margin="0,5"/>
+
+                    <Grid ColumnDefinitions="50, *" RowDefinitions="Auto, Auto, Auto, Auto, Auto" RowSpacing="10" Padding="5">
+                        <Label Grid.Row="0" Grid.Column="0" Text="V" FontSize="20" FontAttributes="Bold" TextColor="{StaticResource Secondary}" HorizontalOptions="Center"/>
+                        <Label Grid.Row="0" Grid.Column="1" Text="Requires Assistance" TextColor="{StaticResource White}" VerticalOptions="Center" FontSize="14"/>
+
+                        <Label Grid.Row="1" Grid.Column="0" Text="X" FontSize="20" FontAttributes="Bold" TextColor="{StaticResource Secondary}" HorizontalOptions="Center"/>
+                        <Label Grid.Row="1" Grid.Column="1" Text="Requires Medical Assistance (Urgent)" TextColor="{StaticResource White}" VerticalOptions="Center" FontSize="14"/>
+
+                        <Label Grid.Row="2" Grid.Column="0" Text="Y" FontSize="20" FontAttributes="Bold" TextColor="{StaticResource Secondary}" HorizontalOptions="Center"/>
+                        <Label Grid.Row="2" Grid.Column="1" Text="Yes / Affirmative" TextColor="{StaticResource White}" VerticalOptions="Center" FontSize="14"/>
+
+                        <Label Grid.Row="3" Grid.Column="0" Text="N" FontSize="20" FontAttributes="Bold" TextColor="{StaticResource Secondary}" HorizontalOptions="Center"/>
+                        <Label Grid.Row="3" Grid.Column="1" Text="No / Negative" TextColor="{StaticResource White}" VerticalOptions="Center" FontSize="14"/>
+
+                        <Label Grid.Row="4" Grid.Column="0" Text="↑" FontSize="20" FontAttributes="Bold" TextColor="{StaticResource Secondary}" HorizontalOptions="Center"/>
+                        <Label Grid.Row="4" Grid.Column="1" Text="Proceeding in this direction" TextColor="{StaticResource White}" VerticalOptions="Center" FontSize="14"/>
+                    </Grid>
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

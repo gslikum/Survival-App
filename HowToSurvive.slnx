@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HowToSurvive.Core/HowToSurvive.Core.csproj" />
+  <Project Path="HowToSurvive.Maui/HowToSurvive.Maui.csproj" />
+  <Project Path="HowToSurvive.Web/HowToSurvive.Web.csproj" />
+</Solution>

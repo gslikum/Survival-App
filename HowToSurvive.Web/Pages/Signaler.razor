@@ -1,0 +1,165 @@
+@page "/signaler"
+@implements IDisposable
+
+<div class="signaler-page-container">
+    <div class="signaler-header">
+        <h1 class="signaler-title">RESCUE SIGNALER</h1>
+        <p class="signaler-subtitle">Visual signaling aids and emergency codes.</p>
+    </div>
+
+    <!-- Visual SOS Flasher Card -->
+    <div class="card-signaler">
+        <h2>Visual SOS Beacon</h2>
+        <p class="card-desc">Flashes the screen panel below in the standard Morse code SOS pattern (... --- ...)</p>
+        
+        <div class="flash-indicator @(IsActive ? "flash-on" : "flash-off")">
+            <span class="flash-text">@StatusText</span>
+        </div>
+
+        <button class="toggle-flash-btn @(IsFlashing ? "btn-active" : "")" @onclick="ToggleFlashing">
+            @(IsFlashing ? "STOP SOS TRANSMISSION" : "START SOS TRANSMISSION")
+        </button>
+    </div>
+
+    <!-- Ground-to-Air Codes Table -->
+    <div class="card-signaler">
+        <h2>Ground-to-Air Distress Symbols</h2>
+        <p class="card-desc">Construct these symbols in wide clearings (at least 10 feet / 3 meters tall) using logs, rocks, or contrasting colors so rescue aircraft can identify your needs.</p>
+        
+        <table class="signals-table">
+            <thead>
+                <tr>
+                    <th style="width: 80px;">Symbol</th>
+                    <th>International Meaning</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="symbol-col">V</td>
+                    <td>Requires Assistance</td>
+                </tr>
+                <tr>
+                    <td class="symbol-col">X</td>
+                    <td>Requires Medical Assistance (Urgent)</td>
+                </tr>
+                <tr>
+                    <td class="symbol-col">Y</td>
+                    <td>Yes / Affirmative</td>
+                </tr>
+                <tr>
+                    <td class="symbol-col">N</td>
+                    <td>No / Negative</td>
+                </tr>
+                <tr>
+                    <td class="symbol-col">↑</td>
+                    <td>Proceeding in this direction</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private bool IsFlashing = false;
+    private bool IsActive = false;
+    private string StatusText = "BEACON INACTIVE";
+    private System.Threading.CancellationTokenSource? CTS;
+
+    private void ToggleFlashing()
+    {
+        if (IsFlashing)
+        {
+            StopFlashing();
+        }
+        else
+        {
+            StartFlashing();
+        }
+    }
+
+    private void StartFlashing()
+    {
+        IsFlashing = true;
+        CTS = new System.Threading.CancellationTokenSource();
+        var token = CTS.Token;
+        
+        Task.Run(async () => await FlashingLoop(token), token);
+    }
+
+    private void StopFlashing()
+    {
+        IsFlashing = false;
+        IsActive = false;
+        StatusText = "BEACON INACTIVE";
+        CTS?.Cancel();
+        CTS = null;
+    }
+
+    private async Task FlashingLoop(System.Threading.CancellationToken token)
+    {
+        int dot = 250;
+        int dash = 750;
+        int elementGap = 250;
+        int letterGap = 750;
+        int wordGap = 1750;
+
+        try
+        {
+            while (!token.IsCancellationRequested)
+            {
+                // S (...)
+                await Flash(dot, "S  [ . ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dot, "S  [ . ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dot, "S  [ . ]", token);
+                
+                await Task.Delay(letterGap, token);
+
+                // O (---)
+                await Flash(dash, "O  [ - ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dash, "O  [ - ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dash, "O  [ - ]", token);
+
+                await Task.Delay(letterGap, token);
+
+                // S (...)
+                await Flash(dot, "S  [ . ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dot, "S  [ . ]", token);
+                await Task.Delay(elementGap, token);
+                await Flash(dot, "S  [ . ]", token);
+
+                // Word Gap
+                IsActive = false;
+                StatusText = "GAP";
+                StateHasChanged();
+                await Task.Delay(wordGap, token);
+            }
+        }
+        catch (TaskCanceledException)
+        {
+            // Exit cleanly
+        }
+    }
+
+    private async Task Flash(int durationMs, string status, System.Threading.CancellationToken token)
+    {
+        IsActive = true;
+        StatusText = status;
+        StateHasChanged();
+        
+        await Task.Delay(durationMs, token);
+        
+        IsActive = false;
+        StatusText = "";
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        StopFlashing();
+    }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HowToSurvive.Maui.Pages.ChecklistPage"
+             Title="Survival Checklists"
+             BackgroundColor="{StaticResource Gray950}">
+
+    <Grid RowDefinitions="Auto, Auto, *" Padding="15" RowSpacing="15">
+        <!-- Page Title Header -->
+        <VerticalStackLayout Grid.Row="0" Spacing="2">
+            <Label Text="OFFLINE PREPAREDNESS CHECKLISTS" FontSize="18" FontAttributes="Bold" TextColor="{StaticResource White}"/>
+            <Label Text="Your progress is saved locally and remains accessible off-grid." FontSize="12" TextColor="{StaticResource Gray400}"/>
+        </VerticalStackLayout>
+
+        <!-- Category Tabs -->
+        <Grid Grid.Row="1" ColumnDefinitions="*, *, *" ColumnSpacing="8">
+            <Button Grid.Column="0" x:Name="BobTabBtn" Text="BUG-OUT" Clicked="OnBobTabClicked" BackgroundColor="{StaticResource Primary}" TextColor="White" FontAttributes="Bold" CornerRadius="4" Padding="5,0"/>
+            <Button Grid.Column="1" x:Name="TinTabBtn" Text="TIN KIT" Clicked="OnTinTabClicked" BackgroundColor="{StaticResource Gray900}" TextColor="{StaticResource Gray300}" FontAttributes="Bold" CornerRadius="4" Padding="5,0"/>
+            <Button Grid.Column="2" x:Name="CampTabBtn" Text="CAMP" Clicked="OnCampTabClicked" BackgroundColor="{StaticResource Gray900}" TextColor="{StaticResource Gray300}" FontAttributes="Bold" CornerRadius="4" Padding="5,0"/>
+        </Grid>
+
+        <!-- Checklist Collection -->
+        <CollectionView Grid.Row="2" x:Name="ChecklistCollectionView" SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="0,5">
+                        <Frame Padding="12" BackgroundColor="{StaticResource OffBlack}" BorderColor="{StaticResource Gray600}">
+                            <Grid ColumnDefinitions="Auto, *" ColumnSpacing="15">
+                                <CheckBox Grid.Column="0" IsChecked="{Binding IsCompleted}" Color="{StaticResource Secondary}" CheckedChanged="OnItemCheckChanged"/>
+                                <Label Grid.Column="1" Text="{Binding Name}" TextColor="{StaticResource White}" FontSize="15" VerticalOptions="Center" LineBreakMode="WordWrap"/>
+                            </Grid>
+                        </Frame>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

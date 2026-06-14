@@ -1,0 +1,59 @@
+@page "/chapter/{ChapterTitle}"
+@inject SurvivalService SurvivalService
+@inject NavigationManager NavigationManager
+
+@if (CurrentChapter == null)
+{
+    <div class="error-container">
+        <h2>Chapter Not Found</h2>
+        <p>The survival chapter you requested does not exist or has not been loaded.</p>
+        <a href="" class="btn btn-secondary">Return to Dashboard</a>
+    </div>
+}
+else
+{
+    <div class="chapter-container">
+        <!-- Back Link -->
+        <a href="" class="back-link">← Return to Dashboard</a>
+
+        <!-- Header -->
+        <div class="chapter-header">
+            <h1 class="chapter-title">@CurrentChapter.Title.ToUpperInvariant()</h1>
+            <p class="chapter-description">@CurrentChapter.Description</p>
+        </div>
+
+        <!-- Articles Grid -->
+        <h2 class="section-title">CHAPTER MODULES</h2>
+        <div class="articles-grid">
+            @foreach (var article in CurrentChapter.Articles)
+            {
+                var targetUrl = $"article/{Uri.EscapeDataString(ChapterTitle)}/{Uri.EscapeDataString(article.Title)}";
+                <div class="article-card" @onclick="() => NavigateTo(targetUrl)">
+                    <div class="article-info">
+                        <h3 class="article-title">@article.Title</h3>
+                        <p class="article-subtitle">@article.Subtitle</p>
+                    </div>
+                    <span class="article-arrow">READ GUIDE →</span>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string ChapterTitle { get; set; } = string.Empty;
+
+    private SurvivalChapter? CurrentChapter;
+
+    protected override void OnParametersSet()
+    {
+        var decodedTitle = Uri.UnescapeDataString(ChapterTitle);
+        CurrentChapter = SurvivalService.GetChapter(decodedTitle);
+    }
+
+    private void NavigateTo(string url)
+    {
+        NavigationManager.NavigateTo(url);
+    }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="HowToSurvive.Maui.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:HowToSurvive.Maui"
+    xmlns:pages="clr-namespace:HowToSurvive.Maui.Pages"
+    FlyoutBehavior="Flyout"
+    Shell.FlyoutBackground="{StaticResource Gray950}"
+    Title="SAS Survival Handbook">
+
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="{StaticResource Primary}" />
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="White" />
+                <Setter Property="Shell.UnselectedColor" Value="{StaticResource Gray400}" />
+            </Style>
+        </ResourceDictionary>
+    </Shell.Resources>
+
+    <!-- Navigation Options -->
+    <FlyoutItem Title="Dashboard" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" Route="dashboard" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Checklists" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:ChecklistPage}" Route="checklists" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="First Aid" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:FirstAidPage}" Route="firstAid" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Signaler" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:SignalerPage}" Route="signaler" />
+    </FlyoutItem>
+
+</Shell>
