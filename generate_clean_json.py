@@ -540,33 +540,235 @@ The wider your medical knowledge the better, but giving people the will to survi
         "description": "Techniques for surviving in specialized environments including polar regions, deserts, and tropical jungles.",
         "articles": [
             {
-                "title": "Polar Survival",
-                "subtitle": "Surviving extreme cold, snow, and freezing winds.",
+                "title": "Climate Zones & Kenya Scenario",
+                "subtitle": "Polar, tundra, coniferous, temperate, grassland, tropical zones, and water discipline lessons.",
                 "imageName": "climate.jpg",
                 "textSections": [
-                    "In polar and arctic regions, extreme cold is a lethal threat that can cause hypothermia or frostbite within minutes. Your immediate goal is to preserve body heat. Dress in loose, breathable layers to trap warm air. Use the **C.O.L.D.** clothing guidelines:\n• C (Keep Clean): Dirt and grease compress clothing fibers, reducing their insulation value.\n• O (Avoid Overheating): Do not exert yourself to the point of sweating. Moisture dampens your inner layers; when you stop moving, this moisture will freeze and rapidly pull heat from your body.\n• L (Loose Layers): Loose clothing allows warm air to circulate freely.\n• D (Keep Dry): Protect clothing from external snow and internal sweat.",
-                    "Construct an insulated snow shelter immediately. A snow cave (quinzhee) is highly effective because packed snow is an excellent insulator. Mound snow over a pile of branches or gear, let it pack and freeze for 2 hours, then tunnel inside from the downhill side and hollow it out. Ensure you dig a 'cold well'—a trench lower than your sleeping platform where heavy cold air can settle. Poke a ventilation hole in the roof to prevent carbon monoxide poisoning if you burn a candle or stove inside.",
-                    "Protect your extremities. Frostbite occurs when skin tissue freezes, typically affecting the nose, ears, fingers, and toes. Keep them covered and check them regularly for numbness or white patches. Never eat raw snow or ice to hydrate, as this lowers your core body temperature and speeds up dehydration. Always melt snow over a fire before drinking. Wear improvised wooden goggles with narrow slits to prevent snow blindness caused by intense UV reflection off the snow."
+                    """CLIMATE ZONES: People often view an alien environment as an enemy and feel they must fight it. This is not the way to survive - fight it and you will lose! There are dangers against which precautions must be taken, but nature is neutral. Learn to live with each climate and to use what it offers. Climate is not conditioned only by latitude; location within a continent and altitude are equally important.
+
+• Polar Climates: Polar regions are regarded as those at latitudes higher than 60°33' north and south, but cold weather skills may be needed at very high altitudes everywhere. Near the Equator, in the Andes for example, the snow line is not reached until an altitude of about 5000m (16,500ft), but the nearer the poles the lower the snow line will be - at the southern tip of South America there is permanent snow at only a few hundred metres (a thousand feet). Arctic conditions penetrate deep into the northern territories of Alaska, Canada, Greenland, Iceland, Scandinavia and Russia.
+
+• Tundra: South of the polar cap, the ground remains permanently frozen and vegetation is stunted. Snow melts in summer, but roots cannot penetrate the hard earth. High altitudes produce similar conditions.
+
+• Northern Coniferous Forest: Between the arctic tundra and the main temperate lands is a forest zone, up to 1300km (800 miles) deep. In Russia, where it is known as the Taiga, the forests penetrate up to 1650km (1025 miles) north of the Arctic Circle along some Siberian rivers, but in the Hudson Bay area of Canada the tree line moves an equal distance south of the Circle. Winters are long and severe, the ground frozen for much of the time, summers are short. For only 3-5 months of the year is the ground thawed sufficiently for water to reach the roots of the trees and plants, which especially flourish along the great rivers that flow to the Arctic Ocean. There is a wealth of game: elk, bear, otter, lynx, sable and squirrel, as well as smaller creatures, and many birds. In summer, where the snow melt cannot drain, it creates swamps. Fallen trees and dense growths of sphagnum moss make the going difficult. Mosquitoes can be a nuisance (but they do not carry malaria). Movement is easier in winter, if you have warm clothing. Travel along the rivers, where fishing is good, making a raft from the abundant deadfalls.""",
+                    """TEMPERATE, TROPICAL & DESERT ZONES:
+
+• Temperate Climates: The temperate zone of the northern hemisphere, and the similar climates of the southern hemisphere, probably offer the most equitable circumstances for survival without special skills or knowledge. These territories are also those most heavily urbanized and where the survival ordeal is not likely to be very extended. A fit and healthy person, equipped with basic skills, would not be so cut off that they could not reach help within a few day's trek. Heavy winter conditions may call for polar skills.
+- Deciduous Forest: As the climate gets warmer and winters less severe, deciduous forest replaces the conifers. Oak, beech, maple and hickory are the main species in America; oak, beech, chestnut and lime, in Eurasia. Soil rich in humus supports many plants and fungi. Survival is not difficult, except at very high altitudes where tundra, or snowfield conditions, appear. Many of these areas have been cleared by man.
+- Temperate Grassland: Mainly central continental areas with hot summers, cold winters and moderate rainfall, these have become the world's great food-producing areas - grain is grown and cattle reared. Water can be a problem in summer and shelter in winter.
+- Mediterranean Regions: The lands bordering on the Mediterranean are semi-arid areas, with long hot summers and short dry winters. There is sunshine most of the year, and drying winds. At one time this region was forested with oaks. When these were cut down the soil eroded, much of the area became covered with evergreen shrub. The Chapparal of California is very similar. Trees are few and water is a problem. At high altitudes, other conditions prevail.
+
+• Tropical Forests: The land between the tropics includes areas of cultivation and extremes of swamp and desert, but one-third is undeveloped forest: equatorial rainforest, sub-tropical rainforest and montane forest. All feature high rainfall and rugged mountains, which drain into large, swift-flowing rivers, with coastal and other low-lying regions often as swampland.
+- Savannah: This is tropical grassland, lying usually between the desert and the tropical forest. Near the forests the grass is tall, up to 3m (10ft) high, and trees more frequent. Temperatures are high the whole year round. More than one-third of Africa is savannah as are large areas of Australia, which are dotted with eucalyptus trees. Similar areas are the llanos of Venezuela and Colombia and the campos in Brazil. Often water is not easily available but, where it is found, there will be lusher vegetation and plenty of wildlife. In Africa large herds of animals can be found.
+
+• Deserts: One-fifth of the earth's land surface is desert - dry barren land where survival is very difficult. Deserts occur where air currents, which rose at the Equator and have already shed their moisture, descend and are rewarmed as they near the Earth, taking what little local moisture is present. There are rarely any clouds to give protection from the sun or to retain heat at night so that great extremes of temperature occur from the highest shade temperatures (58°C/136°F in the Sahara) to below freezing point at night. Only small parts of the world's deserts are sand (about one-tenth of the Sahara); the greater part is flat gravel cut by dried up water courses (wadis). The wind has blown the sand away, piling it up in low-lying areas. Elsewhere there may be wind-carved mountains, dried mudflats and lava flows.""",
+                    """SURVIVAL SCENARIO & LESSONS FROM KENYA:
+
+In the mid-1960s I was training a new army unit in Kenya. This training involved tactics, field craft and navigation. They were all experienced soldiers but lacked knowledge in small group operations. The training area was in the Northern Frontier district of Kenya, a very hot and dry area. The recruits were dropped off in groups of 4 and had to navigate across country to a series of rendezvous points (RVs), where they were given water. My job with 3 others was to man these RVs, ensuring that everyone was accounted for and in good health. Each recruit was given half a pint of water strictly issued from a jerry can which held 4.5 gallons (36 pints).
+
+On the third day the heat was taking its toll and everyone was complaining of various ailments like blisters, sores caused by backpacks and fatigue. But one student was particularly bad. He was delirious and verging on the point of collapse. While I was treating him, his partner grabbed a jerry can and tried to swallow the lot. What he couldn't swallow he spilt, and by the time we wrestled the can from him it was almost empty. This was the last of our supplies and there were still more than 30 men to come. The nearest source of water was 3 days away and with no re-supply possible the exercise turned from hard to critical. Although all the recruits came from nearby areas, they had no water discipline, which we found out to our cost. By strictly rationing and sending the strongest for help, everyone survived, but it's a lesson they will never forget.
+
+Lessons learnt:
+- Never underestimate the power of self-preservation.
+- Protect your water supply.
+- Enforce strict rationing.
+- Of all the discomforts, thirst is the deadliest.
+- When treating a person with dehydration, wet their lips first and look for a gag reflex (swallowing). Administer small sips only.
+- When giving treatment, always make sure the patient is lying down in any available shade."""
                 ]
             },
             {
-                "title": "Desert Survival",
-                "subtitle": "Surviving intense heat, dehydration, and sandstorms.",
+                "title": "Polar Regions & Arctic Travel",
+                "subtitle": "Seasons, temperature drops, wind chill calculations, and navigation on shifting sea ice.",
                 "imageName": "climate.jpg",
                 "textSections": [
-                    "In the desert, heat and water loss are your primary threats. To survive, you must conserve sweat, not water. Rest in the shade during the scorching daylight hours and limit all physical labor to the cooler night hours. Never remove your clothing; clothes insulate your skin against radiant heat, slow down sweat evaporation (which keeps you cooler longer), and prevent severe sunburn. Keep your head and neck covered with a cloth (shemagh or shirt) to prevent heat stroke.",
-                    "Do not ration your water. Drink it when you are thirsty. If your water supply is low, avoid eating entirely. The digestion of food requires water and will dehydrate your organs much faster. Do not drink alcohol, urine, or sea water; the kidneys require more fresh water to process the salts and toxins in these liquids than they provide, accelerating death.",
-                    "To collect water, look for green vegetation in dry wash beds or dig on the outside bends of dry streams where moisture collects. Construct a solar still: dig a 3-foot wide pit, place a cup in the center, cover the pit with a plastic sheet weighted with a rock directly over the cup. The sun heats the soil, moisture evaporates, condenses on the plastic, and drips into your cup. If caught in a sandstorm, cover your nose and mouth with a wet cloth, shield your eyes, and lie down facing away from the wind."
+                    """POLAR CONDITIONS: Antarctica is covered with a sheet of ice. In the Arctic the Pole is capped by deep ice floating on the sea and all the land north of the timber line is frozen. There are only two seasons - a long winter and a short summer - the day varying from complete darkness in midwinter to 24 hours daylight at midsummer.
+
+Arctic summer temperatures can rise to 18°C (65°F), except on glaciers and frozen seas, but fall in winter to as low as -56°C (-69°F) and are never above freezing point. In the northern forests summer temperatures can reach 37°C (100°F), but altitude pushes winter temperatures even lower than in the Arctic. In Eastern Siberia -69°C (-94°F) has been recorded at Verkhoyansk! Temperatures in the Antarctic are even lower than in the Arctic.
+
+Antarctic winds of 177km/h (110mph) have been recorded and, in the Arctic autumn, winter winds reach hurricane force and can whip snow 30m (100ft) into the air, giving the impression of a blizzard - even when it is not snowing. Accompanied by low temperatures, winds have a marked chilling effect - much greater than the thermometer indicates. For instance, a 32km/h (20mph) wind will bring a temperature of -14°C (7°F) down to -34°C (-30°F), and one at 64km/h (40mph) would make it -42°C (-44°F) with even greater drops at lower temperatures. Speeds over 64km/h (40mph) do not appear to make a greater difference.""",
+                    """POLAR TRAVEL & NAVIGATION:
+
+Experience shows the best policy is to stay near an aircraft or disabled vehicle. If the spot is hazardous, establish a safe shelter as close by as possible. A decision to walk-out will be based on nearness to civilisation and probability of rescue. Decide early what to do - while you can still think clearly. Cold dulls the mind. Movement in a blizzard is out of the question and, at all times, navigation is difficult on featureless ice and tundra. Ice movement pushes up ridges which make the going treacherous. Summer melt water makes the tundra boggy and even sea ice slushy underfoot. Mosquitoes, black-fly, deerfly and midges can all be a nuisance in the arctic summer. Their larvae live in water - avoid making shelter nearby. Keep sleeves down, collar up, wear a net over the head and burn green wood and leaves on the fire - smoke keeps them at bay. When it turns colder, these nuisances are less active and they disappear at night.
+
+In Alaska, northwestern and northeastern Canada, Greenland, Iceland, Scandinavia, Novaya Zemlya, Spitzbergen and on other islands there are mountains where ice cliffs, glaciers, crevasses and avalanches are hazards. Near the Arctic coastline frequent fog from May to August, sometimes carried far inland, increases navigation problems.
+
+• Navigation: Compasses are unreliable near the Poles; the constellations are better direction-finders and the nights are light enough to travel by. By day use the shadow tip method. Travelling on sea ice do NOT use icebergs or distant landmarks to fix direction. Floes are constantly moving - relative positions may change. Watch for ice breaking up and, if forced to cross from floe to floe, leap from and to a spot at least 60cm (2ft) from the edge. Survivors have been rescued from floes drifting south but sooner or later ice floating into the warmer oceans will melt - though that chance may be worth taking.
+
+• Ice Hazards: AVOID icebergs, they have most of their mass below the water. As this melts, they can turn over without warning, particularly with your added weight. AVOID sailing close to ice-cliffs. Glaciers may 'calve' huge masses of ice, often thousands of tons, which break off into the sea without warning. Bird observations can aid navigation. Migrating wildfowl fly to land in the thaw. Most seabirds fly out to sea during the day and return at night.
+
+• Sky Reflections: Sky reflections help to determine distant terrain. Clouds over open water, timber or snow-free ground appear black below; over sea ice and snowfields, white. New ice produces greyish reflections, mottled ones indicate pack ice or drifted snow."""
                 ]
             },
             {
-                "title": "Tropical Survival",
-                "subtitle": "Surviving humidity, torrential rain, and jungle hazards.",
+                "title": "Cold Weather Clothing & Gear",
+                "subtitle": "Snow shoes, river travel, hypothermia warnings, layering guidelines, and shelter building.",
                 "imageName": "climate.jpg",
                 "textSections": [
-                    "Tropical jungles present challenges of extreme humidity, constant wetness, insects, and disease. Dampness causes rapid skin decay, fungal infections, and trench foot. You must dry your feet daily, treat cuts immediately with antiseptic, and keep your body covered to protect against biting insects (mosquitos carrying malaria or dengue), leeches, and stinging plants. Inspect your boots and clothes every morning for scorpions, spiders, or venomous snakes that may have sought shelter inside.",
-                    "Never sleep directly on the jungle floor. Wet soil and decaying leaf litter are hotbeds for parasites, biting ants, and ground moisture. Construct an elevated sleeping platform: lash horizontal support poles between trees, lay flat bamboo or straight branches across them, and construct a sloping roof thatched with overlapping palm or banana leaves to shed the frequent torrential rains.",
-                    "Water is abundant in the jungle but must always be purified. Jungle streams carry high levels of parasites and animal bacteria. Boil all water or filter it. In emergencies, look for water vines (cut a section of a thick vine from the top first, then the bottom, to let clean water drip out) or collect clean rainwater caught in large bromeliad leaves. Avoid all plants with white or milky sap, three-leaved ivy patterns, or bitter, soapy tastes."
+                    """SNOW SHOES & RIVER TRAVEL:
+
+All polar travel is strenuous and should only be attempted by a fit person. On snow with a hard crust, skis are the best means of travel, though difficult to improvise. Skiing in deep loose snow takes great effort and, in soft snow, snow shoes are better. To walk in snow shoes, lift each foot without angling it, unlike a normal stride, keeping the shoe as flat to the ground as possible.
+How to make improvised snow shoes: Bend a long green sapling back on itself to form a loop and secure the ends firmly. Add crosspieces and twine - the more the better - but do not make the shoes too heavy. You will not be able to walk far without getting very tired. Allow a firmer central section to attach to your foot.
+
+Follow rivers downstream by raft in summer, on the ice in winter - except in northern Siberia where rivers flow north. On frozen rivers keep to smoother ice at the edges and to outer curves on the bends. Where two rivers join follow the outside edge or take to the outer bank. If the river has many bends, leave the ice and travel by higher ridges.""",
+                    """WARNING: ICE COLD WATER IS A KILLER:
+
+Falling into icy water knocks the breath out of you. The body curls up with loss of muscular control and violent shivering. Exposed parts freeze in about 4 minutes, consciousness clouds in 7, death follows in 15-20.
+RESIST! Take violent action on hitting the water. Move fast for land. Then roll in snow to absorb water. Get to shelter and into dry kit immediately.""",
+                    """CLOTHING & EYE PROTECTION:
+
+Severe cold and harsh winds can freeze unprotected flesh in minutes. Protect the whole body, hands and feet. Wear a hood - it should have a drawstring so that it can partly cover the face. Fur trimming will prevent moisture in the breath freezing on the face and injuring the skin. Outer garments should be windproof, with a close enough weave to prevent snow compacting, but porous enough to allow water vapour to escape - NOT waterproof, which could create condensation inside. Under layers should trap air to provide heat insulation. Skins make ideal outer clothing. Openings allow heat to escape; movement can drive air out through them. If clothing has no draw strings, tie something around sleeves above cuffs, tuck trousers into socks or boots.
+
+If you begin to sweat, loosen some closures (collar, cuffs). If still too warm, remove a layer. Do so when doing jobs like chopping wood or shelter building. Only a plane crash or forced landing is likely to leave someone in polar regions unequipped. Try to improvise suitable clothing before leaving the plane. Wear wool - it does not absorb water and is warm even when damp. Spaces between the knit trap body heat. It is best for inner garments. Cotton acts like a wick, absorbing moisture. When wet, it can lose heat 240 times faster than when dry.
+
+• Feet: Mukluks, boots of waterproof canvas with a rubber sole which comes up to the caulk and with a drawstring to adjust fitting, are ideal. Ideally they should have an insulated liner. Insulate feet with three pairs of socks, graded in size to fit over each other and not wrinkle. If necessary, improvise foot coverings with several layers of fabric. Canvas seat covers can make improvised boots. Trenchfoot can develop when the feet are immersed in water for long periods, as in the boggy tundra during the summer months.
+
+• Snow Glare: Protect the eyes with goggles or a strip of cloth or bark with narrow slits cut for eyes. The intensity of the sun's rays, reflected by snow, can cause snow blindness. Blacken beneath the eyes with charcoal to reduce glare further.""",
+                    """CLOTHING & SHELTER PRINCIPLES:
+
+Use the **C.O.L.D.** rules to keep warm:
+- C: Keep it CLEAN - Dirt and grease block insulating air spaces!
+- O: Avoid OVERHEATING - Ventilate by opening cuffs/collars before you sweat!
+- L: Wear it LOOSE - Allow air to circulate!
+- D: Keep it DRY - Outside and inside!
+
+SHELTER: You cannot stay in the open to rest. GET OUT OF THE WIND! Look for natural shelter you can improve on, but AVOID the lee side of cliffs where snow could drift and bury your shelter, or sites where rock falls or avalanches are likely. Avoid snow-laden trees - the weight could bring down frozen branches - unless the lower boughs are supported on the snow. There may be a space beneath the branch which will provide a ready-made shelter.
+
+REMEMBER: Don't block EVERY hole to keep out draughts. You MUST have ventilation, especially if burning a fire inside your shelter. Otherwise you may asphyxiate."""
+                ]
+            },
+            {
+                "title": "Polar Fuel, Water & Wildlife",
+                "subtitle": "Drain sump oil, blubber fuels, casiope plant, melting ice vs snow, polar bears, and seals.",
+                "imageName": "climate.jpg",
+                "textSections": [
+                    """FUEL & WATER SOURCING:
+
+FIRE: Essential for polar survival. Fuel oil from wreckage can provide heat. Drain oil from the sump and reservoir onto the ground as soon as possible - as it cools it will congeal and become impossible to drain. High octane fuel does not freeze so quickly - leave it in the tanks. In the Antarctic and on the Arctic ice, seal and bird fat are the only other fuel sources. On coasts, driftwood can sometimes be collected. In the tundra, low, spreading willow can be found. Birch scrub and juniper also grow beyond the forests. Birch bark makes excellent kindling - the wood is oily. Feather a branch and it will burn even when wet.
+
+• Casiope: Another low-spreading, heather-like plant that Eskimos use for fuel. Evergreen, with tiny leaves and white bell-shaped flowers, and only 10-30cm (4-12in) high, it contains so much resin that it, too, burns when wet.
+
+WATER: Even in the cold you need over a litre (1¾ pt) daily to replace losses. In summer, water is plentiful in tundra lakes and streams. Pond water may look brown and taste brackish but vegetation growing in it keeps it fresh. If in doubt, BOIL. In winter, melt ice and snow. DO NOT eat crushed ice; it can injure your mouth and lips and also cause further dehydration. Thaw snow sufficiently to mould into a ball before attempting to suck it. Remember: if already cold and tired, eating snow will further chill your body.""",
+                    """POLAR FOOD & WILDLIFE:
+
+• Antarctic: Lichens and mosses, growing on dark, heat-absorbing rocks on some northern coasts, are the only plants. Seas are rich in plankton and krill which support fish, whales, seals and many seabirds. Most birds migrate in autumn, but flightless penguins stay. They make good eating. Most of the year they take to the water at the first sign of danger but, when incubating eggs, sit tight on their burrows or scrapes.
+
+• Arctic: Ice provides no habitat for plants or ground animals. Even polar bears are likely only where they can find prey - and they are difficult and dangerous to hunt. Seabirds, fish and seals, where there is water, are the potential foods. Foxes - the Arctic fox turns white in winter - sometimes follow polar bears onto sea ice to scavenge their kills. Northern wildlife is migratory and availability depends on the season.
+
+• Tundra and Forest: Plants and animals can be found in winter and summer, and the northern forests offer even more wildlife. Tundra plant species are the same in Russia as in Alaska. All are small compared to warmer climate plants: ground-spreading willow, birch and berry plants with high vitamin content. Lichens and mosses, found widely, form a valuable food source - especially reindeer moss.
+
+• Poisonous Plants: The majority of Arctic plants are edible, but AVOID Water Hemlock - the most poisonous. AVOID the fruit of the Baneberry. AVOID small Arctic buttercups. Other temperate poisonous species found far north include Lupin, Monkshood, Larkspur, Vetch (Locoweed), False Hellebore and Death Camas. Best avoid fungi too - make sure you can distinguish lichens from them! There are no Arctic plants which are known to produce contact poisoning.
+
+• Animals for Food: Bark and greenery stripped from trees is evidence of feeding animals. Caribou (reindeer) are common from Alaska to west Greenland and found across northern Scandinavia and Siberia. Shaggy musk-ox roam in northern Greenland, and in the islands of the Canadian archipelago, elk (moose) are found where there is a mixture of forest and open ground. Wolves are common in northern Canada, Alaska and Siberia (but rare and protected in most European countries). Foxes, mountain hares, squirrels and lemmings are also found. Bears roam the barren lands of the north as well as the forests. They can be dangerous. Give them a wide berth.""",
+                    """HUNTING, TRAPPING & SEALS:
+
+Tracks are clear in the snow and easy to follow - but leave a trail of fluttering flags of bright material from wreckage to find your way back to your shelter. Make them high enough not to be covered by a fresh snowfall. Caribou can be very curious and may sometimes be lured by waving a cloth and moving on all fours. Imitating a four-legged animal may also bring wolves closer, thinking you might be prey. Some prey animals can be attracted by the sound made by kissing the back of your hand. Stalking animals is difficult in the exposed Arctic. Use a screen of cloth or snow to hide.
+
+• Seals: A main source of food on polar ice, some seals remain there right through the winter. The Antarctic Weddell seal can dive for 15 minutes before coming up to breathe from pockets of air beneath the ice, or at small holes which it keeps open by nibbling around the edges. Newborn seals cannot swim and are easy to catch. Breathing holes in the ice are the best place to catch seals; recognize them by their cone shape (narrower on the upper surface). Club the animal then enlarge the hole to recover the carcass. Seals provide food, clothing, moccasins and blubber for fires. Eat all except the liver, which has DANGEROUS concentrations of vitamin A. Cook seal meat and polar bear meat to avoid Trichinosis.
+
+• Polar Bears: Confined to the high Arctic, they have a keen sense of smell and are tireless hunters on sea ice. Feeding mainly on seals, they are powerful and dangerous. Always cook their meat: muscles always carry the Trichinosis worm. NEVER eat polar bear liver which has lethal concentrations of vitamin A.
+
+• Preparing Meat: Bleed, gut and skin while the carcass is still warm. Roll hides before they freeze. Cut meat into usable portions and allow to freeze. Do not keep reheating. Remove seal fat and render it down before it turns rancid. Cache food carefully to prevent theft by animals. Rodents, rabbits and hares can carry Tularemia, which can be caught from ticks or handling infected animals. Wear gloves when skinning. Boiled flesh is safe."""
+                ]
+            },
+            {
+                "title": "Mountain Navigation & Descents",
+                "subtitle": "Ascending and descending crags, scree slopes, and chimney techniques.",
+                "imageName": "strategy.jpg",
+                "textSections": [
+                    """MOUNTAIN SAFETY: Mountain peaks are exposed to high winds and often covered in snow. They provide neither food nor shelter. Climbing rock and negotiating ice and snowfields calls for special skills. No inexperienced person should think of trying to tackle real mountaineering territory, except as a learner with a properly organized party. But disaster may leave you on a mountainside or force you to cross a mountain range to get to safety.
+
+If no rescue is likely, the first aim in daylight should be to get down into the valleys where food and shelter are available. At night and in bad visibility this is too dangerous. Some kind of shelter must be found until visibility improves. Dig into the snow if there is no shelter among rocks and no wreckage to provide cover. If below the snow line, you must cover yourself to prevent exposure. Use garbage bags, blankets, or extra clothing for insulation. On a slope, sleep with your head uphill; on rough and stony ground, sleep on your stomach for greater comfort.""",
+                    """JUDGING TERRAIN & DESCENTS:
+
+• Judging Terrain: As you descend a mountainside, it will often be difficult to see what is below you. Can you move around a valley or along a spur to look back at what was below? The opposite side of a valley will give you some idea of what is on your side too. Be cautious if you find you are looking at a distant slope beyond a foreground bluff; the ground is likely to fall steeply between. Scree slopes can be deceptive and appear continuous until you are very close to a cliff.
+
+• Descents: Negotiating cliffs without a rope is extremely dangerous. On the steepest cliffs it is necessary to come down facing the cliff and very difficult to see footholds below. If there is an adjoining slope, a colleague can observe and give directions. A high cliff should never be attempted. In the case of a plane crash there is probably more risk in climbing than waiting for rescue. To climb down rock faces which are less steep and with deeper ledges, adopt a sideways position using the inside hand for support. For easier crags, descend facing outwards with the body bent and where possible carry weight on the palms of the hands.
+
+• Ascent: Climbing upwards, holds are easier to see, but it is always safer to go round than over obstacles if you are travelling without knowing the route. Always work out your route from the bottom. Move only one hand or one foot at a time - always keep three points of contact. Keep your weight evenly balanced on the feet rather than hang from the hands. Let the legs do most of the work. Always place the feet as flat as possible to make maximum contact with the rock. To climb vertically up fissures, use the chimney technique: place your back against one surface and wedge your legs across the gap to the other. Slowly move up."""
+                ]
+            },
+            {
+                "title": "Ropes, Abseiling & Belaying",
+                "subtitle": "How to abseil, friction controls, belaying methods, and crevasses rescue.",
+                "imageName": "strategy.jpg",
+                "textSections": [
+                    """ABSEILING (RAPPELLING):
+
+With a rope firmly anchored at the upper level, it is possible to descend the sheerest cliff. The technique, known as abseiling or rappelling, uses a doubled rope. The rope does not move - you move down it. Friction can damage clothing and skin, so pad your shoulders and groin, and wear gloves.
+
+The length of the rope controls the amount of descent and there must be a firm anchor point: a rock or tree which can carry the weight and not cut the rope. If a series of platforms with firm anchors can be found, a slope can be negotiated in stages. After an abseil, the rope can be pulled down after you.
+
+How to abseil (Classic Body Technique):
+Loop the rope around a firm anchor (test it with full body weight). Avoid sharp edges that could cut the rope. Pass both ends of the rope between the legs from the front, bring them around to the left of the body, across the chest, over the right shoulder, and down across the back. Hold the rope in front with the left hand and at the back with the right. Plant feet about 45cm (18in) apart, firmly against the slope, and lean back. Let the rope around the body carry your weight. Do not try to support yourself with your upper hand. Step slowly downwards. The lower hand controls the rate of descent. Pay the rope out one hand at a time.
+CAUTION: Abseiling can be dangerous. If not trained in the technique, NEVER attempt it, unless accompanied by an expert or in a survival situation.""",
+                    """BELAYING & ASCENTS:
+
+Belaying is a method of helping others to climb up. First, one person must make the ascent with a rope attached around the waist with a bowline. At each stage of the ascent there must be a platform to accommodate the party and a secure anchor (a tree, spike of rock, or wedged boulder). Anchor the rope with a loop tied in a figure-of-eight or an overhand knot.
+
+The belayer ties on to steady himself, passes the climbing rope over his head and down to his hips, making a twist around the arm closest to the anchor, and takes up the slack. The climber ties on with a bowline around the waist and begins to mount. The belayer takes in the rope to keep it taut.
+
+How to take up rope: Pull with both hands so that the rope passes behind your back. Slide your hand out for more rope. Bring hands together and hold both parts of the rope in one hand while the other hand slides in towards the body to take up slack. Be ready to arrest the rope if the climber falls.
+The anchor, belayer, and climber should be in a straight line. Older people and children should be roped around the chest. Small children are best carried papoose-style on another climber's back. Note: Belaying without an anchor is risky and requires more strength. The rope should then only pass through the belayer's fingers, NOT around the back, lest the belayer be pulled down.
+
+WARNING: FALLING ROCK CAN KILL!
+On loose rock always test holds gently and never pull outwards on a loose hold. Be careful that your rope does not dislodge rocks. If you knock a piece down, shout a warning to those below."""
+                ]
+            },
+            {
+                "title": "Icefields, Crevasses & Avalanches",
+                "subtitle": "Snow stick brakes, ice mushrooms, crevasse extraction, and avoiding avalanches.",
+                "imageName": "strategy.jpg",
+                "textSections": [
+                    """SNOW & ICEFIELDS:
+
+On snow, some ice-axe techniques can be improvised with a stout stick - a handled walking stick gives more grip. Driven into the snow when climbing, it gives stability. On steep slopes climb in zig-zags, kicking steps and digging your stick in. On gentle slopes use heels and the stick as a walking cane. On steep slopes descend backwards, driving the stick into the snow for support and as a brake. Sliding down a snow slope is dangerous: digging in the heels helps control speed, but there is always a risk of an unseen precipice ahead! Never slide where there is an avalanche risk.
+
+• Security Ropes on Ice: Any party moving across a glacier should be tied together, at not less than 9m (30ft) intervals. The leader should probe the snow with a stick for crevasses.
+
+• Ice & Snow Bollards: If no rock is available, cut an anchor from the ice. Cut a mushroom shape at least 40cm (16in) in diameter and 15cm (6in) deep. A snow bollard must be bigger: at least 30cm (1ft) deep and from 1m (3ft) wide in hard snow to 3m (10ft) in soft. Pack gear around it to prevent the rope cutting through.
+
+• Crevasses: Crevasses are found where a glacier changes direction or spreads. If one of the group falls through, he is belayed by a rope. Pressure on the chest can cause asphyxiation. Pass a rope down with a loop for the victim's foot. If the victim is unconscious, it will take three people with man-harness hitches to heave him out. Temperatures are very low; speed is important.""",
+                    """AVALANCHES & MUD SLIDES:
+
+Avalanches are a serious hazard on slopes of between 20° and 60° (especially 30° to 45°), usually within 24 hours of a fresh snowfall.
+Triggers: Temperature, ground conditions, noise, and human disturbance. Avoid steep ground with fresh snow. Waiting 24 hours for it to settle helps. Rain or a rise in temperature after a snowfall increases risk by lubricating the slide. Convex slopes under tension are highly unstable. Deep snow-filled gullies and lee slopes are also dangerous.
+
+• Crossings: Test the snow first by digging in your stick to check for layers. Shout or throw rocks to encourage a slide from a safe spot. Rope together and keep 15m (50ft) apart to spread the load. Carry a location beacon and stream out a bright nylon avalanche tape.
+- Sun precautions: Before noon, travel in shaded areas. After noon, keep to slopes exposed to the sun, avoiding those in the sun for the first time. Stick to ridges.
+- Convex vs Concave: Never make camp on the lee side of a convex slope; a concave slope is safer.
+
+• Mud Slides: Masses of mud sliding on water bury everything. Avoid low-lying areas and wadis; stay on spurs and ridges. If caught, use swimming actions to stay on top and go feet first."""
+                ]
+            },
+            {
+                "title": "Seashores, Estuaries & Rocky Coasts",
+                "subtitle": "Sandy, muddy, and rocky shore resources, tides, and undertow safety.",
+                "imageName": "climate.jpg",
+                "textSections": [
+                    """SEASHORE ENVIRONMENTS:
+
+Most seashores offer abundant sources of food. Coastal waters are home to seaweeds, fish, seals, birds, molluscs, and plankton. Coasts range from sheer cliffs to gently sloping beaches. A beach at the foot of a cliff is easily cut off by high tide.
+
+• Sandy Beaches: Gentle and sloping, exposing large areas at low tide containing burrowing worms and molluscs. Blown dunes may contain fresh water and vegetation. Dunes are full of insects - do not choose them for camp.
+
+• Muddy Shores & Estuaries: Rivers deposit nutrient-rich sediment forming mud flats that support worms, molluscs, and feeding wildlife.
+
+• Rocky Shores: Trap pools of water when the tide recedes. Rock pools teem with life. Rocks provide surfaces for univalve shells, sea urchins, seaweed, and crevices for octopuses. Hard fractured rocks provide nesting sites for seabirds.
+
+• Pebble Beaches: Sustain the least life. The continual movement of pebbles makes a difficult habitat for plants and animals.""",
+                    """TIDES & SHORE DANGERS:
+
+• Tides: Tides vary by location and season. In enclosed seas (e.g. Mediterranean) they change only a few metres. In the Bay of Fundy, they can rise up to 16m (52½ ft). Look for the debris line, dry vs wet sand textures, and weed lines on cliffs to determine high tide. Always keep an eye on rising water levels to prevent being cut off. Tides wash up valuable driftwood fuel and trap fish in rock pools.
+
+• Shore Dangers: Never underestimate the sea. Time the tides. Cliffs present access problems; make sure you can get back up. Look out for strong currents off headlands. Sandbanks and submerged rocks are dangerous. Beaches falling steeply into deep water have a strong undertow. Use a safety line when entering the water to retrieve kit.""",
+                    """SWIMMING, FLOATING & FRESH WATER:
+
+• Swimming: If caught in the undertow of a large wave, push off the bottom and swim to the surface. Swim to shore in the trough between waves; face and submerge under oncoming waves. If a current sweeps you offshore, do not fight it - swim ACROSS it using side stroke (least tiring) and make for land further down. If swept onto rocks, face shorewards, keep shoes on, and adopt a sitting position with feet in front to absorb the impact.
+
+• Floating: A relaxed body floats best. Women float naturally on their backs (extra layer of fat); men float naturally face down - lift head to breathe.
+
+• Fresh Water: Look for small river outlets (large ones are silty/polluted). On sandy shores, dig above high-water mark near vegetation down to moist sand; scoop the fresh water floating on top of the salt water. Rock pools above high-water mark with green algae indicate fresh water. NEVER drink sea water without distilling it - it causes kidney failure. Saltwater can be used to cook, but only if you have adequate fresh water. Use salt residue to preserve meat."""
                 ]
             }
         ]
