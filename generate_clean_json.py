@@ -669,50 +669,134 @@ Tracks are clear in the snow and easy to follow - but leave a trail of flutterin
 • Polar Bears: Confined to the high Arctic, they have a keen sense of smell and are tireless hunters on sea ice. Feeding mainly on seals, they are powerful and dangerous. Always cook their meat: muscles always carry the Trichinosis worm. NEVER eat polar bear liver which has lethal concentrations of vitamin A.
 
 • Preparing Meat: Bleed, gut and skin while the carcass is still warm. Roll hides before they freeze. Cut meat into usable portions and allow to freeze. Do not keep reheating. Remove seal fat and render it down before it turns rancid. Cache food carefully to prevent theft by animals. Rodents, rabbits and hares can carry Tularemia, which can be caught from ticks or handling infected animals. Wear gloves when skinning. Boiled flesh is safe."""
+                    """### Fuel & Water Sourcing
+
+#### Fire & Fuel Sourcing
+Essential for polar survival. Fuel oil from wreckage can provide heat. **Drain oil from the sump and reservoir onto the ground** as soon as possible - as it cools it will congeal and become impossible to drain. High octane fuel does not freeze so quickly - leave it in the tanks.
+* **Blubber**: In the Antarctic and on the Arctic ice, seal and bird fat are the only other fuel sources.
+* **Driftwood**: On coasts, driftwood can sometimes be collected.
+* **Tundra Plants**: In the tundra, low, spreading willow can be found. Birch scrub and juniper also grow beyond the forests. Birch bark makes excellent kindling - the wood is oily. Feather a branch and it will burn even when wet.
+* **Casiope**: Another low-spreading, heather-like plant that Eskimos use for fuel. Evergreen, with tiny leaves and white bell-shaped flowers, and only 10-30cm (4-12in) high, it contains so much resin that it, too, **burns when wet**.
+
+#### Water Sourcing
+Even in the cold you need over a litre (1.75 pints) daily to replace losses. In summer water is plentiful in tundra lakes and streams. Pond water may look brown and taste brackish but vegetation growing in it keeps it fresh. If in doubt, **BOIL**.
+In winter, melt ice and snow:
+* **Do NOT eat crushed ice**: It can injure your mouth and lips and also cause further dehydration.
+* **Thaw snow sufficiently** to mould into a ball before attempting to suck it.
+* *If already cold and tired, eating snow will further chill your body.*""",
+                    """### Polar Food & Wildlife
+
+#### Antarctic Food Sources
+Lichens and mosses, growing on dark, heat-absorbing rocks on some northern coasts, are the only plants. Seas are rich in plankton and krill which support fish, whales, seals and many seabirds. Most birds migrate in autumn, but flightless penguins stay. They make good eating. Most of the year they take to the water at the first sign of danger but, when incubating eggs, sit tight on their burrows or scrapes.
+
+#### Arctic Food Sources
+Ice provides no habitat for plants or ground animals, even polar bears are likely only where they can find prey - and they are difficult and dangerous to hunt. Seabirds, fish and seals, where there is water, are the potential foods. Foxes sometimes follow polar bears onto sea ice to scavenge their kills. Northern wildlife is migratory and availability depends on season.
+
+#### Tundra and Forest
+Plants and animals can be found in winter and summer, and the northern forests offer even more wildlife. Tundra plant species are the same in Russia as in Alaska. All are small: ground spreading willow, birch and berry plants with high vitamin content. Lichens and mosses, found widely, form a valuable food source - especially reindeer moss.
+* **Poisonous Plants**: The majority of Arctic plants are edible, but **AVOID Water Hemlock** - the most poisonous. AVOID the fruit of the Baneberry. AVOID small Arctic buttercups. Other temperate poisonous species found far north include Lupin, Monkshood, Larkspur, Vetch (Locoweed), False hellebore and Death camas. Best avoid fungi too - make sure you can distinguish lichens from them!
+* **Animals for Food**: Caribou (reindeer) are common from Alaska to west Greenland and found across northern Scandinavia and Siberia. Shaggy musk-ox roam in northern Greenland. Elk (Moose) are found where there is a mixture of forest and open ground. Wolves, foxes, mountain hares, squirrels, rodents, beavers, mink, wolverines and weasels can all be found.
+* **Bears**: Bears roam the barren lands of the north as well as the forests. They can be dangerous. **Give them a wide berth.**""",
+                    """### Hunting, Trapping & Meat Preparation
+
+#### Hunting & Trapping
+Tracks are clear in snow and easy to follow - but leave a trail of fluttering flags of bright material from wreckage to find your way back to your shelter. Make them high enough not to be covered by a fresh snowfall.
+* **Caribou**: Can be very curious and may sometimes be lured by waving a cloth and moving on all fours.
+* **Small Prey**: Ground squirrels and marmots may run into you if you are between them and their holes. Some documentation shows they can be attracted by the sound made by **kissing the back of your hand** (mimicking a wounded mouse or bird).
+* **Seals**: A main source of food on polar ice, some seals remain there right through the winter. Newborn seals cannot swim and are easy to catch. Out of the breeding season, breathing holes in the ice are the best place to catch seals; recognize them by their cone shape. Club the animal then enlarge the hole to recover the carcass. Seals provide food, clothing, moccasins and blubber for fires. Eat all except the liver, which has **DANGEROUS concentrations of Vitamin A**. Cook seal meat to avoid *Trichinosis*.
+* **Walruses**: Walruses may look cumbersome but are also very dangerous. **LEAVE THEM ALONE UNLESS YOU ARE ARMED.**
+* **Polar Bears**: Always cook meat: muscles always carry the *Trichinosis* worm. **NEVER eat polar bear liver** which can have lethal concentrations of Vitamin A.
+
+#### Preparing Meat
+Bleed, gut and skin while the carcass is still warm. Roll hides before they freeze. Cut meat into usable portions and allow to freeze. Do not keep reheating. Once cooked, eat leftovers cold. Leave fat on all animals except seals. Fat is essential in cold areas but, if you eat a lot, make sure you take plenty of fluids. Remove seal fat and render it down before it turns rancid.
+* **Tularemia Warning**: Rodents, especially squirrels, and rabbits/hares, can carry **Tularemia**, which can be caught from ticks or handling infected animals. Wear gloves when skinning. Boiled flesh is safe.""",
+                    """### Arctic Health & Cold Safety
+
+#### Core Hazards
+Frostbite, hypothermia and snow blindness are the main hazards, while efforts to keep warm and exclude draughts can lead to lack of oxygen and carbon monoxide poisoning.
+* **Mental Withdrawal**: It is easy to withdraw from reality, layered in clothing and with the head wrapped in a hood. Thinking can become sluggish and obvious things overlooked. **Keep active, keep 'switched on', and conserve energy.**
+* **Defecation**: Don't put off defecation - constipation is often brought on that way. Try to time it conveniently before leaving your shelter.
+
+#### Health Safety Guidelines
+* **Face**: Wrinkle your face to stop stiff patches forming, pulling muscles in every direction. Exercise hands.
+* **Monitoring**: Watch yourself and others for patches of **waxy, reddening or blackened skin**, especially on faces, ears, and hands (signs of frostbite).
+* **Circulation**: AVOID tight clothing which will reduce circulation. Exercise fingers and toes to improve circulation.
+* **Snow Protection**: Knock snow off before entering shelter, or leave outer clothing at the entrance. Snow will melt in warmth, giving you wet clothing.
+* **Metal Warning**: Wear gloves and keep them dry. **NEVER touch metal with bare hands.**
+* **Petrol Danger**: AVOID spilling petrol on bare flesh. In sub-zero temperatures it will freeze almost at once and does even more damage than water because of its lower melting point."""
                 ]
             },
             {
                 "title": "Mountain Navigation & Descents",
-                "subtitle": "Ascending and descending crags, scree slopes, and chimney techniques.",
-                "imageName": "strategy.jpg",
+                "subtitle": "Improvised shelters, judging steep slopes, climbing safety rules, and descent footwork.",
+                "imageName": "climate.jpg",
                 "textSections": [
-                    """MOUNTAIN SAFETY: Mountain peaks are exposed to high winds and often covered in snow. They provide neither food nor shelter. Climbing rock and negotiating ice and snowfields calls for special skills. No inexperienced person should think of trying to tackle real mountaineering territory, except as a learner with a properly organized party. But disaster may leave you on a mountainside or force you to cross a mountain range to get to safety.
+                    """### Mountain Exposure & Shelters
 
-If no rescue is likely, the first aim in daylight should be to get down into the valleys where food and shelter are available. At night and in bad visibility this is too dangerous. Some kind of shelter must be found until visibility improves. Dig into the snow if there is no shelter among rocks and no wreckage to provide cover. If below the snow line, you must cover yourself to prevent exposure. Use garbage bags, blankets, or extra clothing for insulation. On a slope, sleep with your head uphill; on rough and stony ground, sleep on your stomach for greater comfort.""",
-                    """JUDGING TERRAIN & DESCENTS:
+Mountain peaks are exposed to high winds and often covered in snow. They provide neither food nor shelter. Climbing rock and negotiating ice and snowfields calls for special skills. No inexperienced person should think of trying to tackle real mountaineering territory, except in a survival situation.
+* **Core Goal**: If no rescue is likely, the first aim in daylight should be to **get down into the valleys** where food and shelter are available. At night and in bad visibility this is too dangerous. Some kind of shelter must be found until visibility improves.
+* **Improvising Shelter**: Dig into the snow if there is no shelter among rocks and no wreckage to provide cover. If below the snow line you must cover yourself to prevent exposure. A plastic bag will make an improvised sleeping bag. Do not pull clothes too tightly round you; air within the clothes will provide insulation.
+* **Sleeping Position**: On a slope, sleep with your **head uphill**; on rough and stony ground sleep on your stomach for greater comfort.""",
+                    """### Judging Terrain & Descending
 
-• Judging Terrain: As you descend a mountainside, it will often be difficult to see what is below you. Can you move around a valley or along a spur to look back at what was below? The opposite side of a valley will give you some idea of what is on your side too. Be cautious if you find you are looking at a distant slope beyond a foreground bluff; the ground is likely to fall steeply between. Scree slopes can be deceptive and appear continuous until you are very close to a cliff.
+#### Judging Terrain
+As you descend a mountainside it will often be difficult to see what is below you. Can you move around a valley or along a spur to look back at what was below? The opposite side of a valley will give you some idea of what is on your side too. Be cautious if you find you are looking at a distant slope beyond a foreground bluff; the ground is likely to fall steeply between. Scree slopes can be particularly deceptive and appear continuous until you are very close to a cliff.
 
-• Descents: Negotiating cliffs without a rope is extremely dangerous. On the steepest cliffs it is necessary to come down facing the cliff and very difficult to see footholds below. If there is an adjoining slope, a colleague can observe and give directions. A high cliff should never be attempted. In the case of a plane crash there is probably more risk in climbing than waiting for rescue. To climb down rock faces which are less steep and with deeper ledges, adopt a sideways position using the inside hand for support. For easier crags, descend facing outwards with the body bent and where possible carry weight on the palms of the hands.
+#### Cliff Descent without Ropes
+Negotiating cliffs without a rope is extremely dangerous.
+* **Facing the Cliff**: On the steepest cliffs it is necessary to come down facing the cliff, making it very difficult to see footholds below. If there is an adjoining slope, a colleague can observe and give directions.
+* **Sideways Position**: To climb down rock faces which are less steep and with deeper ledges, adopt a sideways position using the inside hand for support.
+* **Facing Outwards**: For easier crags, descend facing outwards with the body bent and where possible carry weight on the palms of the hands.""",
+                    """### Climbing Ascent Rules
 
-• Ascent: Climbing upwards, holds are easier to see, but it is always safer to go round than over obstacles if you are travelling without knowing the route. Always work out your route from the bottom. Move only one hand or one foot at a time - always keep three points of contact. Keep your weight evenly balanced on the feet rather than hang from the hands. Let the legs do most of the work. Always place the feet as flat as possible to make maximum contact with the rock. To climb vertically up fissures, use the chimney technique: place your back against one surface and wedge your legs across the gap to the other. Slowly move up."""
+Climbing upwards, holds are easier to see, but it is always safer to go round than over obstacles if you are travelling without knowing the route.
+1. **Plan the Route**: Always work out your route from the bottom.
+2. **Keep Distance**: In climbing, keep the body away from the rock and look up.
+3. **Three Points of Contact**: Move only one hand or one foot at a time - always keep **three points of contact**.
+4. **Leg Strength**: Keep your weight evenly balanced on the feet rather than hang from the hands. Use small intermediate holds, avoid becoming spread-eagled and let the legs do most of the work. Always place the feet as flat as possible to make maximum contact with the rock.
+5. **Chimney Technique**: To climb vertically up fissures, place your back against one surface and wedge your legs across the gap to the other. Slowly move up."""
                 ]
             },
             {
                 "title": "Ropes, Abseiling & Belaying",
-                "subtitle": "How to abseil, friction controls, belaying methods, and crevasses rescue.",
-                "imageName": "strategy.jpg",
+                "subtitle": "Rappelling body loop steps, belaying body wrapping, taking up slack, and avoiding falling rock.",
+                "imageName": "climate.jpg",
                 "textSections": [
-                    """ABSEILING (RAPPELLING):
+                    """### Ropes & Abseiling (Rappelling)
 
-With a rope firmly anchored at the upper level, it is possible to descend the sheerest cliff. The technique, known as abseiling or rappelling, uses a doubled rope. The rope does not move - you move down it. Friction can damage clothing and skin, so pad your shoulders and groin, and wear gloves.
+With a rope firmly anchored at the upper level, it is possible to descend the sheerest cliff. The technique, known as **abseiling or rappelling**, can involve a special sit sling and a karabiner, but the basic method uses just a doubled rope. The rope does not move - you move down it.
+* **Preparation**: Friction can damage clothing and skin, so if you can, pad out your shoulders and groin, and wear gloves. Make sure that you are in a safe position before hauling the rope down - its sudden weight could affect your balance.
+* **Anchor Point**: The length of the rope controls the amount of descent and there must be a firm anchor point - a rock, or tree which can carry the weight and not cut the rope.
 
-The length of the rope controls the amount of descent and there must be a firm anchor point: a rock or tree which can carry the weight and not cut the rope. If a series of platforms with firm anchors can be found, a slope can be negotiated in stages. After an abseil, the rope can be pulled down after you.
+#### Abseiling Steps (Body Loop Method)
+1. **Loop & Test**: Loop the rope around a firm anchor and test it with your full body weight. Avoid sharp edges.
+2. **Pass Between Legs**: Pass both ends of the rope between your legs from the front.
+3. **Wrap Around Body**: Bring the rope around to the left of your body, diagonally across your chest, over your right shoulder, and down across your back.
+4. **Two-Handed Grip**: Hold the rope in front with your left hand and at the back with your right hand.
+5. **Position**: Plant your feet about 45cm (18in) apart firmly against the slope and lean back. Let the rope around your body carry your weight. Do not try to support yourself with your upper hand.
+6. **Descent**: Step slowly downwards. The lower hand controls the rate of descent by paying the rope out one hand at a time.
 
-How to abseil (Classic Body Technique):
-Loop the rope around a firm anchor (test it with full body weight). Avoid sharp edges that could cut the rope. Pass both ends of the rope between the legs from the front, bring them around to the left of the body, across the chest, over the right shoulder, and down across the back. Hold the rope in front with the left hand and at the back with the right. Plant feet about 45cm (18in) apart, firmly against the slope, and lean back. Let the rope around the body carry your weight. Do not try to support yourself with your upper hand. Step slowly downwards. The lower hand controls the rate of descent. Pay the rope out one hand at a time.
-CAUTION: Abseiling can be dangerous. If not trained in the technique, NEVER attempt it, unless accompanied by an expert or in a survival situation.""",
-                    """BELAYING & ASCENTS:
+*CAUTION: Abseiling can be highly dangerous. If not trained in the technique, NEVER attempt it unless accompanied by an expert or in a survival situation.*
+
+#### Using a Cradle
+On an unobstructed vertical descent, a cradle made from a **bowline-on-the-bight** can be used to lower people down, or haul them up. Use this technique to rescue anyone who has fallen down a crevasse.""",
+                    """### Belaying & Ascents
 
 Belaying is a method of helping others to climb up. First, one person must make the ascent with a rope attached around the waist with a bowline. At each stage of the ascent there must be a platform to accommodate the party and a secure anchor (a tree, spike of rock, or wedged boulder). Anchor the rope with a loop tied in a figure-of-eight or an overhand knot.
 
 The belayer ties on to steady himself, passes the climbing rope over his head and down to his hips, making a twist around the arm closest to the anchor, and takes up the slack. The climber ties on with a bowline around the waist and begins to mount. The belayer takes in the rope to keep it taut.
 
-How to take up rope: Pull with both hands so that the rope passes behind your back. Slide your hand out for more rope. Bring hands together and hold both parts of the rope in one hand while the other hand slides in towards the body to take up slack. Be ready to arrest the rope if the climber falls.
-The anchor, belayer, and climber should be in a straight line. Older people and children should be roped around the chest. Small children are best carried papoose-style on another climber's back. Note: Belaying without an anchor is risky and requires more strength. The rope should then only pass through the belayer's fingers, NOT around the back, lest the belayer be pulled down.
+#### How to Take Up Rope:
+1. Pull with both hands so that the rope passes behind your back (pull in with right hand, push away with left).
+2. Slide your right hand out for more rope.
+3. Bring hands together and hold both parts of the rope in your right hand while the left slides in towards your body to take up slack.
+4. Begin again, pulling in with right hand, pulling rope around body with left. **Be ready to arrest the rope if the climber falls.**
 
-WARNING: FALLING ROCK CAN KILL!
-On loose rock always test holds gently and never pull outwards on a loose hold. Be careful that your rope does not dislodge rocks. If you knock a piece down, shout a warning to those below."""
+The anchor, belayer, and climber should be in a straight line. Older people and children should be roped around the chest. Small children are best carried papoose-style on another climber's back.
+*Note: Belaying without an anchor is risky and requires more strength. The rope should then only pass through the belayer's fingers, NOT around the back, lest the belayer be pulled down.*
+
+#### WARNING: Falling Rock Can Kill!
+On loose rock always test holds gently and never pull outwards on a loose hold. Be careful that your rope does not dislodge rocks. Even small falling rocks can inflict serious injury. If you knock a piece down, **shout a warning to those below**."""
                 ]
             },
             {
@@ -720,25 +804,32 @@ On loose rock always test holds gently and never pull outwards on a loose hold. 
                 "subtitle": "Snow stick brakes, ice mushrooms, crevasse extraction, and avoiding avalanches.",
                 "imageName": "strategy.jpg",
                 "textSections": [
-                    """SNOW & ICEFIELDS:
+                    """### Snow & Icefields
 
 On snow, some ice-axe techniques can be improvised with a stout stick - a handled walking stick gives more grip. Driven into the snow when climbing, it gives stability. On steep slopes climb in zig-zags, kicking steps and digging your stick in. On gentle slopes use heels and the stick as a walking cane. On steep slopes descend backwards, driving the stick into the snow for support and as a brake. Sliding down a snow slope is dangerous: digging in the heels helps control speed, but there is always a risk of an unseen precipice ahead! Never slide where there is an avalanche risk.
 
-• Security Ropes on Ice: Any party moving across a glacier should be tied together, at not less than 9m (30ft) intervals. The leader should probe the snow with a stick for crevasses.
+#### Security Ropes on Ice
+Any party moving across a glacier should be tied together, at not less than **9m (30ft) intervals**. The leader should probe the snow with a stick for crevasses. Fix security ropes to a firm anchor at both ends to steady movement across ice patches.
 
-• Ice & Snow Bollards: If no rock is available, cut an anchor from the ice. Cut a mushroom shape at least 40cm (16in) in diameter and 15cm (6in) deep. A snow bollard must be bigger: at least 30cm (1ft) deep and from 1m (3ft) wide in hard snow to 3m (10ft) in soft. Pack gear around it to prevent the rope cutting through.
+#### Ice & Snow Bollards
+If no rock is available, cut an anchor from the ice.
+* **Ice Bollard**: Cut a mushroom shape at least 40cm (16in) in diameter and 15cm (6in) deep. Discard at the slightest sign of a crack.
+* **Snow Bollard**: Must be much bigger: at least 30cm (1ft) deep and from 1m (3ft) wide in hard snow to 3m (10ft) in soft. Pack gear around it to prevent the rope cutting through.
 
-• Crevasses: Crevasses are found where a glacier changes direction or spreads. If one of the group falls through, he is belayed by a rope. Pressure on the chest can cause asphyxiation. Pass a rope down with a loop for the victim's foot. If the victim is unconscious, it will take three people with man-harness hitches to heave him out. Temperatures are very low; speed is important.""",
-                    """AVALANCHES & MUD SLIDES:
+#### Crevasses
+Crevasses are found where a glacier starts at a valley wall, changes direction or spreads. If one of the group falls through, he is belayed by a rope. Pressure on the chest can cause asphyxiation. Pass a rope down with a loop for the victim's foot. If the victim is unconscious, it will take **three people** with man-harness hitches to heave him out. Temperatures are very low; speed is important.""",
+                    """### Avalanches & Mud Slides
 
-Avalanches are a serious hazard on slopes of between 20° and 60° (especially 30° to 45°), usually within 24 hours of a fresh snowfall.
-Triggers: Temperature, ground conditions, noise, and human disturbance. Avoid steep ground with fresh snow. Waiting 24 hours for it to settle helps. Rain or a rise in temperature after a snowfall increases risk by lubricating the slide. Convex slopes under tension are highly unstable. Deep snow-filled gullies and lee slopes are also dangerous.
+Avalanches are a serious hazard on slopes of between 20° and 60° (especially **30° to 45°**), usually within 24 hours of a fresh snowfall.
+* **Triggers**: Temperature, ground conditions, noise, and human disturbance. Avoid steep ground with fresh snow. Waiting 24 hours for it to settle helps. Rain or a rise in temperature after a snowfall increases risk by lubricating the slide. Heavy snow falling during low temperature can also avalanche because it does not have enough time to stabilize.
+* **Slope Types**: Convex slopes under tension are highly unstable. Deep snow-filled gullies and lee slopes are also dangerous. Slopes with rocky outcrops and trees are safer to cross than bare ones.
 
-• Crossings: Test the snow first by digging in your stick to check for layers. Shout or throw rocks to encourage a slide from a safe spot. Rope together and keep 15m (50ft) apart to spread the load. Carry a location beacon and stream out a bright nylon avalanche tape.
-- Sun precautions: Before noon, travel in shaded areas. After noon, keep to slopes exposed to the sun, avoiding those in the sun for the first time. Stick to ridges.
-- Convex vs Concave: Never make camp on the lee side of a convex slope; a concave slope is safer.
+#### Precautions & Crossings
+Test the snow first by digging in your stick to check for layers. Shout or throw rocks to encourage a slide from a safe, protected spot. Rope together and keep **15m (50ft) apart** to spread the load.
+* **Convex vs Concave**: Never make camp on the lee side of a convex slope; a concave slope is safer.
 
-• Mud Slides: Masses of mud sliding on water bury everything. Avoid low-lying areas and wadis; stay on spurs and ridges. If caught, use swimming actions to stay on top and go feet first."""
+#### Mud Slides
+Masses of mud sliding on water bury everything. Avoid low-lying areas and wadis; stay on spurs and ridges. If caught, use swimming actions to stay on top and **go feet first**."""
                 ]
             },
             {
@@ -746,29 +837,41 @@ Triggers: Temperature, ground conditions, noise, and human disturbance. Avoid st
                 "subtitle": "Sandy, muddy, and rocky shore resources, tides, and undertow safety.",
                 "imageName": "climate.jpg",
                 "textSections": [
-                    """SEASHORE ENVIRONMENTS:
+                    """### Seashore Environments
 
 Most seashores offer abundant sources of food. Coastal waters are home to seaweeds, fish, seals, birds, molluscs, and plankton. Coasts range from sheer cliffs to gently sloping beaches. A beach at the foot of a cliff is easily cut off by high tide.
 
-• Sandy Beaches: Gentle and sloping, exposing large areas at low tide containing burrowing worms and molluscs. Blown dunes may contain fresh water and vegetation. Dunes are full of insects - do not choose them for camp.
+#### Sandy Beaches
+Gentle and sloping, exposing large areas at low tide containing burrowing worms and molluscs. Blown dunes may contain fresh water and vegetation. Dunes are full of insects - **do not choose them for camp**.
 
-• Muddy Shores & Estuaries: Rivers deposit nutrient-rich sediment forming mud flats that support worms, molluscs, and feeding wildlife.
+#### Muddy Shores & Estuaries
+Rivers deposit nutrient-rich sediment forming mud flats that support worms, molluscs, and feeding wildlife.
 
-• Rocky Shores: Trap pools of water when the tide recedes. Rock pools teem with life. Rocks provide surfaces for univalve shells, sea urchins, seaweed, and crevices for octopuses. Hard fractured rocks provide nesting sites for seabirds.
+#### Rocky Shores
+Trap pools of water when the tide recedes. Rock pools teem with life. Rocks provide surfaces for univalve shells, sea urchins, seaweed, and crevices for octopuses. Hard fractured rocks provide nesting sites for seabirds.
 
-• Pebble Beaches: Sustain the least life. The continual movement of pebbles makes a difficult habitat for plants and animals.""",
-                    """TIDES & SHORE DANGERS:
+#### Pebble Beaches
+Sustain the least life. The continual movement of pebbles makes a difficult habitat for plants and animals.""",
+                    """### Tides & Shore Dangers
 
-• Tides: Tides vary by location and season. In enclosed seas (e.g. Mediterranean) they change only a few metres. In the Bay of Fundy, they can rise up to 16m (52½ ft). Look for the debris line, dry vs wet sand textures, and weed lines on cliffs to determine high tide. Always keep an eye on rising water levels to prevent being cut off. Tides wash up valuable driftwood fuel and trap fish in rock pools.
+#### Tides
+Tides vary by location and season. In enclosed seas (e.g. Mediterranean) they change only a few metres. In the Bay of Fundy, they can rise up to **16m (52½ ft)**. Look for the debris line, dry vs wet sand textures, and weed lines on cliffs to determine high tide. Always keep an eye on rising water levels to prevent being cut off. Tides wash up valuable driftwood fuel and trap fish in rock pools.
 
-• Shore Dangers: Never underestimate the sea. Time the tides. Cliffs present access problems; make sure you can get back up. Look out for strong currents off headlands. Sandbanks and submerged rocks are dangerous. Beaches falling steeply into deep water have a strong undertow. Use a safety line when entering the water to retrieve kit.""",
-                    """SWIMMING, FLOATING & FRESH WATER:
+#### Shore Dangers
+*Never underestimate the power and danger of the sea.* Time the tides. Cliffs present access problems; make sure you can get back up. Look out for strong currents off headlands. Sandbanks and submerged rocks are dangerous. Beaches falling steeply into deep water have a **strong undertow**. Use a safety line when entering the water to retrieve kit.""",
+                    """### Swimming, Floating & Fresh Water
 
-• Swimming: If caught in the undertow of a large wave, push off the bottom and swim to the surface. Swim to shore in the trough between waves; face and submerge under oncoming waves. If a current sweeps you offshore, do not fight it - swim ACROSS it using side stroke (least tiring) and make for land further down. If swept onto rocks, face shorewards, keep shoes on, and adopt a sitting position with feet in front to absorb the impact.
+#### Swimming Safety
+If caught in the undertow of a large wave, push off the bottom and swim to the surface. Swim to shore in the trough between waves; face and submerge under oncoming waves.
+* **Offshore Currents**: If a current sweeps you offshore, do not fight it - **swim ACROSS it** using side stroke (least tiring) and make for land further down.
+* **Swept onto Rocks**: If swept onto rocks, face shorewards, keep shoes on, and adopt a sitting position with **feet in front** to absorb the impact.
 
-• Floating: A relaxed body floats best. Women float naturally on their backs (extra layer of fat); men float naturally face down - lift head to breathe.
+#### Floating
+A relaxed body floats best. Women float naturally on their backs (extra layer of fat); men float naturally face down - lift head to breathe.
 
-• Fresh Water: Look for small river outlets (large ones are silty/polluted). On sandy shores, dig above high-water mark near vegetation down to moist sand; scoop the fresh water floating on top of the salt water. Rock pools above high-water mark with green algae indicate fresh water. NEVER drink sea water without distilling it - it causes kidney failure. Saltwater can be used to cook, but only if you have adequate fresh water. Use salt residue to preserve meat."""
+#### Fresh Water Sourcing
+Look for small river outlets (large ones are silty/polluted). On sandy shores, dig above high-water mark near vegetation down to moist sand; scoop the fresh water floating on top of the salt water. Rock pools above high-water mark with green algae indicate fresh water.
+* **Sea Water Warning**: **NEVER drink sea water without distilling it** - it causes kidney failure. Saltwater can be used to cook, but only if you have adequate fresh water. Use salt residue to preserve meat."""
                 ]
             }
         ]
