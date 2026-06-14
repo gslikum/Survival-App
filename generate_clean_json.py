@@ -883,7 +883,7 @@ Look for small river outlets (large ones are silty/polluted). On sandy shores, d
             {
                 "title": "Foraging Edible Plants",
                 "subtitle": "Positive plant identification and the Universal Edibility Test.",
-                "imageName": "food.jpg",
+                "imageName": "food_foraging.png",
                 "textSections": [
                     """### Food & Food Values
 
@@ -938,7 +938,7 @@ If you are unsure of a plant's identity, you must perform the **Universal Edibil
             {
                 "title": "Making Traps and Snares",
                 "subtitle": "Constructing primitive traps to capture small game.",
-                "imageName": "food.jpg",
+                "imageName": "food_trapping.png",
                 "textSections": [
                     """### Finding Game
 
@@ -976,7 +976,7 @@ The human body uses its own stored vitamins and minerals to digest the lean prot
             {
                 "title": "Hunting and Fishing",
                 "subtitle": "Wild stalking tactics, building fish traps, and preserving meat.",
-                "imageName": "food.jpg",
+                "imageName": "food_hunting.png",
                 "textSections": [
                     """### Stalking & Improvised Weapons
 
