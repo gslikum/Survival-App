@@ -885,9 +885,54 @@ Look for small river outlets (large ones are silty/polluted). On sandy shores, d
                 "subtitle": "Positive plant identification and the Universal Edibility Test.",
                 "imageName": "food.jpg",
                 "textSections": [
-                    "Foraging provides essential nutrients, but positive plant identification is critical. Many edible plants have toxic lookalikes that can cause severe poisoning. If you are unsure of a plant's identity, you must perform the Universal Edibility Test:\n1. Separate the plant into its component parts (leaves, stems, roots, flowers, buds).\n2. Test only one part at a time. Do not eat any food for 8 hours prior to the test.\n3. Rub the plant part on your inner wrist or elbow. If no rash, itching, or burning occurs after 15 minutes, proceed to the next step.",
-                    "4. Boil or prepare a small portion of the plant part.\n5. Touch a small piece to your outer lip for 3 minutes. If no burning or tingling occurs, place it on your tongue for 15 minutes without swallowing. If no reaction, chew it for 15 minutes, but do not swallow. If still safe, swallow the small portion.\n6. Wait 8 hours. If you experience stomach pain, vomiting, or diarrhea, drink plenty of water and do not eat the plant. If no reaction, eat a larger portion and wait another 8 hours. If still safe, the plant part is edible.",
-                    "Avoid plants with white or milky sap, red berries (unless positively identified), umbrella-shaped flower clusters (hemlock family), or a soapy, bitter taste. Focus on common, highly recognizable plants: Dandelions (all parts are edible; leaves can be eaten raw, roots roasted for coffee), Stinging Nettles (must be boiled for 5 minutes to neutralize stinging hairs; rich in iron and vitamins), and Pine Needles (steeped in hot water to make tea high in Vitamin C)."
+                    """### Food & Food Values
+
+To survive, you need to understand your body's nutritional needs and how to meet them. In most circumstances, **plants** will be the most readily available food source, but you must know which ones are safe. A healthy body can survive for a time on stored reserves, but a lack of food makes it increasingly difficult to keep warm, recover from injuries, and fight off disease.
+
+#### Energy Needs
+The average person in a completely restful state requires **70 calories per hour** just to maintain basic metabolism (involuntary functions like breathing and blood circulation). Simple domestic activities demand another **45 calories per hour**. In a survival situation, physical effort, mental effort, and anxiety can burn up an additional **3,500 calories daily**. Keep calm, relax, and if food is scarce, **DO NOT SQUANDER ENERGY**.
+
+*   **Carbohydrates** (*1g produces 4 calories*): The bulk of the diet and main source of energy. Found as sugars (fruit, honey, syrup) and starches (roots, cereals). Starch granules are insoluble in cold water, but heat causes them to rupture - this is why roots and tubers must be cooked.
+*   **Fats** (*1g produces 9 calories*): A concentrated source of energy, providing twice as many calories as carbohydrates. They require a lengthy digestive process which demands an adequate intake of **water**.
+*   **Proteins** (*1g produces 4 calories*): Essential for the growth and repair of the body, made of amino acids. Worms contain the highest amount of proteins, containing the eight essential amino acids humans require. Do not squeeze them; isolate them in a container so they dehydrate and preserve their properties.
+
+#### Vitamins & Minerals
+*   **Vitamins**: Essential to health and protection from illness. The body naturally carries a **28-day supply** of vitamins. **Vitamin C** is the first that will need to be replenished (herbs are rich in it). **Vitamin A** is the second to go; it aids vision and prevents eye disease. Eat the green shoots and leaves that you see rabbits eating.
+*   **Minerals**: Calcium is needed for bones and teeth, while sodium, potassium, and magnesium regulate vital body functions.
+*   **Trace Elements**: Tiny amounts of elements like iron, fluorine, and iodine are also required to keep the body running.""",
+                    """### The Universal Edibility Test
+
+If you are unsure of a plant's identity, you must perform the **Universal Edibility Test**. Only one person should test each plant. **NEVER take short cuts - complete the whole test.** If in any doubt, do NOT eat the plant. If stomach trouble occurs, drink plenty of hot water. Inducing vomiting with charcoal or wood ash mixed with water can relieve stomach pain.
+
+1.  **Inspect**: Ensure the plant is not slimy or worm-eaten. Older plants can change chemical content and become toxic.
+2.  **Smell**: Crush a small portion. If it smells of *bitter almonds or peaches*, **DISCARD IT IMMEDIATELY** (indicator of prussic acid).
+3.  **Skin Irritation**: Rub the juice onto a tender area (e.g., under the arm between armpit and elbow). If any rash, swelling, or discomfort occurs, **DISCARD**.
+4.  **Lips, Tongue & Mouth**: If no skin irritation, proceed in stages, waiting **5 seconds** after each:
+    *   Touch a small portion to the lips.
+    *   Place a small portion in the corner of the mouth.
+    *   Place a small portion on the tip of the tongue.
+    *   Place a small portion under the tongue.
+    *   Chew a small portion.
+    *   *If any stinging, burning, or discomfort occurs, DISCARD.*
+5.  **Swallow**: Swallow a small amount and **wait 5 hours**. Eat or drink NOTHING else during this period.
+6.  **Eating**: If no abdominal pain, nausea, sickness, or stomach griping occurs, the plant is safe.""",
+                    """### Gathering Plants & Species to Avoid
+
+#### Gathering Guidelines
+*   **Leaves & Stems**: Gather young, pale green growth; older leaves are tough and bitter. Nip off leaves near the stem to prevent damaging and wilting them.
+*   **Roots & Tubers**: Dig around the plant to loosen the soil, then pry them out with a sharpened stick to prevent breaking.
+*   **Fruit & Nuts**: Pick only ripe, fully colored fruits. Peel tough, bitter skins.
+*   **Seeds & Grains**: *Warning!* Avoid grain heads with black spurs. These indicate **ergot poisoning**, a dangerous, hallucinogenic, and sometimes fatal fungal disease. REJECT the whole head!
+
+#### Plants to Avoid
+*   **Milky Sap**: AVOID any plant with milky sap, unless positively identified (like dandelions).
+*   **Red Foliage**: AVOID red plants, unless positively identified (e.g., the red-streaked stalk of wild rhubarb is edible, but its leaf is poisonous). Hemlock has reddish-purple splotches on its stem.
+*   **Five-Segment Fruit**: AVOID fruits divided into five segments.
+*   **Barbed Stems**: AVOID grasses or leaves with microscopic hooks that can irritate the mouth and digestive tract.
+*   **Poisonous Compounds**:
+    *   *Hydrocyanic Acid* (Prussic acid): Smells like bitter almonds (found in Cherry Laurel).
+    *   *Oxalic Acid*: Causes a sharp, dry stinging sensation (found in wild rhubarb leaves and wood sorrel).
+*   **Bracken Warning**: AVOID mature bracken. It destroys Vitamin B in the body. Eat only tightly coiled young "fiddle heads." All 250 varieties of north temperate ferns are edible when young if you strip their woolly hairs."""
                 ]
             },
             {
@@ -895,9 +940,37 @@ Look for small river outlets (large ones are silty/polluted). On sandy shores, d
                 "subtitle": "Constructing primitive traps to capture small game.",
                 "imageName": "food.jpg",
                 "textSections": [
-                    "Trapping is much more energy-efficient than hunting. A simple snare consists of a loop of wire or strong cord with a running noose, placed at head-height on an active animal run or game trail. The loop should be supported by small twigs so that the animal walks through it, tightening the loop around its neck. Snare wire is ideal because it holds its shape and resists chewing.",
-                    "The Figure-4 Deadfall is a classic trigger mechanism used to drop a heavy rock or log onto small prey (like rodents or squirrels). It is constructed from three notched sticks configured in a '4' shape: a vertical support, a diagonal arm, and a horizontal bait stick. When an animal nudges the bait stick, the trigger collapses, dropping the weight.",
-                    "The Spring-Pole Snare utilizes a bent sapling under tension. When the animal triggers the snare, the loop tightens and the sapling springs upward, lifting the animal off the ground out of reach of predators. Always place traps near water sources, feeding clearings, or natural bottlenecks. Mask human scent by rubbing dirt or ash on the traps, and check them twice daily."
+                    """### Finding Game
+
+Most mammals move at **first and last light**. Larger herbivores graze during the day, while smaller mammals feed mostly at night. To trap or hunt them, you must identify the signs they leave behind.
+
+#### Tracks & Signs
+*   **Trails**: Look for runs on wet ground, mud, sand, or snow. Dew and spider webs disturbed on a trail indicate recent activity (within a few hours).
+*   **Broken Twigs**: Check height to estimate the animal's size. Trampled leaves that haven't wilted yet indicate a fresh track.
+*   **Droppings**:
+    *   *Herbivores* (deer, rabbits): Round, straw-like pellets.
+    *   *Carnivores* (foxes, wild cats): Long, tapering droppings containing fur and bones.
+    *   *Pellets*: Owls and hawks produce pellets containing indigestible fish, bird, or rodent bones.
+*   **Feeding Signs**: Deer bite off shoots leaving frayed edges, while hares leave a clean, angled bite. Gnawed shells or stripped bark also indicate animal presence. Squirrels strip bark high up, dropping pieces to the ground.
+*   **Rootings**: Turned-up soil indicates pigs or boars searching for tubers.
+*   **Burrows & Dens**: Many animals live in burrows on high ground. Rabbits' emergency exits are often hidden but can be dug out or hooked with brambles.""",
+                    """### Constructing Snares & Traps
+
+Trapping is far more energy-efficient than active hunting, allowing you to gather plants, collect water, or build shelter while your traps work for you.
+
+#### Simple & Spring Snares
+*   **Simple Snare**: A wire loop with a running noose placed at head-height on an active run. The loop should be supported by small twigs. Snare wire is ideal because it holds its shape.
+*   **Spring-Pole Snare**: Uses a bent sapling under tension. When triggered, it lifts the animal off the ground, keeping it safe from other predators.
+
+#### Deadfalls & Spear Traps
+*   **Figure-4 Deadfall**: A classic trigger mechanism configured in a "4" shape using three notched sticks: a vertical support, a diagonal arm, and a horizontal bait stick. It drops a heavy rock or log on small prey like rodents or squirrels.
+*   **Spear Traps**: Heavy spring-activated spears designed for larger game trails. *Use with extreme caution!*""",
+                    """### WARNING: Rabbit Starvation
+
+Rabbits can provide the easiest of meals, but their meat is extremely lean and lacks essential fat and vitamins. **A diet of pure rabbit meat can lead to death.**
+The human body uses its own stored vitamins and minerals to digest the lean protein of rabbit meat, passing them out of the body. Without fats and carbohydrates, you will experience severe weakness, diarrhea, and eventually starvation.
+*   *Stewardship*: Always supplement meat diets with wild plants, roots, or fats from other animals (fish, beaver tails, nuts) to maintain a balanced metabolism.
+*   *Disease*: Myxomatosis causes swelling on rabbits' heads, making them blind and sluggish. The disease does not harm humans, but cooked flesh must be handled cleanly. Look out for white spots in the liver which indicate infection or Tularemia."""
                 ]
             },
             {
@@ -905,9 +978,46 @@ Look for small river outlets (large ones are silty/polluted). On sandy shores, d
                 "subtitle": "Wild stalking tactics, building fish traps, and preserving meat.",
                 "imageName": "food.jpg",
                 "textSections": [
-                    "Hunting game requires stealth, patience, and wind management. Walk slowly, step quietly, and always move into the wind so animals cannot smell your approach. Focus on vital target areas (heart and lungs) to ensure a clean, humane kill using simple weapons like spears or a bow.",
-                    "Fishing is a highly reliable source of protein. You can catch fish using hooks, lines, hand-nets, or by constructing a fish weir. A weir is a V-shaped wall of stones built across a stream that funnels swimming fish into a shallow pool where they can be easily speared.",
-                    "Clean fish and game immediately. Remove all internal organs, scale or skin the carcass, and cook the meat thoroughly to kill any parasites. Preserve excess meat by cutting it into thin strips and drying it in the sun, or smoking it over a green-wood fire to make jerky."
+                    """### Stalking & Improvised Weapons
+
+Active hunting requires stealth, patience, and absolute scent control. Always **move into the wind** so animals cannot detect your scent. Walk slowly, step quietly, and freeze if the animal looks in your direction.
+
+#### Improvised Weapons
+*   **Spear**: A straight sapling with a fire-hardened point or a lashed knife blade.
+*   **Bow and Arrows**: Improvised from green ash or yew, using split saplings for arrow shafts and feathers for fletching.
+*   **Catapult (Slingshot)**: Highly effective for taking small game, birds, and squirrels at close range.
+
+---
+
+### Mammalian Game Guide
+
+*   **Wild Cats**: Secretive and nocturnal. Avoid large cats. Small wildcat meat tastes like rabbit.
+*   **Wild Dogs & Canines**: Highly curious; moving on all fours or kissing the back of your hand can draw them closer. Remove anal scent glands before cooking.
+*   **Bears**: Solitary and highly dangerous. Wounded bears will attack. **NEVER eat Polar Bear liver**; it contains lethal concentrations of Vitamin A.
+*   **Wild Pigs & Boars**: Dangerous when cornered; their tusks can sever the femoral artery. Wallow sites and rooting areas are excellent spots for traps. Cook pork thoroughly to avoid trichinosis.
+*   **Rabbits & Hares**: Look for runs. Young rabbits can sometimes be picked up by hand.
+*   **Beavers**: Found near dams. Highly nutritious, especially the fat-rich tail.
+*   **Squirrels**: Set small wire loop snares along a pole leaned against the tree trunk.
+
+---
+
+### Reptiles, Amphibians & Birds
+
+*   **Crocodiles & Alligators**: Avoid large ones. Small specimens under 1.3m (4.5ft) can be caught by baiting a line with a stick. Tail meat is white and extremely tasty. Kill with a sharp blow between the eyes.
+*   **Lizards**: All lizards are edible. Catch small ones by the tail or trap them in pits.
+*   **Turtles & Tortoises**: Turn them on their backs with a stick to make them defenceless. Cut through the belly shell, discard the head/neck (which can contain poison glands), and boil the meat.
+*   **Frogs & Toads**: Remove frog skins before cooking to avoid surface toxins. **AVOID toads**; their warty skins secrete highly dangerous toxins.
+*   **Snakes**: A snake is a steak! Use a forked stick to pin the head down, then crush it. **AVOID venomous snakes** unless fully equipped. Never touch the head even after death.
+*   **Birds & Eggs**: All birds are edible. Game birds (grouse, pheasant) are delicious. Sea birds can be oily but are good sources of fat. Eggs are safe and nutritious at any stage of embryo development.
+
+---
+
+### Fishing Techniques
+
+*   **Angling**: Use improvised hooks made of bone, wood, or thorns, and lines of braided plant fiber or inner bark.
+*   **Fish Weir**: A V-shaped stone wall built across a stream that funnels fish into a shallow pool where they can be easily speared or netted.
+*   **Fish Narcotics**: Certain plants (like crushed buckeye, lime, or specific narcotics) stun fish when thrown into calm pools, causing them to float to the surface.
+*   **Preparing Fish**: Clean fish immediately, remove guts and gills, and cook thoroughly to kill any parasites."""
                 ]
             }
         ]
