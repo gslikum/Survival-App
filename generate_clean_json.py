@@ -1265,33 +1265,165 @@ Knots must be practiced until you can tie them in the dark with cold, numb hands
         "description": "Off-grid navigation, predicting weather fronts, and signaling search and rescue.",
         "articles": [
             {
-                "title": "Natural Compass Methods",
-                "subtitle": "Finding direction using the sun, shadow sticks, and stars.",
+                "title": "Understanding Maps",
+                "subtitle": "Reading contours, scale, grids, and local magnetic variation.",
                 "imageName": "navigation.jpg",
                 "textSections": [
-                    "If you lack a compass, you can find direction using the sun. The shadow stick method is highly accurate:\n1. Push a straight stick vertically into flat ground.\n2. Mark the tip of the shadow with a stone (this point is West).\n3. Wait 15-20 minutes, and mark the new shadow tip with another stone (this point is East).\n4. Draw a straight line between the two stones to establish your East-West line.",
-                    "At night in the Northern Hemisphere, locate the Big Dipper (Ursa Major). Follow the two pointer stars at the edge of the dipper's bowl straight out about five times their distance to find Polaris, the North Star. Polaris indicates true North.",
-                    "In the Southern Hemisphere, find the Southern Cross constellation. Draw an imaginary line down the long axis of the cross, and combine it with a line bisecting the two nearby pointer stars. The intersection point indicates South."
+                    """### Maps & Terrain Interpretation
+
+Before embarking on any expedition you will have learned all you can about the terrain, equipped yourself with maps, if available, and worked out routes. Memorize the lie of the land, the direction in which rivers flow, the high ground, the prominent features, the prevailing winds, the weather patterns to expect and any known hazards, check the phase of the moon and times of first and last light - all of which will be invaluable knowledge if you find yourself in difficulties. In a case of accident you may find yourself in a totally unknown territory and have to find out everything about your location from the land itself.
+
+In choosing a camp site, tracing water and finding the other necessities for survival you will need to interpret the surrounding countryside - the other side of a hill may offer quite different conditions - and if you decide not to stay put you will have to interpret both the general geography and the particular landscape as you proceed.
+
+#### Contours & Height
+Height cannot be reproduced on flat sheets of paper so altitudes are recorded at regular intervals (usually every 50ft or every 15m) and every point at this height is joined up by a line - the **contour line**.
+*   **Steepness**: When the contours are closely grouped, the change in height is more rapid (steep). Greater spaces between the contour lines indicate gentler slopes.
+*   **Concave vs Convex**: A *concave slope* (where you can see the top from the bottom) has the higher contours close together. A *convex slope* (where you cannot see the top from the bottom) has the low contours close together.""",
+                    """### Map Scales, Keys & Coordinates
+
+*   **Scale**: Ratio scales represent relative sizes: 1:50,000 means that every measure on the map represents a distance 50,000 times greater on the ground.
+*   **Standardizations**: Rivers and paths are standardized. British Ordnance Survey (OS) maps show waterways as a single blue line until they represent a width of 8m (27ft) where a double line is used.
+*   **Grids**: Grid coordinates allow you to pinpoint locations. Mentally divide a grid square into tenths to form a six-digit map reference (e.g., `155628`).
+*   **Compass Variation**: Compass needles point to *magnetic north*, not *true north*. The deviation varies by location and year. Point your compass at the North Star to determine the local variation offset, and adjust your bearings accordingly.
+*   **Drawing Your Own Maps**: If stranded, climb a tree or high ridge and draw a custom map. Plot ridges, streams, landmarks, traps, animal dens, and food foraging zones.
+
+> [!TIP]
+> **Overestimation Trap**: One of the most common errors is to overestimate how much ground you have covered. Always fit the physical ground you see to the map, rather than forcing the map to fit where you think you are."""
                 ]
             },
             {
-                "title": "Weather Prediction",
-                "subtitle": "Reading clouds, wind changes, and animal behavior.",
+                "title": "Sun & Shadow Navigation",
+                "subtitle": "Finding direction using shadow stick methods and wristwatches.",
                 "imageName": "navigation.jpg",
                 "textSections": [
-                    "Reading the sky helps you prepare for storms before they strike. High, wispy cirrus clouds ('mare's tails') indicate an approaching warm front and rain within 24 hours. Dark, towering cumulonimbus clouds mean an imminent thunderstorm.",
-                    "Observe animal behavior: birds flying low indicate low barometric pressure and oncoming wet weather. Insects bite more frequently before rain storms, and campfires burn with more smoke as pressure drops.",
-                    "Remember the classic proverb: 'Red sky at night, shepherd's delight; red sky in the morning, shepherd's warning.' A red sunset indicates clear air to the West, while a red sunrise indicates wet weather is moving in from the East."
+                    """### Shadow Stick Methods
+
+The sun rises in the east and sets in the west (approximately). Shadows move clockwise in the Northern Hemisphere and anti-clockwise in the Southern Hemisphere, offering direct orientation.
+
+#### Shadow Stick Method 1
+1.  On flat, clear ground, place a 1m (3ft) stick upright in the soil.
+2.  Mark the tip of the shadow with a pebble or peg (this point is **West**).
+3.  Wait at least 15 minutes, and mark the new shadow tip with a second peg (this point is **East**).
+4.  Draw a straight line connecting the two marks. This is your East-West line. North-South runs perpendicular.
+
+#### Shadow Stick Method 2 (High Accuracy)
+1.  Mark the first shadow tip in the morning.
+2.  Draw a clean, exact circle arc from the stick base, using the shadow length as the radius.
+3.  As midday passes, the shadow shrinks and moves. In the afternoon when it expands back and touches the arc line, mark the exact contact point.
+4.  Join the morning mark (West) and afternoon mark (East) to establish your line.""",
+                    """### Direction by Watch
+
+A traditional watch with hour and minute hands can be used to find direction. Set it to *true local time* (excluding daylight saving shifts). Note: This is inaccurate near the Equator where the sun is directly overhead.
+
+*   **Northern Hemisphere**: Hold the watch horizontal. Point the hour hand directly at the sun. Bisect (split in half) the angle between the hour hand and the 12 o'clock mark. This line points due **South**.
+*   **Southern Hemisphere**: Hold the watch horizontal. Point the 12 o'clock mark towards the sun. The midpoint between 12 and the hour hand points due **North**."""
                 ]
             },
             {
-                "title": "Signaling for Help",
-                "subtitle": "Distress signals, mirror heliographs, and ground codes.",
+                "title": "Improvised Compasses",
+                "subtitle": "Magnetizing needles, floating compasses, and electrical charges.",
                 "imageName": "navigation.jpg",
                 "textSections": [
-                    "Prepare your signaling methods as soon as your camp is established. The international emergency signal is three of anything (three whistles, three fires in a triangle, three mirror flashes). A triangle of fires is easily recognized from the air.",
-                    "A signaling mirror (heliograph) is one of the most effective long-range signaling tools. Aim the mirror by looking through the center hole at your target (an aircraft or ship) and adjusting the mirror until the bright reflection spot aligns with the target.",
-                    "Prepare ground-to-air signals in an open clearing. Use rocks, logs, or dug trenches to form letters at least 10 feet tall: V (Require Assistance), X (Require Medical Assistance), Y (Yes/Affirmative), N (No/Negative)."
+                    """### Magnetizing a Needle
+
+A piece of ferrous metal wire (a sewing needle is ideal) can be magnetized to create an emergency compass.
+*   **Stroking Method**: Stroke the needle repeatedly **in one direction only** against a piece of silk, or smoothly from end to end using a magnet. Do not rub back and forth.
+*   **Suspension**: Suspend the magnetized needle from a loop of thread, avoiding any kinks or twists in the thread.
+
+#### Floating Needle Compass
+A suspended needle can be difficult to read on the move. Instead, place the magnetized needle on a small piece of dry leaf, paper, or bark, and float it in a still pool or container of water. It will align itself along the North-South axis.""",
+                    """### Electrical Magnetization
+
+If you have a power source of 2 volts or more (like a dry battery tin):
+1.  Wrap insulated wire around the needle. If using bare wire, wrap a few layers of paper or cardboard around the needle first to insulate it.
+2.  Attach the ends of the wire to the battery terminals for five minutes. The electrical current will magnetize the steel.
+
+#### Razor Blade Compass
+A thin, flat double-edged razor blade is made of two bonded metals. You can magnetize it simply by stropping it carefully against the palm of your hand. Suspend the blade from a thread to find the North-South orientation."""
+                ]
+            },
+            {
+                "title": "Nature's Pointers",
+                "subtitle": "Reading vegetation growth, tree rings, moss, wind patterns, and the moon.",
+                "imageName": "navigation.jpg",
+                "textSections": [
+                    """### Plant & Tree Pointers
+
+Plants grow towards the sun. In the Northern Hemisphere, their flowers and most abundant growth face **South** (and **North** in the Southern Hemisphere).
+
+*   **Moss growth**: On tree trunks, moss grows greener and more profuse on the side away from the sun (North in the Northern Hemisphere; South in the Southern Hemisphere). The sunny side will look yellowish to brown.
+*   **Tree Rings**: Felled stumps show rings spaced wider on the side facing the Equator, where sunlight is abundant and growth is faster. Rings are tighter on the colder side.
+*   **Grainy Bark**: Trees with grainy bark display a tighter grain pattern on the cold, north side.
+*   **Compass Plants**:
+    *   *North Pole Plant* (South Africa): Leans towards the north to maximize sun.
+    *   *Compass Plant* (North America): Aligns its leaves directly North-South, showing a distinct profile from East/West.
+
+### Wind & Animal Clues
+Prevailing winds shape the landscape. Trees on exposed ridges are bent in one direction. Spiders build webs on the leeward (sheltered) side of structures. Sand and snow dunes feature gentle slopes facing the wind and steep drop-offs on the lee side.""",
+                    """### Navigation by the Moon
+
+The moon reflects the sun's light. As it orbits the earth, the lit side indicates direction.
+*   **Waxing Moon** (growing towards full): Reflects light on the right (West).
+*   **Waning Moon** (shrinking towards new): Reflects light on the left (East).
+*   **Moonrise Rule**:
+    *   If the moon rises *before* the sun sets, the illuminated side points **West**.
+    *   If the moon rises *after* midnight, the illuminated side points **East**."""
+                ]
+            },
+            {
+                "title": "Navigating by the Stars",
+                "subtitle": "Locating Polaris in the North and the Southern Cross in the South.",
+                "imageName": "navigation.jpg",
+                "textSections": [
+                    """### The Northern Sky & Polaris
+
+Stars rise in the east and set in the west. In the Northern Hemisphere, they circle a single stationary star—**Polaris (the Pole Star)**—which is located directly above true North.
+
+#### Finding the Pole Star
+1.  **The Plough (Big Dipper / Ursa Major)**: Locate the seven-star dipper shape. The two stars forming the outer edge of the bowl (Dubhe and Merak) are the **Pointers**. Draw a line from Merak through Dubhe and project it out five times the distance between them. This line lands on Polaris.
+2.  **Cassiopeia**: A W-shaped constellation on the opposite side of Polaris from the Plough. The center star of the W points almost directly towards Polaris.
+3.  **Orion**: Rises on its side due East and sets due West along the celestial Equator, visible in both hemispheres. Orion's belt (three aligned stars) points East-West.""",
+                    """### The Southern Sky & The Southern Cross
+
+The Southern Hemisphere lacks a bright star at the celestial pole. Instead, navigation relies on the **Southern Cross (Crux)** constellation.
+
+#### Finding the South celestial pole
+1.  Locate the Southern Cross (five stars, smaller than similar false crosses) situated near the **Coal Sack** (a dark patch in the Milky Way).
+2.  Locate the two bright **Pointer Stars** next to the cross.
+3.  Project an imaginary line along the long axis of the cross.
+4.  Bisect the line between the two pointer stars and project it out perpendicular.
+5.  The point where these two lines intersect is the South celestial pole. Drop a vertical line straight down to the horizon from this point to establish **South**."""
+                ]
+            },
+            {
+                "title": "Weather Prediction & Clouds",
+                "subtitle": "Reading 10 cloud formations, animal forecasts, and atmospheric indicators.",
+                "imageName": "navigation.jpg",
+                "textSections": [
+                    """### Cloud Formations & Weather Signs
+
+Clouds are the most reliable short-term weather indicators. The higher the clouds, the finer the weather.
+1.  **Cirrus** (*High, 6000m+*): Wispy "mares' tails" of ice crystals. Fine weather, but changes if they thicken.
+2.  **Cirrostratus** (*High*): A thin white veil that creates a halo around the sun/moon. A shrinking ring indicates rain; an expanding ring indicates fine weather.
+3.  **Cirrocumulus** (*High*): Small rippled "mackerel sky". Fair weather.
+4.  **Altocumulus** (*Medium, 2000-6000m*): Fluffy, greyish masses with shadows. Appears after storms.
+5.  **Altostratus** (*Medium*): A grey veil turning the sun to a watery disk. Thickening indicates rain.
+6.  **Nimbostratus** (*Low, under 2000m*): Thick, dark rain clouds bringing hours of continuous rain/snow.
+7.  **Stratocumulus** (*Low*): Lumpy, rolling grey clouds. May cause drizzle but clears at night.
+8.  **Stratus** (*Low*): Uniform sheet of hill fog. Can cause drizzle, but if formed overnight, indicates a fine day.
+9.  **Cumulus** (*Low*): Fluffy white cauliflower clouds. Indicates fair weather when separated, but can grow to cause showers.
+10. **Cumulonimbus** (*Low to High*): Angry, towering thunderclouds with flat "anvil" tops. Brings lightning, thunder, wind, and hail.""",
+                    """### Wildlife & Atmospheric Clues
+
+*   **Animal Indicators**: Animals are sensitive to barometric changes. Birds fly high in fine weather and low before storms. Squirrels stockpile extra food and rabbits feed actively during the day before cold fronts.
+*   **Fireside Clues**: If campfire smoke rises straight up, the weather is stable. If it swirls and is beaten down, a storm is coming.
+*   **Humidity Indicators**: Salt clumping indicates rising humidity. Wooden handles swell, and curly hair or animal fur becomes tighter and less manageable.
+*   **Sound & Smell**: Distant sounds are clearer before rain (moist air amplifies sound). Vegetation opens up, causing forest smells to be highly distinctive before rain.
+*   **Sunset/Sunrise rules**:
+    *   *Red sky at night*: Atmosphere is dry, indicating fine weather.
+    *   *Red sky in the morning*: Approaching storm.
+    *   *Grey morning*: Dry day (dew has collected on dust).
+    *   *Grey sunset*: Approaching rain."""
                 ]
             }
         ]
