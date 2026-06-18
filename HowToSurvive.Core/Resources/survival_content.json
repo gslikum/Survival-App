@@ -1107,7 +1107,7 @@
             {
                 "title": "Ground-to-Air Panel Codes",
                 "subtitle": "International emergency markings and visual codes.",
-                "imageName": "rescue.jpg",
+                "imageName": "rescue_ground_signals.png",
                 "textSections": [
                     "These symbols are internationally recognized emergency signals. Remember the main ones with the mnemonic **FILL** (Food, Injury, Illness, Location). The single bar 'I' is the most important.",
                     "### VISUAL PANEL CODE KEY\n\n*   `I` : Serious injury - immediate casualty evacuation needed (NEED DOCTOR)\n*   `II` : Need medical supplies\n*   `F` : Need food and water\n*   `N` : Negative (No)\n*   `Y` or `A` : Affirmative (Yes / All well)\n*   `L` : All is well\n*   `X` : Unable to move on\n*   `K` : Indicate direction to proceed\n*   `->` : Am moving in this direction\n*   `JL` : Do not understand\n*   `[]` : Need compass and map\n*   `Triangle` : Think safe to land here\n*   `LL` : Aircraft badly damaged",
@@ -1119,7 +1119,7 @@
             {
                 "title": "Heliograph and Light Signals",
                 "subtitle": "Directing mirror flashes and transmitter procedures.",
-                "imageName": "rescue.jpg",
+                "imageName": "rescue_body_signals.png",
                 "textSections": [
                     "### HELIOGRAPH SIGNALING\n\nUse the sun and a reflector to flash light signals. Tin lids, glass, foil, or mirrors can be used. Long flashes represent dashes, quick ones represent dots. Sweep the horizon. If a plane approaches closely, flash intermittently to avoid dazzling the pilot. Once seen, STOP signaling.",
                     "### SIGHTING METHODS\n\n*   **Double-sided Reflector**: Sight the target through the central hole. Angle the mirror so the dot of light on your face disappears back through the hole, aligning it with the target.\n*   **Single-sided Reflector**: Cast the sun reflection onto a nearby surface (the ground or a hand) and line it up with the target.",
@@ -1201,7 +1201,7 @@
             {
                 "title": "Modern Threats & Terrorism",
                 "subtitle": "Explosions, suspicious packages, and active shooters.",
-                "imageName": "urban.jpg",
+                "imageName": "urban_run_hide_fight.png",
                 "textSections": [
                     "Modern urban environments face threats from terrorism and active violence. Knowing how to react in the first few seconds of a crisis can determine your survival.",
                     "### EXPLOSION PROTOCOLS\n\nIf an explosion occurs nearby:\n1. Drop to the ground immediately, face down, and cover your head with your arms.\n2. Keep your mouth slightly open to equalize pressure and protect your eardrums.\n3. Shelter under sturdy desks or interior walls away from falling glass.\n4. Evacuate immediately once the primary blast ends; watch for secondary devices and structural collapses.",
@@ -1222,7 +1222,7 @@
             {
                 "title": "Urban Everyday Carry (EDC)",
                 "subtitle": "Assembling a specialized urban pocket kit.",
-                "imageName": "urban.jpg",
+                "imageName": "urban_edc_kit.png",
                 "textSections": [
                     "Just as you carry a pocket survival kit in the wilderness, you should carry an everyday carry (EDC) kit adapted for the concrete jungle. Keep these items on your person or in a compact bag at all times.",
                     "### EDC ESSENTIALS\n\n*   **Compact Flashlight**: A bright, metal-bodied LED torch for navigating blacked-out buildings, signaling, or self-defense.\n*   **Multi-tool**: Compact pliers, screwdrivers, and cutting blades for basic mechanical tasks or escape operations.\n*   **Door Wedge**: A simple rubber door wedge can be used to lock yourself in a room or secure a door from the inside during a threat.\n*   **Cash Reserve**: Keep emergency cash in small denominations hidden on your person, in case card networks or ATMs fail during grid collapses.\n*   **Emergency Contact Card**: A laminated card containing phone numbers, medical history, and pre-arranged emergency family meeting points."
