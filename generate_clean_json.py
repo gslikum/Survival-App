@@ -1700,6 +1700,187 @@ Clouds are the most reliable short-term weather indicators. The higher the cloud
                 ]
             }
         ]
+    },
+    {
+        "title": "Survival at Sea",
+        "description": "Abandoning ship procedures, dinghy management, sea survival hydrology, ocean foraging, and shark defense.",
+        "articles": [
+            {
+                "title": "Abandoning Ship",
+                "subtitle": "Drills, clothing choices, and emergency entry.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "Conditions of survival at sea are perhaps worse than those of any other environment and make the sternest demands. Planes and boats carry survival equipment, but even getting into a dinghy in a heavy sea can be difficult. A survival situation at sea in warmer climates is preferable to cold-water survival, where hypothermia sets in rapidly. If you do find yourself going into cold water, take as much survival kit as you can, and get out of the water as soon as possible.",
+                    "### LIFEBOAT DRILL\n\nLifeboat drill is carried out on every ship soon after it sails and should become a well-rehearsed procedure. Passengers are instructed in how to fit lifejackets, how to proceed to their lifeboat stations, and what to take with them. If the signal is given to abandon ship, put on warm, preferably woollen, clothing (including a hat and gloves) and wrap a towel around your neck. Clothes will not drag you under and they help ward off exposure.",
+                    "> [!IMPORTANT]\n> Don't inflate your lifejacket until you leave the ship or plane. On small boats, lifejackets should be worn at all times. They are brightly coloured and usually equipped with a whistle, light, marker dye, and shark repellent for warmer waters.",
+                    "Do NOT push or shout; an orderly embarkation into lifeboats and onto rafts or dinghies is faster and prevents panic. If you have to jump overboard, first throw something that floats and jump close to it.",
+                    "Without a lifejacket or lifebelt, air trapped in clothing will help buoyancy - a good reason for keeping your clothes on despite advice to strip them off. The human body is of lower density than saltwater; relaxing in the water prevents drowning."
+                ]
+            },
+            {
+                "title": "Man Overboard and Swimming",
+                "subtitle": "Attracting attention, navigating oil slicks, and breathing techniques.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "If you have been swept overboard, your first aim, apart from keeping afloat, will be to attract attention. Sound travels well over water - shouting and splashing can be effective. Wave with one arm above the water (not both, or you will go under) to make yourself noticed. Use your whistle and light if equipped.",
+                    "### SWIMMING SAFEGUARDS\n\n*   Swim slowly and steadily. If abandoning a sinking boat or aircraft, get upwind and stay clear of it. Keep away from any oil or fuel slick.\n*   **Fire**: If you have to enter the water through flames, jump in feet-first and upwind. Swim into the wind using a breaststroke. Try to make breathing holes by splashing the flames away from your head. If the fire is small, swim underwater until clear.\n*   **Explosion**: If there is danger of an underwater explosion, swim on your back to reduce the risk of internal injury.",
+                    "### RELAXED FLOTATION TECHNIQUE\n\nIf the sea is too rough to float on your back, or you need to conserve energy without a lifejacket:\n\n1. Float upright in the water and take a deep breath.\n2. Lower your face into the water (keeping your mouth closed) and bring your arms forward to rest at water level.\n3. Relax in this position until you need to take in more air.\n4. Raise your head above the surface, treading water, and exhale. Take another breath and return to the relaxed position.",
+                    "### IMPROVISED FLOTATION\n\nYou can improvise a short-term flotation bag from a pair of trousers. Knot the bottoms of the legs, sweep them over the head to fill with air, then hold the waist below the water to trap the air inside, making the legs into water wings to lean on."
+                ]
+            },
+            {
+                "title": "Inflatable Dinghies",
+                "subtitle": "Inflation, boarding, righting, and leak repair.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "Aircraft and many boats carry dinghy-type lifeboats. Many are self-inflating and activated by saltwater immersion; others have a pump provided. They are built in sections so that if one compartment is punctured, the others keep the dinghy afloat.",
+                    "### BOARDING & HAULING\n\nGet aboard as soon as possible. Move to the end (not the side) of the dinghy, place one leg over the edge, and roll in. Do NOT jump into a dinghy from above, as you may damage it.\n\nTo haul someone else aboard, hold their shoulders and lift one leg over the end, then roll them in. Discourage them from putting their arms around your neck. Once aboard, tie yourself and others to the dinghy.",
+                    "### RIGHTING A DINGHY\n\nMost dinghies have righting straps on the bottom, and larger ones have a righting line attached to one side. Grab it from the opposite side, brace your feet against the dinghy and pull. The dinghy should rise up and over, pulling you out of the water momentarily. In heavy seas or high winds, this is extremely difficult.",
+                    "### DINGHY MAINTENANCE\n\n*   Ensure the dinghy is fully inflated (firm but not rock-hard). Re-inflate with your breath or a pump if needed. The valves are one-way.\n*   Check for leaks. Escaping air causes bubbles underwater and a hissing sound above. Deal with leaks using the conical plugs in the dinghy kit; screw them into the holes to seal. Use rubber patches and adhesive for other punctures. Make daily checks."
+                ]
+            },
+            {
+                "title": "Survival Afloat",
+                "subtitle": "Triage order, sea anchors, logs, and watches.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "Rafts and boats are built to carry a limited number of survivors. Safety of the majority must be the priority. Place the infirm, youngsters, and injured in the craft first, followed by as many able-bodied as accommodated. The rest must hang on in the water, rotating on a regular change-over rota. Stow all gear and tie it securely. Ensure sharp objects are covered.",
+                    "### SEA ANCHORS\n\nIf a distress call has gone out, maintain your location by streaming a sea anchor. This keeps the boat pointing into the weather and slows down drift. Improvise a sea anchor from a canvas bag or a weighted object (like clothing tied to a paddle).",
+                    "### LOGKEEPING\n\nEven if alone, keep a daily log to occupy the mind and stay oriented. Record names of survivors, date, time, position of accident, weather conditions, equipment salvaged, and daily sightings.",
+                    "### CLIMATE PROTECTION\n\n*   **Cold Climates**: Get out of the water. Keep the craft dry by bailing. Squeeze out wet clothes and put them back on if dry ones aren't available. Wrap in canvas/parachutes and huddle. Do mild stretching to prevent muscle stiffness.\n*   **Hot Climates**: Keep the body covered. Protect head and neck. Improvise eye shields. Dampen clothes with sea water to cool, but ensure you dry out by evening. Release some air from the dinghy during the heat (air expands) and reinflate when it cools.",
+                    "### WATCHES\n\nAssign watches so there is a lookout at all times, including at night. Keep watch shifts short to avoid exhaustion. Look out for shipping, aircraft, signs of land, seaweed, shoals of fish, birds, and inspect the raft for chafing."
+                ]
+            },
+            {
+                "title": "Ocean Travel and Land Signs",
+                "subtitle": "Currents, sails, and interpreting natural indicators.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "If a distress signal has been sent, or you are in shipping lanes, stay in the vicinity for 72 hours. Otherwise, get underway to utilize initial energy. In the open ocean, currents seldom exceed 9-13km (6-8 miles) per day. Take in the sea anchor and sail with the wind. Rudder control can be achieved using a paddle.",
+                    "### USING THE WIND\n\nImprovise a sail if you do not have one. Do NOT secure the lower edges; hold the lower lines by hand so you can release them immediately if a sudden gust hits, preventing a capsize. In rough water, stream the sea anchor from the bow to keep the nose into the wind and stay low.",
+                    "### LAND INDICATORS\n\nWhen no land is in sight, watch for these signs:\n*   **Clouds**: Cumulus clouds in an otherwise clear sky often form over land. In the tropics, a greenish tint on the underside of clouds (lagoon glare) reflects shallow reef waters.\n*   **Birds**: Most seabirds do not fly more than 100 miles from land. They fly outwards before noon and return in late afternoon. Continuous bird cries indicate nearby land.\n*   **Driftwood**: Coconuts, driftwood, and drifting vegetation indicate land, though currents can carry them far.\n*   **Sea Swells**: Swell height decreases if protected by land. If the wind is constant but waves decrease, land lies to windward.\n*   **Sea Colour**: Muddy water containing silt indicates the mouth of a large river."
+                ]
+            },
+            {
+                "title": "Water and Hydration",
+                "subtitle": "Rationing schedules, dew collection, and strict prohibitions.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "Although a minimum of 1 litre (1 3/4 pt) a day is necessary to keep fit, you can survive on 55-220cc (2-8oz). Ration water immediately. Keep the ration strict until rescue. Reduce sweating by staying in the shade and dampening skin with sea water (if safe). Take anti-seasickness pills immediately to prevent fluid loss from vomiting.",
+                    "> [!IMPORTANT]\n> If you are low on water, do NOT eat, especially protein foods (fish and seaweed) which require water to digest. Carbohydrates require less water.",
+                    "### WATER RATIONING PROTOCOL\n\n*   **Day 1**: NO WATER. The body has a natural reservoir.\n*   **Days 2-4**: 400cc (14fl oz) daily if available.\n*   **Day 5 onwards**: 55-225cc (2-8fl oz) daily, depending on climate.\n*   *Drinking Method*: Moisten the lips, tongue, and throat before swallowing.",
+                    "### GATHERING WATER\n\n*   **Rain**: Rig catchment sheets from canvas or plastic. When it rains, drink your fill slowly (gulping will cause vomiting). Stow excess. Puddles in the boat may be salty.\n*   **Dew**: Rig canvas at night with edges folded to catch condensation.\n*   **Sea Ice**: Use only old sea ice (blue-grey with rounded contours). New sea ice is salty. Old ice loses its salt after a year and can be melted or sucked.\n*   **Fish Fluids**: Drink the aqueous fluid along the spine and in the eyes of large fish. Do NOT drink other body fluids (high in protein/fat).",
+                    "> [!WARNING]\n> *   DO NOT drink sea water (increases dehydration rapidly).\n*   DO NOT drink urine.\n*   DO NOT drink alcohol.\n*   DO NOT smoke.\n*   DO NOT eat unless water is available."
+                ]
+            },
+            {
+                "title": "Ocean Food Foraging",
+                "subtitle": "Fishing methods, netting, and catching sea birds.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "Conserve emergency food supplies, taking small nibbles only, and live off the sea. In the open sea, out of sight of land, fish are generally safe to eat. Nearer shores, reefs, and lagoons, normally edible fish (like Red Snapper and Barracuda) can be poisonous.",
+                    "### FISHING RULES\n\n*   Do NOT handle fishing line with bare hands and never tie it to an inflatable dinghy; salt makes the line razor-sharp. Wear gloves.\n*   Fish are attracted to the shade of a raft. Pass a net under the keel to catch them.\n*   Use a torch or moon reflections (on tinfoil or metal) to attract fish at night.\n*   Improvise hooks from pocket-knives, wire, or buckles. Keep spinners moving. Use fish offal for bait.\n*   Fish spoils quickly. In the tropics, eat immediately. In cooler zones, clean, gut, and dry excess fish in the sun.",
+                    "### CATCHING BIRDS\n\nBirds are attracted to rafts. Keep still until they settle to grab them. Alternatively, catch them using lines trailed with a diamond-shaped tin gorge wrapped in fish. When the bird swallows it, the gorge lodges across its gullet.",
+                    "### SEAWEED & PLANKTON\n\n*   Floating Sargassum seaweed can be gathered using a makeshift grapple hook. Raw seaweed is tough and salty; do not eat it when water is short. However, shake the weed over the boat to collect small edible crabs, shrimps, and fish.\n*   Plankton can be strained from the water using fine mesh cloth and provides an excellent food source."
+                ]
+            },
+            {
+                "title": "Dangerous Sea Creatures",
+                "subtitle": "Poisonous fish, sharks, and landing on shores.",
+                "imageName": "sea.jpg",
+                "textSections": [
+                    "### TOXIC FISH & JELLYFISH\n\nMany reef fish have toxic flesh (liver, intestines, eggs). Toxins are water-soluble and heat-resistant; cooking does NOT neutralize them. They cause numbness, temperature-reversal sensations (cold feels hot), vomiting, paralysis, and death. Rays have poisonous tail barbs, and Stonefishes/Toadfishes have venomous spines. Avoid jellyfish and the Portuguese Man-of-War; their trailing streamers carry painful toxins.",
+                    "### AGGRESSIVE FISH\n\nAvoid Barracudas (will charge shiny objects), Sea Bass, Moray Eels, and venomous sea snakes.",
+                    "### SHARK DEFENSE\n\nSix sharks account for most casualties: Great White, Mako, Tiger, Hammerhead, Bull, and Grey Nurse. Sharks locate prey by smell and water vibrations. They are attracted by blood, waste, and weak, fluttering movements. Regular, strong swimming strokes repel them.\n\n*   **In the water**: Avoid passing waste; if you must urinate, do so in short spurts. If threatened in a group, bunch together, face outwards, and kick/punch the snout using a stiff arm. Shout underwater.\n*   **On a raft**: Do not trail limbs. Do not fish or dump offal when sharks are present. Jab the snout with a paddle. If you catch a small shark, club it hard on the head before bringing it aboard. Do not attempt this with large sharks; cut the line.",
+                    "### MAKING A LANDFALL\n\nWhen approaching land, select a beaching point away from rocks. Take down the sail and watch for currents. A sloping beach with small surf is ideal. Paddle hard on the back of a breaker to ride it in. In heavy surf, turn to face seaward and paddle into oncoming waves.\n\n*   If floating into an estuary, reach a bank quickly; the ebb tide can sweep you back out. If swept out, ballast the dinghy with water and stream the sea anchor.\n*   **Swimming ashore**: If swimming onto rocks in heavy surf, keep clothes, shoes, and lifejacket on. Raise your legs in front of you to take the impact on the soles of your feet, bending your knees to absorb the shock."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Rescue",
+        "description": "Signaling systems, distress codes, rescue patterns, helicopter coordination, and the Lows Gully case study.",
+        "articles": [
+            {
+                "title": "Signaling Basics",
+                "subtitle": "Emergency distress calls, mobile phone use, and vehicle wreck signals.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "The first requirement for rescue is to let others know of your situation and, if possible, your location. Once you are in contact you can pass on other information. If you have a working mobile or satellite phone, use it sparingly to conserve batteries.",
+                    "If you don't have phone systems, use internationally recognized distress signals. The letters SOS (Save Our Souls) is the best known. It can be written, transmitted by radio, spelt out by semaphore, or sent in Morse code by any method. The signal 'Mayday' (from French m'aidez - help me) is used in radiotelecommunications by ships and planes.",
+                    "### WRECKAGE UTILITY\n\nIf you are with a stranded vehicle or downed aircraft, it provides many signaling aids:\n*   **Fuel and Oils**: Burn fuel, oil, and hydraulic fluid. Tyres and electrical insulation generate dense black smoke.\n*   **Reflectors**: Glass, chrome, engine cowlings, and hubcaps make great reflectors.\n*   **Bright Materials**: Arrange colourful lifejackets, dinghies, and parachutes around your location to catch attention.\n*   **Lights and Horns**: Keep battery power in reserve to flash headlamps or sound the horn when searchers are observed."
+                ]
+            },
+            {
+                "title": "Fire and Smoke Signals",
+                "subtitle": "Setting signal fires, site selection, and smoke colors.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "Fire and smoke are excellent ways of attracting attention. Establishing signal fires is one of the primary tasks once immediate treatment and shelter needs are met. Gather fuel for campfires and signal fires as soon as possible.",
+                    "### SITING SIGNALS\n\n*   Choose high points for light signals. Erect an unusual silhouette on a ridge.\n*   If laying out ground marks, use level ground or slopes that are visible during aerial searches.\n*   *Ridge Tip*: Planes fly over hilly territory from lower to higher ridges. Slopes behind ridges may be hidden. Siting signals near the tops of ridges ensures visibility from either direction.\n*   Do not build fires under trees; the canopy blocks the signal. Place them in clearings. If by a lake or river, build rafts to place fires on and anchor them.",
+                    "### FIRE TYPES\n\n*   **Three Fires**: Three fires placed in a triangle or a straight line is an internationally recognized distress signal. Keep them prepared and covered to stay dry.\n*   **Torch Trees**: For small isolated trees, build a fire between the boughs using dry twigs. If the tree is dead, start a fire at its base. It will burn for a long time. *Warning*: Do not risk starting a forest fire.\n*   **Luminous Cone Fires**: Make a tripod with a platform to support the fire, keeping tinder off damp ground. Cover the cone with evergreen boughs to keep it dry. If parachute fabric is available, cover the tripod to keep it dry and noticeable by day, stripping it off before ignition.",
+                    "### SMOKE INDICATORS\n\nUse smoke during daylight to locate your position, adjusting materials based on the environment:\n*   **Light Smoke**: Stands out against dark earth or forest. Produce it with green grass, leaves, moss, ferns, and damp mats.\n*   **Dark Smoke**: Shows best against snow or desert sand. Use rubber, tyres, or oil.\n*   *Wind & Display*: Ensure smoke is downwind of the landing site and panel codes so it does not obscure them from above."
+                ]
+            },
+            {
+                "title": "Ground-to-Air Panel Codes",
+                "subtitle": "International emergency markings and visual codes.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "These symbols are internationally recognized emergency signals. Remember the main ones with the mnemonic **FILL** (Food, Injury, Illness, Location). The single bar 'I' is the most important.",
+                    "### VISUAL PANEL CODE KEY\n\n*   `I` : Serious injury - immediate casualty evacuation needed (NEED DOCTOR)\n*   `II` : Need medical supplies\n*   `F` : Need food and water\n*   `N` : Negative (No)\n*   `Y` or `A` : Affirmative (Yes / All well)\n*   `L` : All is well\n*   `X` : Unable to move on\n*   `K` : Indicate direction to proceed\n*   `->` : Am moving in this direction\n*   `JL` : Do not understand\n*   `[]` : Need compass and map\n*   `Triangle` : Think safe to land here\n*   `LL` : Aircraft badly damaged",
+                    "### DISPLAY PARAMETERS\n\nMake panel codes as large as possible. The recommended size is **10m long and 3m wide (34ft x 10ft)** for each symbol, with 3m (10ft) between symbols.",
+                    "Lay them in the open, avoiding steep gullies, ravines, or reverse slopes. Improvise with wreckage, or dig shallow trenches, banking the earth to increase shadow depth. Use rocks or boughs. On snow, tramping out the symbols works well.",
+                    "### MORSE CODE CORE WORDS\n\nCarry a copy of the Morse code on your person. Learn these essential codes:\n*   **SOS**: `... --- ...`\n*   **HELP**: `.... . .-.. .--.`\n*   **INJURY**: `.. -. .--- ..- .-. -.--`\n*   **TRAPPED**: `- .-. .- .--. .--. . -..`\n*   **LOST**: `.-.. --- ... -`\n*   **WATER**: `.== .- - . .-.``"
+                ]
+            },
+            {
+                "title": "Heliograph and Light Signals",
+                "subtitle": "Directing mirror flashes and transmitter procedures.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "### HELIOGRAPH SIGNALING\n\nUse the sun and a reflector to flash light signals. Tin lids, glass, foil, or mirrors can be used. Long flashes represent dashes, quick ones represent dots. Sweep the horizon. If a plane approaches closely, flash intermittently to avoid dazzling the pilot. Once seen, STOP signaling.",
+                    "### SIGHTING METHODS\n\n*   **Double-sided Reflector**: Sight the target through the central hole. Angle the mirror so the dot of light on your face disappears back through the hole, aligning it with the target.\n*   **Single-sided Reflector**: Cast the sun reflection onto a nearby surface (the ground or a hand) and line it up with the target.",
+                    "### RADIO TRANSMITTERS\n\nShip and plane emergency transceivers are often preset to fixed distress channels (121.5 and 243 MHz) with a range of about 32km (20 miles). Conserve batteries by transmitting in structured patterns rather than continuous broadcasts.",
+                    "### BODY SIGNALS\n\n*   **Pick us up**: Arms raised vertically overhead.\n*   **Need mechanical help**: One arm raised, pointing to the ground, other arm horizontal.\n*   **Land here**: Arms pointing down at the ground.\n*   **Do NOT land here**: Both arms crossed overhead.\n*   **Yes**: Wave a white cloth horizontally.\n*   **No**: Wave a white cloth vertically."
+                ]
+            },
+            {
+                "title": "Search Patterns",
+                "subtitle": "How search patrols operate on land and sea.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "A search starts from the last known location and sweeps along the proposed route. Understanding search patterns helps you place signals effectively.",
+                    "### STANDARD SEARCH PATTERNS\n\n*   **Base Line (Box Search)**: Conducted when high winds or bad weather occur. Searchers check the lee sides of ridges and slopes for shelter.\n*   **Watercourse Search**: Follows the main stream and checks all tributaries. Used if the last known position was on or near a river.\n*   **Fan Search**: Used when the last known position is certain, but the travel direction is unknown. Sweeps out in a fan shape.\n*   **Creeping Line**: Parallel sweeps toward and away from the sun. The sun angle highlights reflections from wreckage.",
+                    "### TRACKS AND CONTOURS\n\n*   **Track Crawl**: Parallels both sides of the expected flight path. Aircraft fly one hour, then reverse.\n*   **Square Search**: Works outward in a square from the last known position.\n*   **Contour Search**: Follows the contours of mountains and valleys, sweeping several times to cover steep drops."
+                ]
+            },
+            {
+                "title": "Helicopter Rescue",
+                "subtitle": "Landing zone preparations, winching, and safety guidelines.",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "Helicopters carry out the actual rescue. Prepare a landing site at ground level to minimize risks.",
+                    "### LANDING ZONE PREPARATION\n\n*   **Dimensions**: A level, cleared area at least **26m (85ft)** in diameter is required. Clear a further 5m (17ft) buffer to a height of 60cm (2ft).\n*   **Approach & Exit**: Obstruction-free paths are needed into the prevailing wind (no obstacles within a 15-degree angle of the pad).\n*   **Slope**: The landing gradient must not exceed 7 degrees (a slope of 1 in 10).\n*   **Ground**: Must be firm and free of loose material (leaves, twigs). Stamp down soft snow to prevent downwash blinding. Water dry ground to prevent dust.",
+                    "### MARKINGS & HIGH ALTITUDE\n\n*   Mark the touchdown point with a large **H** using rocks, clothing, or panels. Indicate wind direction using smoke (downwind of the pad) or a large 'T' (horizontal bar upwind).\n*   The payload of a helicopter is reduced at high altitudes. If possible, select a landing site below **1830m (6000ft)**.",
+                    "### APPROACH RULES\n\nRotors remain turning during touchdown. Follow these rules:\n*   **NEVER approach from the rear**. This is a blind spot and the tail rotor is dangerous.\n*   On sloping ground, approach from the downslope (uphill direction) to stay below the rotor blades. Never approach from upslope.\n*   Stow all radio aerials. Hold carrying poles horizontally, never vertically.",
+                    "### WINCH LIFTING\n\nIf a landing is impossible, winching is used:\n*   **Double Lift**: A crewman is lowered with a second strop. He wraps his legs around your midsection and supports your head.\n*   **Single Lift**: Put the strop under your armpits, tighten the grommet, and give a 'thumbs up' sign. Once lifting begins, keep your arms down at your sides. If you raise your arms, you risk slipping out."
+                ]
+            },
+            {
+                "title": "Survival Case Study",
+                "subtitle": "The Lows Gully Expedition",
+                "imageName": "rescue.jpg",
+                "textSections": [
+                    "This case study highlights the dangers of inadequate planning, group splits, and traveling without signaling gear.",
+                    "In 1994, an expedition of two British officers and three Hong Kong Chinese soldiers descended into Lows Gully on Mount Kinabalu in Malaysia. The plan was to travel light; they carried 10 days' rations and a video camera, but **no radio and no flares**.",
+                    "By the third day, the team split because some members were not in shape for the descent. The fittest forged ahead while the second group rested, planning to follow later. When the second group began, slow progress with novice climbers left them with only 3 days' rations.",
+                    "Torrential mountain rains flooded the gully. The advance team became separated during the struggle through dense undergrowth. Two members continued, running out of food and becoming violently ill after eating toxic forest plants.",
+                    "The Malaysian Army and a Royal Air Force rescue team launched a massive search. After 10 days, a Malaysian helicopter spotted the stranded second team. They were rescued **31 days** after setting out.",
+                    "> [!IMPORTANT]\n> **Lessons learned**: Plan adequately, keep the group together, do not underestimate the environment, and always carry signaling gear (flares, radios) and emergency survival supplies."
+                ]
+            }
+        ]
     }
 ]
 
