@@ -1670,33 +1670,121 @@ Clouds are the most reliable short-term weather indicators. The higher the cloud
         "description": "Urban survival strategies, natural disasters (earthquakes and floods), and fire safety.",
         "articles": [
             {
-                "title": "Urban Survival",
-                "subtitle": "Surviving grid failures, civil unrest, and food shortages.",
+                "title": "Drought and Water Storage",
+                "subtitle": "Water preservation, cistern pits, and sanitation hygiene.",
                 "imageName": "disaster.jpg",
                 "textSections": [
-                    "In an urban disaster where grid services fail, your primary goals are securing clean water, food, and security. Store municipal water immediately in bathtubs and containers before pressure drops. Assume all tap water is contaminated and boil it.",
-                    "Establish a secure, defensible space in your home. Block windows, reinforce entryways, and remain quiet to avoid attracting attention. Keep a low profile and avoid traveling outside unless necessary.",
-                    "Have an evacuation plan (bug-out plan) ready with pre-packed bags for each family member in case you are forced to leave. Know multiple escape routes out of the city that avoid main highways, which will be gridlocked."
+                    "Drought, caused by long periods of dry weather or insufficient rainfall, creates desert in areas where it is a permanent condition. Elsewhere, drought may be a regular seasonal feature for part of the year. In temperate regions, if rainfall drops far below the normal, periodic drought may be produced with vegetation unable to obtain water. In cases where the dry spell may not be so obvious, a condition known as 'invisible drought' occurs, causing deprivation right through the food chains.",
+                    "### FIRE RISK & HYGIENE\n\n*   **Carcass Burial**: The corpses of dead animals must be buried in deep graves or burned to remove sources of infection. Because drought leaves everything tinder dry, the risk of fire spreading is considerable. If you must have a fire, dig down to bare earth, keep the fire small and attended at all times.\n*   **Sewer Seals**: In houses, lack of water for sanitation can bring the risk of infection. If the water level in a water closet no longer seals the S-bend, disease may spread from the sewers. Do not use the WC but leave sufficient water in the bowl to form a barrier. Make an outdoor latrine instead. Clean hands after defecation and before preparing food, even when water is short.",
+                    "### WATER STORAGE PITS\n\nStore as much water as possible and use it wisely. Keep it covered and shaded to avoid evaporation. Dig a pit for a storage cistern in a shady spot, avoiding tree roots. Line it with a polythene sheet or with cement (allow the cement to thoroughly dry before filling). In a clay area, dig a pit and line it with clay. Building the concrete or clay up into a partial dome helps keep the contents cool and leaves a smaller opening to cover.",
+                    "> [!IMPORTANT]\n> NEVER waste water. Water used for cooking can later be used for washing. Boil all drinking water. High ground shows greater variation between day and night temperatures, offering a better chance of dew collection in the early morning.",
+                    "> [!WARNING]\n> *   Be especially careful of contamination of water supplies. Disease from dead animals may be rampant. Boil all water.\n*   Flies may be a serious problem - ensure all foodstuffs are covered. Protect from dust as topsoil is blown away.\n*   When nature is disturbed, normally docile animals can act abnormally. Crazed by thirst, they may attack."
                 ]
             },
             {
-                "title": "Earthquakes and Floods",
-                "subtitle": "Survival procedures during tremors and heavy flooding.",
+                "title": "Forest and Wildfires",
+                "subtitle": "Wind tracking, escapes, and vehicle/earth shelters.",
                 "imageName": "disaster.jpg",
                 "textSections": [
-                    "During an earthquake: Drop, Cover, and Hold On. Get under a sturdy table or desk and hold onto it. Keep away from windows and heavy furniture. If outdoors, move to an open area away from buildings, power lines, and trees.",
-                    "In a flash flood, move to high ground immediately. Never walk or drive through flowing water; just 6 inches of moving water can knock you off your feet, and 2 feet can sweep a car away.",
-                    "If trapped in a building during a flood, climb to the roof rather than the attic to avoid becoming trapped by rising water. Signal rescuers from the rooftop using bright fabrics or flashing lights."
+                    "Fire requires heat, fuel and oxygen. The first sign of an approaching forest fire will be the smell of smoke, followed by the sound of the fire. You may notice unusual animal behaviour before realizing the cause. If caught in an area where fire is raging, do NOT immediately flee unless the fire is very close.",
+                    "### ESCAPE ROUTE\n\n*   Do NOT discard clothing; it shields you from the radiated heat.\n*   Smoke indicates the wind direction; the fire travels fastest in that direction. If the wind is blowing away from you toward the fire, move INTO the wind.\n*   Head for natural fire breaks like rivers or roadways. A river is the best break; you are reasonably safe in the water.\n*   Fire travels faster uphill, so do NOT make for high ground.\n*   If you can neither skirt nor outdistance the blaze, take refuge in a large clearing, deep ravine, watercourse, or gully.",
+                    "### RUNNING THROUGH FLAMES\n\nIf the fire front is not too deep, run through the flames to already burned-out land. Cover exposed skin. If water is available, pour it over clothing, hair, and flesh. Dampen a piece of cloth to cover your nose and mouth. Thick vegetation burns fiercely, so choose your breakthrough spot with care. Take a deep breath and RUN.",
+                    "### FIRE SMOTHERING\n\nIf fire-beating equipment is available (twigs or spade-shaped rubber beaters), do NOT beat rapidly; that fans the flames and spreads sparks. Smother the fire by bringing the beater down over the flames to extinguish them. If no equipment is available, use a coat, blanket, or leafy branch.",
+                    "### VEHICLE SHELTER\n\nIf caught in a forest fire in a vehicle, stay inside, windows shut, and turn off ventilation. The car provides protection from radiant heat. Drive away if possible; if immobilized, stay put. People have survived by staying in a vehicle until the glass began to melt, whereas running outside would have killed them.",
+                    "### GOING TO EARTH\n\nIf there is no break and the fire is too deep to run through, seek the protection of the earth. Scrape a hollow, throw earth onto a coat or cloth, and pull it over you with its earth covering. Cup your hands over your mouth and nose to cool and filter hot air and sparks. Try to hold your breath as the fire passes. *Warning*: Risk of suffocation is high.",
+                    "### FIGHTING FIRE WITH FIRE\n\nIf the main fire is still some distance away, burn a patch of ground before it reaches you. With nothing left to ignite, the main fire cannot advance, creating a place of refuge. Light your own fire along a line at least 10m (preferably 100m) wide. It will burn in the same direction, creating a break you can move into. *Warning*: Winds may swirl; do not attempt this unless desperate."
                 ]
             },
             {
-                "title": "Fire and Smoke",
-                "subtitle": "Evacuation procedures, smoke filtering, and burn care.",
+                "title": "Burning Buildings and Evacuation",
+                "subtitle": "Containing fires, lift hazards, and dropping from heights.",
                 "imageName": "disaster.jpg",
                 "textSections": [
-                    "If caught in a burning building, stay low to the floor where the air is cleaner and cooler. Smoke and toxic gases rise. Cover your mouth and nose with a wet cloth to filter out smoke particles.",
-                    "Feel doors with the back of your hand before opening them; if hot, do not open, as fire is on the other side. Use secondary exits like windows if blocked.",
-                    "If your clothes catch fire, Stop, Drop, and Roll to smother the flames. Treat minor burns with cool, running water for 10 minutes—never apply butter, grease, or ice."
+                    "Smoke is usually the first indication of a building fire. Smother small fires with a blanket or curtain to deprive them of oxygen, or use sand, water, or extinguishers.",
+                    "### ELECTRICAL FIRES\n\nIf the fire is caused by an electrical fault, turn off power at the mains before using water. Turn off gas too.\n\n> [!WARNING]\n> If television sets or computer monitors (VDUs) catch fire, do NOT use water on them. Residual electrical charges can deliver a fatal shock, and cold water can cause the tube to explode. Smother them and approach from behind.",
+                    "### EVACUATION RULES\n\nIf the fire is too big to fight, evacuate. Close all doors and windows to contain the fire. Fire travels upwards faster than downwards. Staircases, lift-wells, and ventilation shafts are dangerous. NEVER use a lift during a fire; use a smoke-free staircase.",
+                    "Before opening any door, feel the doorknob with the back of your hand. If warm, do NOT open. Open doors only a crack while bracing your foot against them to prevent the pressure of hot gases from forcing them wide open. Crouch low to avoid smoke, and close doors behind you.",
+                    "### WAITING FOR RESCUE\n\nIf isolated, go to a room as far from the fire as possible (not on a higher level). Choose a room with soft ground outside (lawns, flowerbeds) rather than concrete. Close the door and pack any gaps with mats, curtains, or wet cloths. Attract attention through the window.",
+                    "To break windows, use furniture. If using a hand, wrap it first; an elbow protected by a thick jacket is also effective. Do not bring your limb back quickly through broken glass.",
+                    "### PREPARING TO DROP\n\nIf no rescue is coming, drop from the window. Tie sheets, blankets, or mats together using reef knots and test them. Secure one end to heavy furniture, heating pipes, or the window frame. Drop cushions, pillows, or mattresses below to soften your landing. Lower yourself out and hang from the sill to reduce the fall distance. Do NOT jump unless caught in a blanket.",
+                    "### THE FALL TECHNIQUE\n\nProtect your head with a motorcycle helmet, or a jersey/towel wrapped like a turban. Push yourself away from the building with the side of one foot. As you let go, turn away from the wall, bend your knees, and leave your arms up to protect the sides of your head. Land on the balls of your feet, bend your knees fully, and roll over onto one side or somersault forward to distribute the impact."
+                ]
+            },
+            {
+                "title": "Vehicle Fires",
+                "subtitle": "Car engine fires, passenger cabin fumes, and aircraft safety.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "The greatest danger with cars is the fuel tank igniting and exploding. The aim is to control the fire before it reaches the tank. Fuel lines (if not armoured) usually catch fire first, acting as a fuse to the tank.",
+                    "### IN A GARAGE\n\nIf a car catches fire in a garage, smoke and toxic fumes build up quickly. If you cannot put it out, remove the car from the building. Do NOT get inside. Push or pull it. If the car has a button starter, select low gear or reverse and use the starter motor to bounce the car out. With conventional ignition, turn the key in short bursts. The car will jerk forward violently.",
+                    "> [!IMPORTANT]\n> Keep your fire extinguisher in the passenger compartment where you can reach it immediately, NOT in the boot/trunk. An impact could distort the boot lid and trap the extinguisher.",
+                    "### EXITING & FUMES\n\nIf doors jam in a crash, kick the windscreen out. If the fire is inside, use the extinguisher or smother it with a rug. Synthetic upholstery materials burn rapidly and release toxic gases; exit immediately once flames are out. If fire is on the outside (spilt fuel), keep windows shut, drive out of the danger zone, and abandon the car.",
+                    "### AIRCRAFT FIRES\n\nAeroplanes have automatic engine extinguishers and hand-held cabin units. Summon cabin crew immediately if you suspect fire. Smother small cabin fires with blankets or clothing. The main dangers occur during takeoff/landing when fuel tanks may rupture."
+                ]
+            },
+            {
+                "title": "Chemical and Biological Warfare",
+                "subtitle": "Toxins, pathogens, skin penetration, and decontamination.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "Biological agents fall into two groups: pathogens (living germs like anthrax) and toxins (poisons). Germs must be inhaled, enter through broken skin, or be digested. They have incubation periods of hours to months. Toxins are naturally occurring or manufactured poisons. Unlike germs, toxins can penetrate unbroken skin, and their symptoms (paralysis, convulsions, blisters, shock) appear immediately.",
+                    "### PROTECTION & TUCKING\n\nIf you suspect biological agents:\n1. Wrap a damp cloth around your mouth and nose to filter inhalation.\n2. Cover all exposed skin, buttoning/zipping up clothing.\n3. Tuck trousers into socks and wear gloves.\n4. Leave the area immediately.",
+                    "### DECONTAMINATION\n\nOnce out of the danger zone, wash thoroughly with soap and hot water. Clean your teeth, hair, and fingernails. Wash all clothing and equipment in hot, soapy water.",
+                    "### ANTHRAX WARNING\n\nAnthrax is carried by animals and transmitted from dead carcasses. Signs on a carcass include bloating, incomplete rigor mortis, and dark blood oozing from the nostrils and anus. Avoid contact, wash thoroughly if exposed, and seek antibiotics. Early human signs are pustules with dark centres.",
+                    "### CHEMICAL AGENTS\n\nChemical agents exist as liquids, gases, or aerosols. They affect breathing, nerves, or blood. Look for coughing, itching, tears, and a wasted landscape with limp vegetation. Learn these indicator smells:\n*   **Almonds**: Indicates a blood agent.\n*   **Newly Cut Grass**: Indicates a choking agent.\n\nCover the body with waterproof garments, goggles, and masks. Decontaminate immediately after escaping."
+                ]
+            },
+            {
+                "title": "Gases and Industrial Spills",
+                "subtitle": "Confined spaces, Hazchem codes, and spillage zones.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "Explosive gases build up in caves and mines. In domestic settings, oxygen deficiency and carbon monoxide occur in sealed shelters. Burning plastics and synthetic materials produce highly toxic fumes during house and vehicle fires.",
+                    "### INDUSTRIAL DISASTERS\n\nIf a major chemical release occurs (such as Bhopal), stay indoors and keep all doors and windows closed. Look for warning labels where chemicals are stored (such as the yellow triangle or HAZCHEM sign).",
+                    "Avoid contact with chemicals and inhalation of fumes. Flush skin spillages with copious amounts of water. *Warning*: Adding water to some chemicals can cause violent reactions. AVOID touching anyone contaminated with chemicals, and do NOT give mouth-to-mouth resuscitation until you know what chemicals are involved.",
+                    "### ROAD & RAIL ACCIDENTS\n\nKeep well clear of accidents involving bulk tankers. Spillages may be visible, but gas escapes are often invisible. If not trained and equipped, do NOT attempt to fight chemical fires. Call the emergency services and keep back.",
+                    "Hazardous chemical tankers carry panel warning codes (such as the British Hazchem code, EC ADR signs, or UN EAC codes) which instruct emergency teams on water use, respirators, and evacuation. A final letter **E** in the British code is an instruction to **EVACUATE** the area. If you see these signs, keep your distance."
+                ]
+            },
+            {
+                "title": "Floods and Tsunami Evacuation",
+                "subtitle": "Flash floods, staying put, and tsunami shoreline warnings.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "Flooding is caused by overflowing rivers, dam collapses, heavy storms, or sub-ocean earthquakes. Rainy spells after dry seasons can rapidly produce torrents in dry riverbeds, creating a rushing wall of water.",
+                    "### FLASH FLOODS\n\nKeep clear of water channels and low-lying ground. Camp on a spur. Flash floods are common in valley bottoms; avoid them during storms. If trapped by water, collect rainwater to drink; floodwater is contaminated. Boil all non-rain water.",
+                    "### FLOODED BUILDINGS\n\nIf in a solid building, stay there rather than evacuating on foot. Turn off gas and electricity. Gather emergency food, warm clothes, matches, candles, camp stoves, and seal drinking water in screw-topped plastic bottles to avoid contamination.",
+                    "Move to an upper floor, or onto the roof if in a single-storey building. Tie everyone to a chimneyshaft or solid structure using sheets or ropes. Stay until the water stops rising, preparing a raft as a backup.",
+                    "### ROAD ESCAPES\n\n*   Do NOT attempt to cross a pool or stream unless you are CERTAIN the water is below the centre of the car's wheels or below your knees.\n*   If crossing, use river-crossing wading techniques.\n*   Take extreme care on submerged bridges; the road beneath may have been swept away.",
+                    "### FLOOD AFTERMATH\n\nReceding waters leave silt, debris, and animal carcasses. Burn all animal corpses to prevent disease; do NOT eat them. Boil all drinking water.",
+                    "### TSUNAMI WARNING\n\nA tsunami is a series of ocean waves up to 30m (98ft) high caused by submarine earthquakes. Keep away from shores and take to high ground when you feel tremors. Do NOT go to look for a tsunami; if you are close enough to see the wave, you are too close to escape."
+                ]
+            },
+            {
+                "title": "Hurricanes and Tornadoes",
+                "subtitle": "Cyclones, barometric drops, and pressure equalization.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "A hurricane is a wind exceeding force 12 on the Beaufort Scale (above 120kph / 74mph). They are known as hurricanes in the Atlantic, cyclones in the Indian Ocean, typhoons in the Pacific, and willy-willies in Australia. They develop over warm summer oceans, creating a low-pressure core. Winds rotate anti-clockwise in the North, clockwise in the South. The centre (eye) is temporarily calm.",
+                    "### HURRICANE WARNINGS\n\nWarnings are issued 24 hours in advance. Indicators of an approaching storm without radio include a rising swell, highly coloured sunsets, converging cirrus cloud banners, and a rapid barometric pressure drop.",
+                    "### SHELTER RULES\n\n*   Keep away from the coast (tidal waves) and river banks.\n*   Board up windows and secure outdoor objects.\n*   At sea, take down all canvas, batten hatches, and stream the sea anchor.\n*   In a solid building, stay in the cellar or under the stairs. Store drinking water. Shut off power.\n*   Outdoors, shelter in a cave, ditch, or the lee side of a rocky outcrop. Lie flat. Avoid small trees.\n*   *The Eye*: Stay put when the wind drops. The eye brings a short calm, followed by winds from the opposite direction. Move to the other side of your windbreak.",
+                    "### TORNADOES (TWISTERS)\n\nTornadoes are violent whirling winds descending from cumulonimbus clouds. Wind speeds reach 620kph (385mph). The funnel at ground level is 25-50m (80-160ft) wide, sucking up everything in its path. Tornadoes travel at 50-65kph (30-40mph) and sound like a spinning top, audible up to 40km away.",
+                    "### TORNADO PRECAUTIONS\n\n*   Shelter in a storm cellar or concrete building. Stay close to outside walls, under sturdy furniture.\n*   **Open and Closed Doors**: Open windows on the side of the house opposite the tornado's approach, and close doors/windows on the facing side. This equalizes pressure and prevents the house from 'exploding'.\n*   Do NOT stay in a caravan or car.\n*   If caught outdoors, move at right angles to the tornado's path. Lie flat in a ditch and cover your head."
+                ]
+            },
+            {
+                "title": "Lightning and Earthquakes",
+                "subtitle": "Electrostatic insulation, tectonic ruptures, and structural shelter.",
+                "imageName": "disaster.jpg",
+                "textSections": [
+                    "### LIGHTNING DANGERS\n\nKeep away from hill brows, tall trees, metal fences, and lone boulders. Make for low, level ground.",
+                    "### INSULATION TECHNIQUE\n\nIf you cannot get away from tall objects, sit on dry insulating material (a dry coil of climbing rope or rubber-soled shoes). Do NOT sit on anything wet. Bend your head down, hug your knees to your chest, and lift your feet off the ground. Do not touch the ground with your hands. If no insulation is available, lie flat.",
+                    "If you feel a skin tingling or hair standing on end, drop to your knees immediately with hands touching the ground. This directs the charge through your arms to the earth, bypassing vital organs. Then quickly lie flat. Do not hold metal tools.",
+                    "### CAVE SHELTER\n\nShelter at least 1m (3ft) inside a deep cave with 1m clearance on either side. Do NOT shelter in cave mouths or overhangs; lightning can spark across the gap. Avoid wet rock fissures.",
+                    "### EARTHQUAKES\n\nEarthquakes are caused by tectonic ruptures releasing tension in the crust. Shock waves are preceded by foreshocks (tremors) and seismic quiet. Tectonic plates shift along faults (such as the San Andreas Fault). Animals act crazed or run before tremors start.",
+                    "### DOMESTIC PRECAUTIONS\n\nRemove heavy objects from high shelves. Shelves should have lips or low barriers. Store water, food, torches, and extinguishers. Keep away from windows and brick chimneys.",
+                    "### INDOORS & UNDER FURNITURE\n\nIf indoors, stay there. Douse fires. Stay away from glass and windows. Shelter in inside corners, supported doorways, or cellars. Get beneath a table or desk which provides an air space. In high-rise offices, stay put; never use a lift.",
+                    "### OUTDOORS & IN CARS\n\nIf outdoors, move to an open area away from buildings, power cables, and trees. Masonry falling from buildings poses the greatest street risk. If in a car, stop safely away from bridges or overpasses, stay inside, and crouch below seat level."
                 ]
             }
         ]
