@@ -1163,5 +1163,71 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Urban Survival",
+        "description": "City safety, home security, self-defense tactics, threat awareness, and everyday carry (EDC) guidelines.",
+        "articles": [
+            {
+                "title": "Urban Mindset & Security",
+                "subtitle": "Navigating the concrete jungle and home fortifications.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "Survival is not restricted to the wilderness. The 'concrete jungle' of modern cities poses its own unique set of hazards. The primary rule of urban survival is awareness: recognizing potential threats, keeping a low profile, and planning safety corridors ahead of time.",
+                    "### HOME SECURITY BASICS\n\nYour home should be your primary sanctuary. Protect it against intrusion and break-ins:\n*   **Doors & Frames**: Install solid wood or steel-reinforced exterior doors. Reinforce wooden door frames with steel strike plates and use heavy-duty hinges with non-removable pins.\n*   **Locks**: Use high-quality deadbolts with a minimum 1-inch throw. Change locks immediately when moving into a new residence.\n*   **Windows**: Fit positive latches on all sliding windows. Install window security grills or shatter-resistant laminate films on ground-floor panes.",
+                    "### INTRUDER DETERRENTS\n\nMake your home an unappealing target. Keep the perimeter well-lit using motion-sensor floodlights. Trim high shrubs or tree branches near windows that could provide cover for intruders. Install visible security cameras and alarm system decals even if operating on a budget, as visual deterrence is highly effective."
+                ]
+            },
+            {
+                "title": "Street Safety",
+                "subtitle": "Threat profiling, transit protocols, and crowd navigation.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "Traveling on city streets requires constant situational awareness. Avoid displaying valuables (expensive watches, jewelry, or large amounts of cash) that highlight you as a target. Walk with confidence, head up, and maintain an active scan of your surroundings.",
+                    "### STREET AWARENESS\n\n*   **Safe Positioning**: Walk on the street-side of the pavement, facing oncoming traffic, to avoid being dragged into dark alleyways or vehicles.\n*   **Profiling Hazards**: If you notice individuals loitering or following you, cross the street immediately or head toward a brightly lit, populated business.\n*   **Transit Safety**: On public transit, sit near the driver or conductor. Avoid empty carriages. Stay alert near exit doors where 'snatch-and-run' thefts are most common.",
+                    "### CROWD STAMPEDES\n\nIf caught in a panicking crowd or stampede, do not fight the current. Move diagonally with the flow of the crowd, keeping your elbows tucked into your chest and hands up to protect your airway. If you drop an item, leave it; falling in a stampede can be fatal. If you do fall, curl into a tight ball, cover your head with your arms, and protect your vital organs."
+                ]
+            },
+            {
+                "title": "Self-Defense",
+                "subtitle": "Threat avoidance, posturing, and improvised weapons.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "The best self-defense is threat avoidance. De-escalate confrontations whenever possible; your pride is not worth your life. If physical confrontation is unavoidable, fight with absolute determination to disable the threat and escape immediately.",
+                    "### DEFENSIIVE POSTURE\n\nKeep your hands up in a passive, open-palm gesture near your chest. This protects your face, signals non-aggression to onlookers, and positions your hands for immediate blocking or striking if an attack commences.",
+                    "### IMPROVISED WEAPONS\n\nUtilize everyday carry objects to defend yourself if attacked:\n*   **Keys**: Hold a key tightly in your fist, protruding between your index and middle fingers, to use for striking.\n*   **Pens & Torches**: A heavy tactical pen or compact metal flashlight makes an excellent striking tool (kubotan style) to target nerve centers or joints.\n*   **Rolled Magazines**: A tightly rolled newspaper or magazine can be used as an effective baton for blocking strikes or thrusting."
+                ]
+            },
+            {
+                "title": "Modern Threats & Terrorism",
+                "subtitle": "Explosions, suspicious packages, and active shooters.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "Modern urban environments face threats from terrorism and active violence. Knowing how to react in the first few seconds of a crisis can determine your survival.",
+                    "### EXPLOSION PROTOCOLS\n\nIf an explosion occurs nearby:\n1. Drop to the ground immediately, face down, and cover your head with your arms.\n2. Keep your mouth slightly open to equalize pressure and protect your eardrums.\n3. Shelter under sturdy desks or interior walls away from falling glass.\n4. Evacuate immediately once the primary blast ends; watch for secondary devices and structural collapses.",
+                    "### SUSPICIOUS PACKAGES\n\nTreat unattended bags or packages in public spaces with extreme caution. Look for excessive tape, oily stains, strange smells, or protruding wires. Do NOT touch or move the item. Evacuate the immediate area and notify security or police.",
+                    "### ACTIVE SHOOTER (RUN, HIDE, FIGHT)\n\n*   **RUN**: If there is an escape path, evacuate immediately. Leave your belongings behind. Keep your hands visible for law enforcement.\n*   **HIDE**: If escape is impossible, find a secure room. Lock and barricade the door with heavy furniture. Turn off lights, silence your phone, and stay quiet behind solid cover.\n*   **FIGHT**: As a last resort when your life is in imminent danger, act with absolute aggression. Attempt to disarm and disable the shooter using improvised weapons (fire extinguishers, chairs, pens) in coordination with others."
+                ]
+            },
+            {
+                "title": "Hostage Situations",
+                "subtitle": "Survival psychology and interacting with rescue teams.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "Surviving a kidnapping or hostage situation requires mental discipline, patience, and cooperation with captors to de-escalate tension.",
+                    "### CAPTURE PSYCHOLOGY\n\n*   **Maintain Calm**: Follow instructions without arguing. Avoid sudden movements that could trigger violence.\n*   **Humanize Yourself**: Establish polite, non-threatening eye contact. Share personal details (family, health needs) if prompted, to make it harder for captors to dehumanize you.\n*   **Stay Mentally Active**: Perform mental puzzles, establish a daily exercise routine within your space, and track time using light changes or guard shifts.",
+                    "### THE RESCUE OPERATION\n\nDuring a tactical police rescue operation, the environment will be highly chaotic and violent. Follow these rules:\n1. Drop to the floor immediately, hands on your head. Do not make sudden movements toward rescuers.\n2. Do NOT run toward tactical teams or pick up discarded weapons.\n3. Remain still and cooperative; rescuers will treat everyone as a threat until identities are verified."
+                ]
+            },
+            {
+                "title": "Urban Everyday Carry (EDC)",
+                "subtitle": "Assembling a specialized urban pocket kit.",
+                "imageName": "urban.jpg",
+                "textSections": [
+                    "Just as you carry a pocket survival kit in the wilderness, you should carry an everyday carry (EDC) kit adapted for the concrete jungle. Keep these items on your person or in a compact bag at all times.",
+                    "### EDC ESSENTIALS\n\n*   **Compact Flashlight**: A bright, metal-bodied LED torch for navigating blacked-out buildings, signaling, or self-defense.\n*   **Multi-tool**: Compact pliers, screwdrivers, and cutting blades for basic mechanical tasks or escape operations.\n*   **Door Wedge**: A simple rubber door wedge can be used to lock yourself in a room or secure a door from the inside during a threat.\n*   **Cash Reserve**: Keep emergency cash in small denominations hidden on your person, in case card networks or ATMs fail during grid collapses.\n*   **Emergency Contact Card**: A laminated card containing phone numbers, medical history, and pre-arranged emergency family meeting points."
+                ]
+            }
+        ]
     }
 ]

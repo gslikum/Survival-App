@@ -166,6 +166,16 @@
                                 <Label Grid.Row="1" Text="RESCUE" TextColor="White" FontSize="11" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" Margin="5"/>
                             </Grid>
                         </Frame>
+
+                        <Frame Grid.Row="3" Grid.Column="2" Padding="0" BorderColor="{StaticResource Gray600}" BackgroundColor="{StaticResource OffBlack}" HasShadow="True" CornerRadius="8">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnChapterTapped" CommandParameter="Urban Survival"/>
+                            </Frame.GestureRecognizers>
+                            <Grid RowDefinitions="*, Auto" HeightRequest="100">
+                                <Image Grid.Row="0" Source="urban.jpg" Aspect="AspectFill" Opacity="0.65"/>
+                                <Label Grid.Row="1" Text="URBAN" TextColor="White" FontSize="11" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" Margin="5"/>
+                            </Grid>
+                        </Frame>
                     </Grid>
                     <!-- SOS Signaler Quick Action -->
                     <Frame BorderColor="{StaticResource Gray600}" BackgroundColor="{StaticResource OffBlack}" Padding="15" Margin="0,10,0,0">
